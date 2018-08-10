@@ -1,0 +1,693 @@
+III - The Ritual
+https://www.netflix.com/watch/80106787?trackId=251128852&tctx=1%2C2%2Ccca4431c-8b8b-428f-bc7e-76859afd999e-11285643%2C8f8f0ef9-1ee7-488c-badd-a1b766bbdedf_8795431X3XX1533873495911%2C8f8f0ef9-1ee7-488c-badd-a1b766bbdedf_ROOT
+
+filter ?o=   en network    open in new tab    and renam to any.xml
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" tts:textAlign="center" xml:id="defaultStyle"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" xml:id="region.after"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="21200000t" end="43200000t" region="region.after" style="defaultStyle" xml:id="subtitle0">Мы настолько верим в видимую реальность,</p>
+<p begin="44000000t" end="62800000t" region="region.after" style="defaultStyle" xml:id="subtitle1">что больше всего боимся смерти.</p>
+<p begin="68800000t" end="90000000t" region="region.after" style="defaultStyle" xml:id="subtitle2">Но именно страх делает нас уязвимыми.</p>
+<p begin="98000000t" end="121200000t" region="region.after" style="defaultStyle" xml:id="subtitle3">[звучит жуткая музыка]</p>
+<p begin="163600000t" end="173200000t" region="region.after" style="defaultStyle" xml:id="subtitle4">[шум ударов]</p>
+<p begin="377600000t" end="401200000t" region="region.after" style="defaultStyle" xml:id="subtitle5">[звук шагов, скрежет замка]</p>
+<p begin="452400000t" end="461200000t" region="region.after" style="defaultStyle" xml:id="subtitle6">[скрип двери]</p>
+<p begin="462800000t" end="474400000t" region="region.after" style="defaultStyle" xml:id="subtitle7">[Врач] Что тут происходит?</p>
+<p begin="475200000t" end="493600000t" region="region.after" style="defaultStyle" xml:id="subtitle8">[Медсестра] Я зашла в палату,<br/>чтобы его разбудить.</p>
+<p begin="494800000t" end="510800000t" region="region.after" style="defaultStyle" xml:id="subtitle9">[Врач] Готовьте два грамма хлоралгидрата.</p>
+<p begin="512400000t" end="521600000t" region="region.after" style="defaultStyle" xml:id="subtitle10">[звон инструментов]</p>
+<p begin="522800000t" end="539200000t" region="region.after" style="defaultStyle" xml:id="subtitle11">[Врач] После того как<br/>подействует препарат,</p>
+<p begin="540000000t" end="567200000t" region="region.after" style="defaultStyle" xml:id="subtitle12">закройте больного на ключ<br/>и никого к нему не впускайте.</p>
+<p begin="569200000t" end="589200000t" region="region.after" style="defaultStyle" xml:id="subtitle13">Завтра его отвезут на лейкотомию.</p>
+<p begin="600000000t" end="611600000t" region="region.after" style="defaultStyle" xml:id="subtitle14">[бьет головой в стену]</p>
+<p begin="728400000t" end="742400000t" region="region.after" style="defaultStyle" xml:id="subtitle15">[звук шагов]</p>
+<p begin="745200000t" end="757600000t" region="region.after" style="defaultStyle" xml:id="subtitle16">[играет жуткая музыка]</p>
+<p begin="766000000t" end="776000000t" region="region.after" style="defaultStyle" xml:id="subtitle17">[скрип двери]</p>
+<p begin="784400000t" end="796400000t" region="region.after" style="defaultStyle" xml:id="subtitle18">[Врач] Как вы это допустили?</p>
+<p begin="797200000t" end="811600000t" region="region.after" style="defaultStyle" xml:id="subtitle19">[Медсестра] Но ключ всегда был у меня!</p>
+<p begin="812400000t" end="826800000t" region="region.after" style="defaultStyle" xml:id="subtitle20">[Врач] Это значит,<br/>у кого-то есть дубликат.</p>
+<p begin="834400000t" end="850000000t" region="region.after" style="defaultStyle" xml:id="subtitle21">Завтра с начала смены зайдите ко мне.</p>
+<p begin="850800000t" end="864400000t" region="region.after" style="defaultStyle" xml:id="subtitle22">[Медсестра] Простите меня! Прошу вас!</p>
+<p begin="869200000t" end="886000000t" region="region.after" style="defaultStyle" xml:id="subtitle23">[Врач] Об этом никто не должен узнать.</p>
+<p begin="889200000t" end="906800000t" region="region.after" style="defaultStyle" xml:id="subtitle24">[звучит таинственная музыка]</p>
+<p begin="926000000t" end="944000000t" region="region.after" style="defaultStyle" xml:id="subtitle25">[звук шагов]</p>
+<p begin="991200000t" end="1004000000t" region="region.after" style="defaultStyle" xml:id="subtitle26">[шум дыхания]</p>
+<p begin="1022000000t" end="1050400000t" region="region.after" style="defaultStyle" xml:id="subtitle27">[звон колокола]</p>
+<p begin="1137200000t" end="1155600000t" region="region.after" style="defaultStyle" xml:id="subtitle28">[звучит спокойная музыка]</p>
+<p begin="1240800000t" end="1265200000t" region="region.after" style="defaultStyle" xml:id="subtitle29">[шум ветра]</p>
+<p begin="1284799999t" end="1300399999t" region="region.after" style="defaultStyle" xml:id="subtitle30">[шум дыхания]</p>
+<p begin="1318800000t" end="1332000000t" region="region.after" style="defaultStyle" xml:id="subtitle31">[плеск воды]</p>
+<p begin="1349600000t" end="1364000000t" region="region.after" style="defaultStyle" xml:id="subtitle32">[шипение]</p>
+<p begin="1504800000t" end="1517600000t" region="region.after" style="defaultStyle" xml:id="subtitle33">[cкрип лодки]</p>
+<p begin="1547200000t" end="1565200000t" region="region.after" style="defaultStyle" xml:id="subtitle34">[звучит тихая музыка]</p>
+<p begin="1601600000t" end="1615600000t" region="region.after" style="defaultStyle" xml:id="subtitle35">[плеск воды]</p>
+<p begin="1632000000t" end="1643200000t" region="region.after" style="defaultStyle" xml:id="subtitle36">[вздыхает]</p>
+<p begin="1749600000t" end="1757600000t" region="region.after" style="defaultStyle" xml:id="subtitle37">Где мы?</p>
+<p begin="1760000000t" end="1782000000t" region="region.after" style="defaultStyle" xml:id="subtitle38">[звон колокола]</p>
+<p begin="1803200000t" end="1819600000t" region="region.after" style="defaultStyle" xml:id="subtitle39">[звучит таинственная музыка]</p>
+<p begin="1877600000t" end="1892400000t" region="region.after" style="defaultStyle" xml:id="subtitle40">[жужжание насекомых]</p>
+<p begin="2246400000t" end="2267200000t" region="region.after" style="defaultStyle" xml:id="subtitle41">[звучит ритмичная музыка]</p>
+<p begin="3168800000t" end="3195200000t" region="region.after" style="defaultStyle" xml:id="subtitle42">[звучит спокойная музыка]</p>
+<p begin="3256800000t" end="3268800000t" region="region.after" style="defaultStyle" xml:id="subtitle43">[шелест колосьев]</p>
+<p begin="3275200000t" end="3301200000t" region="region.after" style="defaultStyle" xml:id="subtitle44">Значит, я это сразу узнаю, да?</p>
+<p begin="3306400000t" end="3321200000t" region="region.after" style="defaultStyle" xml:id="subtitle45">[звучит нежная музыка]</p>
+<p begin="3323600000t" end="3346400000t" region="region.after" style="defaultStyle" xml:id="subtitle46">Да, когда-то это было твоим.</p>
+<p begin="3359600000t" end="3385200000t" region="region.after" style="defaultStyle" xml:id="subtitle47">Моё потерянное время<br/>в попытках догнать тебя?</p>
+<p begin="3404000000t" end="3422800000t" region="region.after" style="defaultStyle" xml:id="subtitle48">[звучит нежная музыка]</p>
+<p begin="3626800000t" end="3638800000t" region="region.after" style="defaultStyle" xml:id="subtitle49">[шелест листвы]</p>
+<p begin="3640000000t" end="3667200000t" region="region.after" style="defaultStyle" xml:id="subtitle50">Ты мне ещё спасибо скажешь.<br/>Закрывай глаза.</p>
+<p begin="3766000000t" end="3787600000t" region="region.after" style="defaultStyle" xml:id="subtitle51">Мне немного неуютно ничего не видеть.</p>
+<p begin="3792400000t" end="3810800000t" region="region.after" style="defaultStyle" xml:id="subtitle52">Через пять секунд я открою глаза.</p>
+<p begin="3822800000t" end="3837600000t" region="region.after" style="defaultStyle" xml:id="subtitle53">[Мирра] Теперь через четыре,</p>
+<p begin="3844000000t" end="3853200000t" region="region.after" style="defaultStyle" xml:id="subtitle54">три,</p>
+<p begin="3862400000t" end="3872000000t" region="region.after" style="defaultStyle" xml:id="subtitle55">две,</p>
+<p begin="3885600000t" end="3895200000t" region="region.after" style="defaultStyle" xml:id="subtitle56">одну.</p>
+<p begin="3900000000t" end="3914000000t" region="region.after" style="defaultStyle" xml:id="subtitle57">[звучит тихая музыка]</p>
+<p begin="3947200000t" end="3966000000t" region="region.after" style="defaultStyle" xml:id="subtitle58">Надеюсь, лес вернёт мою сестру.</p>
+<p begin="4028000000t" end="4044400000t" region="region.after" style="defaultStyle" xml:id="subtitle59">[Мирра] Он не говорит со мной.</p>
+<p begin="4049600000t" end="4058400000t" region="region.after" style="defaultStyle" xml:id="subtitle60">[пение птиц]</p>
+<p begin="4059200000t" end="4075200000t" region="region.after" style="defaultStyle" xml:id="subtitle61">Всё, я ухожу.</p>
+<p begin="4117600000t" end="4129200000t" region="region.after" style="defaultStyle" xml:id="subtitle62">[шелест травы]</p>
+<p begin="4153600000t" end="4166000000t" region="region.after" style="defaultStyle" xml:id="subtitle63">Ты не забыла Фею?</p>
+<p begin="4177600000t" end="4187200000t" region="region.after" style="defaultStyle" xml:id="subtitle64">[Мирра] Конечно, нет.</p>
+<p begin="4190400000t" end="4204400000t" region="region.after" style="defaultStyle" xml:id="subtitle65">Она так выросла!</p>
+<p begin="4214800000t" end="4240400000t" region="region.after" style="defaultStyle" xml:id="subtitle66">[Айя] Видимо, она убежала<br/>от сильной твоей любви.</p>
+<p begin="4247200000t" end="4260800000t" region="region.after" style="defaultStyle" xml:id="subtitle67">[Мирра] Наверное, так.</p>
+<p begin="4279200000t" end="4314000000t" region="region.after" style="defaultStyle" xml:id="subtitle68">[Айя] Теперь она живет здесь.<br/>Мы будем к ней приходить.</p>
+<p begin="4318000000t" end="4334800000t" region="region.after" style="defaultStyle" xml:id="subtitle69">[пение птиц, тихая музыка]</p>
+<p begin="4420800000t" end="4447200000t" region="region.after" style="defaultStyle" xml:id="subtitle70">[Девочка] Кто-нибудь знает, почему нас<br/>сегодня отпустили пораньше?</p>
+<p begin="4448000000t" end="4477600000t" region="region.after" style="defaultStyle" xml:id="subtitle71">[Мальчик] Только догадываюсь. Несколько<br/>человек не пришли сегодня в класс.</p>
+<p begin="4478800000t" end="4500000000t" region="region.after" style="defaultStyle" xml:id="subtitle72">Потом ещё учитель запретил<br/>пить сырую воду.</p>
+<p begin="4518800000t" end="4540000000t" region="region.after" style="defaultStyle" xml:id="subtitle73">[Айя] Да, но мы и раньше ее не пили.</p>
+<p begin="4552000000t" end="4573200000t" region="region.after" style="defaultStyle" xml:id="subtitle74">Хотя у воды действительно странный запах.</p>
+<p begin="4592000000t" end="4622000000t" region="region.after" style="defaultStyle" xml:id="subtitle75">А ты уже слышала, что Демьян<br/>с семьей уезжает из города?</p>
+<p begin="4624000000t" end="4633600000t" region="region.after" style="defaultStyle" xml:id="subtitle76">[Айя] Нет.</p>
+<p begin="4634400000t" end="4650400000t" region="region.after" style="defaultStyle" xml:id="subtitle77">Сегодня он всех зовет к себе,</p>
+<p begin="4652800000t" end="4664400000t" region="region.after" style="defaultStyle" xml:id="subtitle78">просил и тебе передать.</p>
+<p begin="4670000000t" end="4691200000t" region="region.after" style="defaultStyle" xml:id="subtitle79">Я не смогу прийти. Нужно быть дома.</p>
+<p begin="4692400000t" end="4714400000t" region="region.after" style="defaultStyle" xml:id="subtitle80">Тебя не было последние два раза с нами.</p>
+<p begin="4716000000t" end="4728000000t" region="region.after" style="defaultStyle" xml:id="subtitle81">Серьёзно, я не могу.</p>
+<p begin="4728800000t" end="4742800000t" region="region.after" style="defaultStyle" xml:id="subtitle82">Маме не очень хорошо.</p>
+<p begin="4752800000t" end="4760800000t" region="region.after" style="defaultStyle" xml:id="subtitle83">До завтра.</p>
+<p begin="4764800000t" end="4775200000t" region="region.after" style="defaultStyle" xml:id="subtitle84">До завтра.</p>
+<p begin="4790000000t" end="4807600000t" region="region.after" style="defaultStyle" xml:id="subtitle85">[играет тихая музыка]</p>
+<p begin="4847600000t" end="4874800000t" region="region.after" style="defaultStyle" xml:id="subtitle86">[Айя] Мама уже несколько дней<br/>не выходит на улицу</p>
+<p begin="4884800000t" end="4899600000t" region="region.after" style="defaultStyle" xml:id="subtitle87">и отказывается от еды.</p>
+<p begin="4908800000t" end="4928800000t" region="region.after" style="defaultStyle" xml:id="subtitle88">Мирра перестала со мной разговаривать,</p>
+<p begin="4936400000t" end="4950400000t" region="region.after" style="defaultStyle" xml:id="subtitle89">я не знаю, как объяснить ей,</p>
+<p begin="4951200000t" end="4968000000t" region="region.after" style="defaultStyle" xml:id="subtitle90">что происходит с мамой.</p>
+<p begin="4984800000t" end="4999200000t" region="region.after" style="defaultStyle" xml:id="subtitle91">Самое ужасное -</p>
+<p begin="5002000000t" end="5033600000t" region="region.after" style="defaultStyle" xml:id="subtitle92">я будто уже смирилась с тем,<br/>что мы останемся одни.</p>
+<p begin="5040800000t" end="5056800000t" region="region.after" style="defaultStyle" xml:id="subtitle93">Но ведь она ещё жива,</p>
+<p begin="5060400000t" end="5089200000t" region="region.after" style="defaultStyle" xml:id="subtitle94">и мы должны молиться за её выздоровление.</p>
+<p begin="5097600000t" end="5115200000t" region="region.after" style="defaultStyle" xml:id="subtitle95">[играет тихая музыка]</p>
+<p begin="5200000000t" end="5216400000t" region="region.after" style="defaultStyle" xml:id="subtitle96">[кашляет]</p>
+<p begin="5252000000t" end="5291600000t" region="region.after" style="defaultStyle" xml:id="subtitle97">Пожалуйста, обещайте поберечь<br/>моих девочек.</p>
+<p begin="5310400000t" end="5321200000t" region="region.after" style="defaultStyle" xml:id="subtitle98">[кашляет]</p>
+<p begin="5432400000t" end="5442800000t" region="region.after" style="defaultStyle" xml:id="subtitle99">[тиканье часов]</p>
+<p begin="5447600000t" end="5464800000t" region="region.after" style="defaultStyle" xml:id="subtitle100">Пока они будут в этом городе,</p>
+<p begin="5470400000t" end="5482400000t" region="region.after" style="defaultStyle" xml:id="subtitle101">я буду оберегать их.</p>
+<p begin="5500800000t" end="5520000000t" region="region.after" style="defaultStyle" xml:id="subtitle102">А также обратитесь к Богу, Анна,</p>
+<p begin="5531200000t" end="5550000000t" region="region.after" style="defaultStyle" xml:id="subtitle103">а я приду к нему с молитвой о вас.</p>
+<p begin="5604000000t" end="5627600000t" region="region.after" style="defaultStyle" xml:id="subtitle104">Вам нужен сон. Отдыхайте.</p>
+<p begin="5738800000t" end="5749600000t" region="region.after" style="defaultStyle" xml:id="subtitle105">[Айя] Как мама?</p>
+<p begin="5760800000t" end="5779200000t" region="region.after" style="defaultStyle" xml:id="subtitle106">[Герман] Вашей маме не становится лучше,</p>
+<p begin="5786800000t" end="5802000000t" region="region.after" style="defaultStyle" xml:id="subtitle107">но я буду продолжать молиться за нее.</p>
+<p begin="5812000000t" end="5827200000t" region="region.after" style="defaultStyle" xml:id="subtitle108">[Мирра] Спасибо за то, что пришли.</p>
+<p begin="5842000000t" end="5857200000t" region="region.after" style="defaultStyle" xml:id="subtitle109">[звук шагов]</p>
+<p begin="5983200000t" end="6001600000t" region="region.after" style="defaultStyle" xml:id="subtitle110">Никто не хочет ей помочь!</p>
+<p begin="6007600000t" end="6032000000t" region="region.after" style="defaultStyle" xml:id="subtitle111">Даже врач ничего не может сделать.</p>
+<p begin="6033200000t" end="6058000000t" region="region.after" style="defaultStyle" xml:id="subtitle112">Вашей маме, возможно,<br/>придётся отдать Богу душу,</p>
+<p begin="6066800000t" end="6082000000t" region="region.after" style="defaultStyle" xml:id="subtitle113">вам нужно быть готовыми к этому.</p>
+<p begin="6122800000t" end="6136800000t" region="region.after" style="defaultStyle" xml:id="subtitle114">Потому что ему все равно.</p>
+<p begin="6137600000t" end="6145600000t" region="region.after" style="defaultStyle" xml:id="subtitle115">Тише!</p>
+<p begin="6160800000t" end="6177200000t" region="region.after" style="defaultStyle" xml:id="subtitle116">[звук шагов]</p>
+<p begin="6206800000t" end="6222000000t" region="region.after" style="defaultStyle" xml:id="subtitle117">[Герман] Мой дом всегда открыт для вас.</p>
+<p begin="6224800000t" end="6234800000t" region="region.after" style="defaultStyle" xml:id="subtitle118">Спасибо.</p>
+<p begin="6276400000t" end="6291200000t" region="region.after" style="defaultStyle" xml:id="subtitle119">[стук закрывающейся двери]</p>
+<p begin="6311600000t" end="6326800000t" region="region.after" style="defaultStyle" xml:id="subtitle120">Его религия не спасет маму.</p>
+<p begin="6333200000t" end="6345200000t" region="region.after" style="defaultStyle" xml:id="subtitle121">[Айя] Перестань,</p>
+<p begin="6357200000t" end="6369200000t" region="region.after" style="defaultStyle" xml:id="subtitle122">он верит,</p>
+<p begin="6385200000t" end="6401200000t" region="region.after" style="defaultStyle" xml:id="subtitle123">и нужно верить нам.</p>
+<p begin="6411600000t" end="6425200000t" region="region.after" style="defaultStyle" xml:id="subtitle124">[звучит спокойная музыка]</p>
+<p begin="6480400000t" end="6496800000t" region="region.after" style="defaultStyle" xml:id="subtitle125">[анна кашляет]</p>
+<p begin="6658000000t" end="6675200000t" region="region.after" style="defaultStyle" xml:id="subtitle126">[звучит спокойная музыка]</p>
+<p begin="7794800000t" end="7808000000t" region="region.after" style="defaultStyle" xml:id="subtitle127">[шум ветра]</p>
+<p begin="7908000000t" end="7934400000t" region="region.after" style="defaultStyle" xml:id="subtitle128">[шелест песка, звон металла]</p>
+<p begin="8180800000t" end="8192800000t" region="region.after" style="defaultStyle" xml:id="subtitle129">[вздох]</p>
+<p begin="8205200000t" end="8218400000t" region="region.after" style="defaultStyle" xml:id="subtitle130">[крик]</p>
+<p begin="8239600000t" end="8258000000t" region="region.after" style="defaultStyle" xml:id="subtitle131">[айя тяжело дышит]</p>
+<p begin="8284400000t" end="8294800000t" region="region.after" style="defaultStyle" xml:id="subtitle132">Мама!</p>
+<p begin="8331200000t" end="8352800000t" region="region.after" style="defaultStyle" xml:id="subtitle133">[Звучит грустная музыка]</p>
+<p begin="8456400000t" end="8471200000t" region="region.after" style="defaultStyle" xml:id="subtitle134">Теперь мы остались совсем одни.</p>
+<p begin="8481200000t" end="8494400000t" region="region.after" style="defaultStyle" xml:id="subtitle135">Меня это пугает.</p>
+<p begin="8532400000t" end="8547200000t" region="region.after" style="defaultStyle" xml:id="subtitle136">После прощания с мамой</p>
+<p begin="8548000000t" end="8560800000t" region="region.after" style="defaultStyle" xml:id="subtitle137">нам лучше уехать.</p>
+<p begin="8568400000t" end="8577200000t" region="region.after" style="defaultStyle" xml:id="subtitle138">Так скоро?</p>
+<p begin="8594000000t" end="8611200000t" region="region.after" style="defaultStyle" xml:id="subtitle139">Нас мало что здесь держит, и</p>
+<p begin="8619600000t" end="8638800000t" region="region.after" style="defaultStyle" xml:id="subtitle140">ты ведь мечтала о путешествиях.</p>
+<p begin="8640400000t" end="8663600000t" region="region.after" style="defaultStyle" xml:id="subtitle141">Как ты можешь говорить об этом сейчас?</p>
+<p begin="8699200000t" end="8716800000t" region="region.after" style="defaultStyle" xml:id="subtitle142">Мы все равно не останемся здесь.</p>
+<p begin="8723600000t" end="8749200000t" region="region.after" style="defaultStyle" xml:id="subtitle143">Ты ведь видишь,<br/>это становится похоже на эпидемию.</p>
+<p begin="8760000000t" end="8778000000t" region="region.after" style="defaultStyle" xml:id="subtitle144">[звучит грустная музыка]</p>
+<p begin="8916800000t" end="8954800000t" region="region.after" style="defaultStyle" xml:id="subtitle145">[Айя] Я сделаю всё возможное, чтобы<br/>завтра же покинуть это страшное место.</p>
+<p begin="8972800000t" end="9005200000t" region="region.after" style="defaultStyle" xml:id="subtitle146">Никогда не думала, что буду говорить так<br/>о своем родном доме.</p>
+<p begin="9014000000t" end="9049600000t" region="region.after" style="defaultStyle" xml:id="subtitle147">Но без мамы он стал совсем чужим.</p>
+<p begin="9066800000t" end="9085200000t" region="region.after" style="defaultStyle" xml:id="subtitle148">Мирра не хочет уезжать,</p>
+<p begin="9088800000t" end="9131200000t" region="region.after" style="defaultStyle" xml:id="subtitle149">она считает, что это наш долг -<br/>остаться в городе, помогать больным.</p>
+<p begin="9141200000t" end="9167600000t" region="region.after" style="defaultStyle" xml:id="subtitle150">Но ведь мама сделала бы всё возможное,</p>
+<p begin="9168400000t" end="9183600000t" region="region.after" style="defaultStyle" xml:id="subtitle151">чтобы уберечь нас сейчас.</p>
+<p begin="9193200000t" end="9212800000t" region="region.after" style="defaultStyle" xml:id="subtitle152">Я так и скажу завтра Мирре,</p>
+<p begin="9225200000t" end="9242400000t" region="region.after" style="defaultStyle" xml:id="subtitle153">надеюсь, она меня услышит.</p>
+<p begin="9252400000t" end="9264800000t" region="region.after" style="defaultStyle" xml:id="subtitle154">[звонит колокол]</p>
+<p begin="9342800000t" end="9363200000t" region="region.after" style="defaultStyle" xml:id="subtitle155">[Герман] Сегодня мы начнем наше собрание</p>
+<p begin="9369200000t" end="9386400000t" region="region.after" style="defaultStyle" xml:id="subtitle156">с толкования послания к Галатам</p>
+<p begin="9388000000t" end="9399600000t" region="region.after" style="defaultStyle" xml:id="subtitle157">о свободе духа.</p>
+<p begin="9401200000t" end="9448800000t" region="region.after" style="defaultStyle" xml:id="subtitle158">В нём говорится: нам нельзя быть<br/>заложниками последних дней.</p>
+<p begin="9450000000t" end="9486000000t" region="region.after" style="defaultStyle" xml:id="subtitle159">А напротив, со свободой<br/>и любовью нужно преодолеть все потери.</p>
+<p begin="9489200000t" end="9520800000t" region="region.after" style="defaultStyle" xml:id="subtitle160">Ибо потеря написана на роду<br/>каждого, кто сидит передо мной.</p>
+<p begin="9523600000t" end="9542800000t" region="region.after" style="defaultStyle" xml:id="subtitle161">Так будьте же благодарны судьбе и Богу</p>
+<p begin="9544000000t" end="9570400000t" region="region.after" style="defaultStyle" xml:id="subtitle162">за тех, кто рядом с нами в эту минуту.</p>
+<p begin="9574400000t" end="9590000000t" region="region.after" style="defaultStyle" xml:id="subtitle163">Мирра, ты же обещала.</p>
+<p begin="9590800000t" end="9605600000t" region="region.after" style="defaultStyle" xml:id="subtitle164">[Герман] Итак, начнём с пятой главы.</p>
+<p begin="9612800000t" end="9634000000t" region="region.after" style="defaultStyle" xml:id="subtitle165">«К свободе призваны вы, братья.</p>
+<p begin="9640000000t" end="9664000000t" region="region.after" style="defaultStyle" xml:id="subtitle166">Только бы свобода ваша не стала поводом</p>
+<p begin="9664800000t" end="9679200000t" region="region.after" style="defaultStyle" xml:id="subtitle167">к угождению плоти,</p>
+<p begin="9688400000t" end="9711200000t" region="region.after" style="defaultStyle" xml:id="subtitle168">но любовью служите друг другу».</p>
+<p begin="9787600000t" end="9803200000t" region="region.after" style="defaultStyle" xml:id="subtitle169">Бог не сотворил смерть,</p>
+<p begin="9827200000t" end="9847200000t" region="region.after" style="defaultStyle" xml:id="subtitle170">и он не радуется погибели всего живого.</p>
+<p begin="9878800000t" end="9896800000t" region="region.after" style="defaultStyle" xml:id="subtitle171">Ибо он создал все для бытия,</p>
+<p begin="9918000000t" end="9933600000t" region="region.after" style="defaultStyle" xml:id="subtitle172">и все в мире спасительно.</p>
+<p begin="9940000000t" end="9957200000t" region="region.after" style="defaultStyle" xml:id="subtitle173">Значит, наша душа бессмертна...</p>
+<p begin="9959600000t" end="9980400000t" region="region.after" style="defaultStyle" xml:id="subtitle174">[Женщина] Святой отец, вы очень<br/>нужны в больнице.</p>
+<p begin="9983600000t" end="9998400000t" region="region.after" style="defaultStyle" xml:id="subtitle175">[Герман] Айя, продолжим завтра.</p>
+<p begin="10005200000t" end="10017600000t" region="region.after" style="defaultStyle" xml:id="subtitle176">[звук шагов]</p>
+<p begin="10151600000t" end="10163600000t" region="region.after" style="defaultStyle" xml:id="subtitle177">[Айя] Пойдем, Мирра.</p>
+<p begin="10219200000t" end="10232800000t" region="region.after" style="defaultStyle" xml:id="subtitle178">Всё хорошо?</p>
+<p begin="10251600000t" end="10265200000t" region="region.after" style="defaultStyle" xml:id="subtitle179">Мне нужно поспать.</p>
+<p begin="10300000000t" end="10318000000t" region="region.after" style="defaultStyle" xml:id="subtitle180">[звон колокола, гром]</p>
+<p begin="10332400000t" end="10376800000t" region="region.after" style="defaultStyle" xml:id="subtitle181">[Айя] Почему это происходит с нами?<br/>Теперь Мирре становится только хуже,</p>
+<p begin="10377600000t" end="10403599999t" region="region.after" style="defaultStyle" xml:id="subtitle182">и снова никто не знает, как ей помочь.</p>
+<p begin="10404800000t" end="10414400000t" region="region.after" style="defaultStyle" xml:id="subtitle183">[шум дождя]</p>
+<p begin="10415999999t" end="10437600000t" region="region.after" style="defaultStyle" xml:id="subtitle184">Господи, я знаю, ты слышишь меня сейчас.</p>
+<p begin="10444000000t" end="10466800000t" region="region.after" style="defaultStyle" xml:id="subtitle185">Прошу тебя, не оставляй мою сестру.</p>
+<p begin="10512400000t" end="10526000000t" region="region.after" style="defaultStyle" xml:id="subtitle186">[щелчок замка]</p>
+<p begin="10540000000t" end="10558400000t" region="region.after" style="defaultStyle" xml:id="subtitle187">[кашляет]</p>
+<p begin="10640400000t" end="10660400000t" region="region.after" style="defaultStyle" xml:id="subtitle188">[Айя] Последние дни она очень много спит</p>
+<p begin="10661200000t" end="10673600000t" region="region.after" style="defaultStyle" xml:id="subtitle189">и совсем не хочет есть.</p>
+<p begin="10684800000t" end="10698800000t" region="region.after" style="defaultStyle" xml:id="subtitle190">Мне кажется, ей нужно в больницу.</p>
+<p begin="10704000000t" end="10713600000t" region="region.after" style="defaultStyle" xml:id="subtitle191">Исключено.</p>
+<p begin="10727600000t" end="10750400000t" region="region.after" style="defaultStyle" xml:id="subtitle192">При массовых инфекциях, таких как эта,</p>
+<p begin="10760800000t" end="10783200000t" region="region.after" style="defaultStyle" xml:id="subtitle193">нужна кровать и домашний уход.</p>
+<p begin="10804800000t" end="10820000000t" region="region.after" style="defaultStyle" xml:id="subtitle194">Или вы просто не хотите рисковать?</p>
+<p begin="10830400000t" end="10868400000t" region="region.after" style="defaultStyle" xml:id="subtitle195">Вдруг это не инфекция?<br/>Она просто очень устала.</p>
+<p begin="10896000000t" end="10925200000t" region="region.after" style="defaultStyle" xml:id="subtitle196">Мне достаточно того, что ты будешь рядом.</p>
+<p begin="10990000000t" end="11004400000t" region="region.after" style="defaultStyle" xml:id="subtitle197">[Айя] Я провожу вас.</p>
+<p begin="11214800000t" end="11234800000t" region="region.after" style="defaultStyle" xml:id="subtitle198">[шум ветра]</p>
+<p begin="11288000000t" end="11304000000t" region="region.after" style="defaultStyle" xml:id="subtitle199">[звучит спокойная музыка]</p>
+<p begin="11372000000t" end="11388800000t" region="region.after" style="defaultStyle" xml:id="subtitle200">[треск пламени]</p>
+<p begin="11443600000t" end="11465200000t" region="region.after" style="defaultStyle" xml:id="subtitle201">[шум шагов мирры, мрачная музыка]</p>
+<p begin="12051600000t" end="12070800000t" region="region.after" style="defaultStyle" xml:id="subtitle202">[звучит резкая музыка]</p>
+<p begin="12575600000t" end="12591600000t" region="region.after" style="defaultStyle" xml:id="subtitle203">[кричит]</p>
+<p begin="12665600000t" end="12686400000t" region="region.after" style="defaultStyle" xml:id="subtitle204">[биение сердца]</p>
+<p begin="12802000000t" end="12812400000t" region="region.after" style="defaultStyle" xml:id="subtitle205">[Мирра] Айя!</p>
+<p begin="12844400000t" end="12854000000t" region="region.after" style="defaultStyle" xml:id="subtitle206">Айя!</p>
+<p begin="12863200000t" end="12874000000t" region="region.after" style="defaultStyle" xml:id="subtitle207">[Айя] Что случилось?</p>
+<p begin="12876800000t" end="12915200000t" region="region.after" style="defaultStyle" xml:id="subtitle208">[Мирра] Позови отца Германа,<br/>я хочу его спросить.</p>
+<p begin="12918400000t" end="12936000000t" region="region.after" style="defaultStyle" xml:id="subtitle209">[Айя] Хорошо, ты не вставай.</p>
+<p begin="12947600000t" end="12957600000t" region="region.after" style="defaultStyle" xml:id="subtitle210">[МИРРА ВЗДЫХАЕТ]</p>
+<p begin="13007600000t" end="13032000000t" region="region.after" style="defaultStyle" xml:id="subtitle211">[ПЕНИЕ ПТИЦ, ЗВУКИ ГОЛОСОВ ВДАЛЕКЕ]</p>
+<p begin="13034400000t" end="13054800000t" region="region.after" style="defaultStyle" xml:id="subtitle212">Она не сказала, почему хочет меня видеть?</p>
+<p begin="13056400000t" end="13077600000t" region="region.after" style="defaultStyle" xml:id="subtitle213">Нет, но, по-моему, ей хуже.</p>
+<p begin="13086800000t" end="13106000000t" region="region.after" style="defaultStyle" xml:id="subtitle214">-Что говорит доктор?<br/>-Ничего нового.</p>
+<p begin="13183600000t" end="13203200000t" region="region.after" style="defaultStyle" xml:id="subtitle215">[КАРКАНЬЕ ВОРОН]</p>
+<p begin="13362800000t" end="13394800000t" region="region.after" style="defaultStyle" xml:id="subtitle216">[Айя] Наконец-то Мирра стала<br/>прислушиваться к словам отца Германа.</p>
+<p begin="13402400000t" end="13427200000t" region="region.after" style="defaultStyle" xml:id="subtitle217">Первый раз она сама захотела<br/>поговорить с ним.</p>
+<p begin="13440400000t" end="13476000000t" region="region.after" style="defaultStyle" xml:id="subtitle218">Но я чувствую, как она отдаляется от меня,</p>
+<p begin="13492000000t" end="13514000000t" region="region.after" style="defaultStyle" xml:id="subtitle219">будто делает это сознательно.</p>
+<p begin="13527200000t" end="13544800000t" region="region.after" style="defaultStyle" xml:id="subtitle220">От этого мне только больнее.</p>
+<p begin="13566000000t" end="13591200000t" region="region.after" style="defaultStyle" xml:id="subtitle221">[МРАЧНАЯ МУЗЫКА, КАРКАНЬЕ ВОРОН]</p>
+<p begin="13800400000t" end="13818000000t" region="region.after" style="defaultStyle" xml:id="subtitle222">Уведомление<br/>...необходимо покинуть дом...</p>
+<p begin="13899600000t" end="13910800000t" region="region.after" style="defaultStyle" xml:id="subtitle223">[СКРИП ДВЕРИ]</p>
+<p begin="13912400000t" end="13922000000t" region="region.after" style="defaultStyle" xml:id="subtitle224">[Айя] Как она?</p>
+<p begin="13928800000t" end="13954400000t" region="region.after" style="defaultStyle" xml:id="subtitle225">Она очень напугана.<br/>Тебе лучше пойти к сестре.</p>
+<p begin="14050400000t" end="14064000000t" region="region.after" style="defaultStyle" xml:id="subtitle226">[МИРРА ЗАДЫХАЕТСЯ]</p>
+<p begin="14068000000t" end="14080800000t" region="region.after" style="defaultStyle" xml:id="subtitle227">[Айя] Что случилось?</p>
+<p begin="14100800000t" end="14122000000t" region="region.after" style="defaultStyle" xml:id="subtitle228">Я хотела, чтобы всё было, как раньше!</p>
+<p begin="14129200000t" end="14146000000t" region="region.after" style="defaultStyle" xml:id="subtitle229">Мирра, ты вся горишь!</p>
+<p begin="14154400000t" end="14167600000t" region="region.after" style="defaultStyle" xml:id="subtitle230">[мирра кашляет]</p>
+<p begin="14184000000t" end="14198000000t" region="region.after" style="defaultStyle" xml:id="subtitle231">[звучит тихая музыка]</p>
+<p begin="14203600000t" end="14214000000t" region="region.after" style="defaultStyle" xml:id="subtitle232">[тиканье часов]</p>
+<p begin="14276000000t" end="14292000000t" region="region.after" style="defaultStyle" xml:id="subtitle233">[шум ветра]</p>
+<p begin="14300000000t" end="14310800000t" region="region.after" style="defaultStyle" xml:id="subtitle234">[стук в дверь]</p>
+<p begin="14372800000t" end="14381600000t" region="region.after" style="defaultStyle" xml:id="subtitle235">Здравствуй, Айя.</p>
+<p begin="14390000000t" end="14398400000t" region="region.after" style="defaultStyle" xml:id="subtitle236">Здравствуйте.</p>
+<p begin="14406000000t" end="14424800000t" region="region.after" style="defaultStyle" xml:id="subtitle237">Утром тебе было отправлено уведомление.</p>
+<p begin="14459600000t" end="14468000000t" region="region.after" style="defaultStyle" xml:id="subtitle238">Письмо?</p>
+<p begin="14468800000t" end="14478800000t" region="region.after" style="defaultStyle" xml:id="subtitle239">[Мужчина] В нём сказано,</p>
+<p begin="14482400000t" end="14503600000t" region="region.after" style="defaultStyle" xml:id="subtitle240">что вам следовало покинуть дом до полудня.</p>
+<p begin="14520400000t" end="14545600000t" region="region.after" style="defaultStyle" xml:id="subtitle241">Айя, придется какое-то время<br/>пожить в больнице.</p>
+<p begin="14553600000t" end="14573600000t" region="region.after" style="defaultStyle" xml:id="subtitle242">Но кто будет заботиться о моей сестре?</p>
+<p begin="14579200000t" end="14592400000t" region="region.after" style="defaultStyle" xml:id="subtitle243">Есть постановление,</p>
+<p begin="14594800000t" end="14624400000t" region="region.after" style="defaultStyle" xml:id="subtitle244">нам необходимо эвакуировать всех,<br/>кто еще пока не заражен.</p>
+<p begin="14632400000t" end="14650400000t" region="region.after" style="defaultStyle" xml:id="subtitle245">А больные должны оставаться в своих домах.</p>
+<p begin="14652000000t" end="14672800000t" region="region.after" style="defaultStyle" xml:id="subtitle246">Я её не оставлю, я буду с ней!</p>
+<p begin="14673600000t" end="14707200000t" region="region.after" style="defaultStyle" xml:id="subtitle247">Послушай, поверь мне, ей уже не помочь.</p>
+<p begin="14726000000t" end="14749600000t" region="region.after" style="defaultStyle" xml:id="subtitle248">Я отведу тебя в больницу. Хорошо?</p>
+<p begin="14791200000t" end="14802800000t" region="region.after" style="defaultStyle" xml:id="subtitle249">[стук молотка]</p>
+<p begin="14835600000t" end="14844800000t" region="region.after" style="defaultStyle" xml:id="subtitle250">[Мужчина] Айя!</p>
+<p begin="14848400000t" end="14867600000t" region="region.after" style="defaultStyle" xml:id="subtitle251">[играет тихая музыка]</p>
+<p begin="14890800000t" end="14901600000t" region="region.after" style="defaultStyle" xml:id="subtitle252">[грохот грома]</p>
+<p begin="14930000000t" end="14946800000t" region="region.after" style="defaultStyle" xml:id="subtitle253">[шум ветра]</p>
+<p begin="15041600000t" end="15055200000t" region="region.after" style="defaultStyle" xml:id="subtitle254">[стук в дверь]</p>
+<p begin="15100800000t" end="15118800000t" region="region.after" style="defaultStyle" xml:id="subtitle255">[звучит спокойная музыка]</p>
+<p begin="15160800000t" end="15176800000t" region="region.after" style="defaultStyle" xml:id="subtitle256">[грохот грома, шум дождя]</p>
+<p begin="15226800000t" end="15249600000t" region="region.after" style="defaultStyle" xml:id="subtitle257">Конечно, это безумие - разлучать вас!</p>
+<p begin="15256400000t" end="15266000000t" region="region.after" style="defaultStyle" xml:id="subtitle258">[айя всхлипывает]</p>
+<p begin="15266800000t" end="15285600000t" region="region.after" style="defaultStyle" xml:id="subtitle259">Вы, кажется, маме обещали оберегать нас.</p>
+<p begin="15316400000t" end="15344000000t" region="region.after" style="defaultStyle" xml:id="subtitle260">Ну, конечно, но я не знаю, чем помочь.</p>
+<p begin="15350000000t" end="15365200000t" region="region.after" style="defaultStyle" xml:id="subtitle261">Если таков распорядок.</p>
+<p begin="15419600000t" end="15456000000t" region="region.after" style="defaultStyle" xml:id="subtitle262">[Айя] Не закрывайте, пожалуйста, дверь,<br/>святой отец. Я скоро вернусь.</p>
+<p begin="15543200000t" end="15564800000t" region="region.after" style="defaultStyle" xml:id="subtitle263">[звучит мрачная музыка]</p>
+<p begin="15879600000t" end="15895600000t" region="region.after" style="defaultStyle" xml:id="subtitle264">[мирра тяжело дышит]</p>
+<p begin="15958800000t" end="15972400000t" region="region.after" style="defaultStyle" xml:id="subtitle265">Где ты была?</p>
+<p begin="15979200000t" end="15996000000t" region="region.after" style="defaultStyle" xml:id="subtitle266">Я отведу тебя в дом к отцу Герману.</p>
+<p begin="16088800000t" end="16102800000t" region="region.after" style="defaultStyle" xml:id="subtitle267">Там безопасней.</p>
+<p begin="16122400000t" end="16139200000t" region="region.after" style="defaultStyle" xml:id="subtitle268">И навряд ли нас будут там искать.</p>
+<p begin="16422000000t" end="16432800000t" region="region.after" style="defaultStyle" xml:id="subtitle269">Я помогу.</p>
+<p begin="16436400000t" end="16458000000t" region="region.after" style="defaultStyle" xml:id="subtitle270">Мы пройдем через заброшенную часть города.</p>
+<p begin="16462800000t" end="16478800000t" region="region.after" style="defaultStyle" xml:id="subtitle271">Потерпи немного.</p>
+<p begin="16481200000t" end="16516400000t" region="region.after" style="defaultStyle" xml:id="subtitle272">[звучит резкая музыка]</p>
+<p begin="16869600000t" end="16894400000t" region="region.after" style="defaultStyle" xml:id="subtitle273">[Айя] Как только Мирре станет лучше,<br/>мы сразу уедем.</p>
+<p begin="16898800000t" end="16920000000t" region="region.after" style="defaultStyle" xml:id="subtitle274">Завтра я напишу письмо нашей тете Анне,</p>
+<p begin="16924000000t" end="16942400000t" region="region.after" style="defaultStyle" xml:id="subtitle275">у нее всегда была для нас комната.</p>
+<p begin="16956400000t" end="16974800000t" region="region.after" style="defaultStyle" xml:id="subtitle276">[звучит тяжелая музыка]</p>
+<p begin="17099200000t" end="17122000000t" region="region.after" style="defaultStyle" xml:id="subtitle277">[мирра тяжело дышит]</p>
+<p begin="17312400000t" end="17347200000t" region="region.after" style="defaultStyle" xml:id="subtitle278">Должно же быть какое-то лекарство<br/>и способ его достать.</p>
+<p begin="17352800000t" end="17371600000t" region="region.after" style="defaultStyle" xml:id="subtitle279">Я могу поехать в соседний город.</p>
+<p begin="17376400000t" end="17389200000t" region="region.after" style="defaultStyle" xml:id="subtitle280">У меня есть деньги.</p>
+<p begin="17396400000t" end="17411600000t" region="region.after" style="defaultStyle" xml:id="subtitle281">На это нет времени.</p>
+<p begin="17421600000t" end="17440400000t" region="region.after" style="defaultStyle" xml:id="subtitle282">Сколько она уже в таком состоянии?</p>
+<p begin="17448000000t" end="17458400000t" region="region.after" style="defaultStyle" xml:id="subtitle283">[Айя] Пять дней.</p>
+<p begin="17480000000t" end="17498000000t" region="region.after" style="defaultStyle" xml:id="subtitle284">[мирра кашляет]</p>
+<p begin="17502000000t" end="17513600000t" region="region.after" style="defaultStyle" xml:id="subtitle285">Иди к сестре.</p>
+<p begin="17518800000t" end="17543200000t" region="region.after" style="defaultStyle" xml:id="subtitle286">Завтра Бог подскажет,<br/>как нужно поступить.</p>
+<p begin="17575200000t" end="17593200000t" region="region.after" style="defaultStyle" xml:id="subtitle287">[скрип двери]</p>
+<p begin="17606000000t" end="17622000000t" region="region.after" style="defaultStyle" xml:id="subtitle288">[звучит спокойная музыка]</p>
+<p begin="17725600000t" end="17748000000t" region="region.after" style="defaultStyle" xml:id="subtitle289">[мирра кашляет]</p>
+<p begin="17848400000t" end="17870000000t" region="region.after" style="defaultStyle" xml:id="subtitle290">[Мирра] Ты давно мне ничего не читала.</p>
+<p begin="17874400000t" end="17898400000t" region="region.after" style="defaultStyle" xml:id="subtitle291">[Айя] Здесь наверняка только<br/>религиозные книги.</p>
+<p begin="17902800000t" end="17928800000t" region="region.after" style="defaultStyle" xml:id="subtitle292">Грамматика латинского языка,<br/>Ветхий Завет,</p>
+<p begin="17932000000t" end="17948400000t" region="region.after" style="defaultStyle" xml:id="subtitle293">история церкви.</p>
+<p begin="17959200000t" end="17971600000t" region="region.after" style="defaultStyle" xml:id="subtitle294">А это что?</p>
+<p begin="18003200000t" end="18025200000t" region="region.after" style="defaultStyle" xml:id="subtitle295">Странно видеть здесь такую книгу.</p>
+<p begin="18028800000t" end="18044000000t" region="region.after" style="defaultStyle" xml:id="subtitle296">[звучит жуткая музыка]</p>
+<p begin="18181200000t" end="18196800000t" region="region.after" style="defaultStyle" xml:id="subtitle297">[Мирра] Что ты нашла?</p>
+<p begin="18210800000t" end="18222000000t" region="region.after" style="defaultStyle" xml:id="subtitle298">[мирра тяжело дышит]</p>
+<p begin="18224000000t" end="18242000000t" region="region.after" style="defaultStyle" xml:id="subtitle299">«С шаманской точки зрения,</p>
+<p begin="18242800000t" end="18261200000t" region="region.after" style="defaultStyle" xml:id="subtitle300">в наполненном силой теле</p>
+<p begin="18262000000t" end="18288400000t" region="region.after" style="defaultStyle" xml:id="subtitle301">просто нет места<br/>для разрушительной энергии,</p>
+<p begin="18289600000t" end="18326000000t" region="region.after" style="defaultStyle" xml:id="subtitle302">которую мы привыкли называть болезнью».</p>
+<p begin="18331600000t" end="18353600000t" region="region.after" style="defaultStyle" xml:id="subtitle303">[звучит ритмичная музыка]</p>
+<p begin="18827200000t" end="18845600000t" region="region.after" style="defaultStyle" xml:id="subtitle304">[чириканье птиц]</p>
+<p begin="18918800000t" end="18938800000t" region="region.after" style="defaultStyle" xml:id="subtitle305">[звучит церковная музыка]</p>
+<p begin="19112800000t" end="19123600000t" region="region.after" style="defaultStyle" xml:id="subtitle306">[Герман] Боже,</p>
+<p begin="19136400000t" end="19156800000t" region="region.after" style="defaultStyle" xml:id="subtitle307">ты видишь, в каком я положении.</p>
+<p begin="19170800000t" end="19186000000t" region="region.after" style="defaultStyle" xml:id="subtitle308">Меня одолевают сомнения.</p>
+<p begin="19200800000t" end="19217600000t" region="region.after" style="defaultStyle" xml:id="subtitle309">Я должен беречь свой секрет,</p>
+<p begin="19218400000t" end="19248400000t" region="region.after" style="defaultStyle" xml:id="subtitle310">чтобы несведущие люди<br/>не могли навредить себе</p>
+<p begin="19252000000t" end="19262400000t" region="region.after" style="defaultStyle" xml:id="subtitle311">и другим.</p>
+<p begin="19277200000t" end="19299600000t" region="region.after" style="defaultStyle" xml:id="subtitle312">Но одновременно с этим я хочу помочь Айе.</p>
+<p begin="19312800000t" end="19333600000t" region="region.after" style="defaultStyle" xml:id="subtitle313">Мария всегда была для меня матерью,</p>
+<p begin="19336400000t" end="19370400000t" region="region.after" style="defaultStyle" xml:id="subtitle314">а девочки были - они и есть -<br/>как родные сестры.</p>
+<p begin="19384800000t" end="19402800000t" region="region.after" style="defaultStyle" xml:id="subtitle315">Я не могу принять верное решение</p>
+<p begin="19413600000t" end="19444800000t" region="region.after" style="defaultStyle" xml:id="subtitle316">и сам прошу тебя о помощи, Боже!</p>
+<p begin="19447200000t" end="19473600000t" region="region.after" style="defaultStyle" xml:id="subtitle317">[звучит церковная музыка]</p>
+<p begin="19568400000t" end="19594000000t" region="region.after" style="defaultStyle" xml:id="subtitle318">[пение птиц]</p>
+<p begin="19781200000t" end="19800800000t" region="region.after" style="defaultStyle" xml:id="subtitle319">[звучит спокойная музыка]</p>
+<p begin="20488800000t" end="20508800000t" region="region.after" style="defaultStyle" xml:id="subtitle320">[звучит резкая музыка]</p>
+<p begin="20567600000t" end="20584800000t" region="region.after" style="defaultStyle" xml:id="subtitle321">[плеск воды]</p>
+<p begin="20823200000t" end="20840400000t" region="region.after" style="defaultStyle" xml:id="subtitle322">[Герман] Ты не Мирра!</p>
+<p begin="20866000000t" end="20880800000t" region="region.after" style="defaultStyle" xml:id="subtitle323">Меня не надо спасать.</p>
+<p begin="20908400000t" end="20933200000t" region="region.after" style="defaultStyle" xml:id="subtitle324">[Мирра] Спасайте других!</p>
+<p begin="20941200000t" end="20975200000t" region="region.after" style="defaultStyle" xml:id="subtitle325">[звучит резкая музыка]</p>
+<p begin="21134000000t" end="21152400000t" region="region.after" style="defaultStyle" xml:id="subtitle326">[вздыхает]</p>
+<p begin="21210400000t" end="21239600000t" region="region.after" style="defaultStyle" xml:id="subtitle327">[звучит спокойная музыка]</p>
+<p begin="21493600000t" end="21521600000t" region="region.after" style="defaultStyle" xml:id="subtitle328">[Айя] Понимаю, что я не должна была<br/>брать книгу без разрешения,</p>
+<p begin="21529600000t" end="21554800000t" region="region.after" style="defaultStyle" xml:id="subtitle329">но ведь это так похоже на знак свыше.</p>
+<p begin="21556400000t" end="21595600000t" region="region.after" style="defaultStyle" xml:id="subtitle330">Ведь там написано,<br/>что любая болезнь поддается лечению,</p>
+<p begin="21597200000t" end="21618400000t" region="region.after" style="defaultStyle" xml:id="subtitle331">значит, и Мирре тоже можно помочь.</p>
+<p begin="21631200000t" end="21651200000t" region="region.after" style="defaultStyle" xml:id="subtitle332">Сегодня вернулся домой<br/>и уже спал в постели.</p>
+<p begin="21652800000t" end="21668400000t" region="region.after" style="defaultStyle" xml:id="subtitle333">Прошу вас, зайдите к нам после пяти.</p>
+<p begin="21671200000t" end="21687200000t" region="region.after" style="defaultStyle" xml:id="subtitle334">Я думаю, что в половине...</p>
+<p begin="21688400000t" end="21709200000t" region="region.after" style="defaultStyle" xml:id="subtitle335">[Айя] Я могу почитать эту книгу,<br/>святой отец?</p>
+<p begin="21720400000t" end="21734000000t" region="region.after" style="defaultStyle" xml:id="subtitle336">[звучит тревожная музыка]</p>
+<p begin="21746000000t" end="21767600000t" region="region.after" style="defaultStyle" xml:id="subtitle337">Ну конечно, но только не здесь.</p>
+<p begin="21775200000t" end="21787600000t" region="region.after" style="defaultStyle" xml:id="subtitle338">Увидимся позже.</p>
+<p begin="21794000000t" end="21804000000t" region="region.after" style="defaultStyle" xml:id="subtitle339">[Герман] Идем.</p>
+<p begin="21814800000t" end="21832000000t" region="region.after" style="defaultStyle" xml:id="subtitle340">[Айя] Я случайно её нашла.</p>
+<p begin="21838800000t" end="21856800000t" region="region.after" style="defaultStyle" xml:id="subtitle341">Это ведь может помочь моей сестре,</p>
+<p begin="21858400000t" end="21876400000t" region="region.after" style="defaultStyle" xml:id="subtitle342">я успела понять, что книга об этом.</p>
+<p begin="21877600000t" end="21890800000t" region="region.after" style="defaultStyle" xml:id="subtitle343">Поговорим об этом дома.</p>
+<p begin="21898000000t" end="21913600000t" region="region.after" style="defaultStyle" xml:id="subtitle344">Пожалуйста, я молю вас!</p>
+<p begin="21920400000t" end="21934800000t" region="region.after" style="defaultStyle" xml:id="subtitle345">[Герман] Я всё тебе расскажу,</p>
+<p begin="21935600000t" end="21948400000t" region="region.after" style="defaultStyle" xml:id="subtitle346">только не здесь. Хорошо?</p>
+<p begin="21972800000t" end="21991200000t" region="region.after" style="defaultStyle" xml:id="subtitle347">[звучит спокойная музыка]</p>
+<p begin="22124400000t" end="22140800000t" region="region.after" style="defaultStyle" xml:id="subtitle348">[шелест крыльев мотылька о стекло]</p>
+<p begin="22154400000t" end="22175600000t" region="region.after" style="defaultStyle" xml:id="subtitle349">[кашляет]</p>
+<p begin="22262400000t" end="22277200000t" region="region.after" style="defaultStyle" xml:id="subtitle350">[Герман] Ты уже, видимо, поняла,</p>
+<p begin="22283600000t" end="22305600000t" region="region.after" style="defaultStyle" xml:id="subtitle351">что эта книга расходится с учением Церкви.</p>
+<p begin="22317600000t" end="22333200000t" region="region.after" style="defaultStyle" xml:id="subtitle352">Но ты также должна знать,</p>
+<p begin="22346400000t" end="22359600000t" region="region.after" style="defaultStyle" xml:id="subtitle353">она тоже о Боге.</p>
+<p begin="22374400000t" end="22393600000t" region="region.after" style="defaultStyle" xml:id="subtitle354">[Айя] Об этом никто не узнает, я обещаю!</p>
+<p begin="22410400000t" end="22446000000t" region="region.after" style="defaultStyle" xml:id="subtitle355">[Герман] Существует ритуал, который<br/>открывает дверь в подсознание каждого.</p>
+<p begin="22458400000t" end="22475600000t" region="region.after" style="defaultStyle" xml:id="subtitle356">За этой дверью целый мир,</p>
+<p begin="22482400000t" end="22496800000t" region="region.after" style="defaultStyle" xml:id="subtitle357">он очень похож на наш.</p>
+<p begin="22514800000t" end="22527600000t" region="region.after" style="defaultStyle" xml:id="subtitle358">Рождение человека</p>
+<p begin="22534800000t" end="22556800000t" region="region.after" style="defaultStyle" xml:id="subtitle359">по сути есть создание этого мира.</p>
+<p begin="22562000000t" end="22575200000t" region="region.after" style="defaultStyle" xml:id="subtitle360">[кашляет]</p>
+<p begin="22584800000t" end="22604400000t" region="region.after" style="defaultStyle" xml:id="subtitle361">Потеряла что-то здесь,</p>
+<p begin="22610400000t" end="22631600000t" region="region.after" style="defaultStyle" xml:id="subtitle362">внутри себя точно знаешь, где искать.</p>
+<p begin="22645600000t" end="22666000000t" region="region.after" style="defaultStyle" xml:id="subtitle363">Но если человек заболевает,</p>
+<p begin="22684400000t" end="22702800000t" region="region.after" style="defaultStyle" xml:id="subtitle364">его внутренний мир меняется.</p>
+<p begin="22703600000t" end="22718000000t" region="region.after" style="defaultStyle" xml:id="subtitle365">И находиться там куда сложнее.</p>
+<p begin="22720400000t" end="22742800000t" region="region.after" style="defaultStyle" xml:id="subtitle366">Чем ближе смерть,<br/>тем труднее сохранить веру.</p>
+<p begin="22744400000t" end="22770800000t" region="region.after" style="defaultStyle" xml:id="subtitle367">То есть вы хотите сказать, что можете<br/>попасть в голову к Мирре</p>
+<p begin="22772400000t" end="22781600000t" region="region.after" style="defaultStyle" xml:id="subtitle368">и помочь ей?</p>
+<p begin="22802000000t" end="22814800000t" region="region.after" style="defaultStyle" xml:id="subtitle369">Не всё так просто.</p>
+<p begin="22815600000t" end="22843200000t" region="region.after" style="defaultStyle" xml:id="subtitle370">Пожалуйста, сделайте это, отец Герман!</p>
+<p begin="22844800000t" end="22870000000t" region="region.after" style="defaultStyle" xml:id="subtitle371">[Герман] То, о чём ты помышляешь,<br/>может быть очень опасно.</p>
+<p begin="22877600000t" end="22896800000t" region="region.after" style="defaultStyle" xml:id="subtitle372">Разве опаснее смерти сестры,</p>
+<p begin="22900000000t" end="22925200000t" region="region.after" style="defaultStyle" xml:id="subtitle373">на которую вы обрекаете её,<br/>если не поможете?</p>
+<p begin="22943600000t" end="22957200000t" region="region.after" style="defaultStyle" xml:id="subtitle374">[Айя] Ради Мирры!</p>
+<p begin="22959200000t" end="22968000000t" region="region.after" style="defaultStyle" xml:id="subtitle375">[мирра кашляет]</p>
+<p begin="22971600000t" end="22979600000t" region="region.after" style="defaultStyle" xml:id="subtitle376">[герман вздыхает]</p>
+<p begin="22983600000t" end="23016800000t" region="region.after" style="defaultStyle" xml:id="subtitle377">[Герман] Войти в мир бессознательного<br/>может только очень близкий человек</p>
+<p begin="23017600000t" end="23031600000t" region="region.after" style="defaultStyle" xml:id="subtitle378">или член семьи.</p>
+<p begin="23033200000t" end="23056000000t" region="region.after" style="defaultStyle" xml:id="subtitle379">У твоей сестры есть свои секреты и тайны,</p>
+<p begin="23077600000t" end="23115600000t" region="region.after" style="defaultStyle" xml:id="subtitle380">которые хранятся очень глубоко,<br/>и мне она может просто не открыться.</p>
+<p begin="23125600000t" end="23148800000t" region="region.after" style="defaultStyle" xml:id="subtitle381">[Герман] Я могу быть только проводником.</p>
+<p begin="23171200000t" end="23187200000t" region="region.after" style="defaultStyle" xml:id="subtitle382">[звучит церковное пение]</p>
+<p begin="23228800000t" end="23264000000t" region="region.after" style="defaultStyle" xml:id="subtitle383">[Герман] Для создания связи тебе<br/>нужно вспомнить каждую деталь прошлого,</p>
+<p begin="23272400000t" end="23284800000t" region="region.after" style="defaultStyle" xml:id="subtitle384">моменты счастья,</p>
+<p begin="23285600000t" end="23301600000t" region="region.after" style="defaultStyle" xml:id="subtitle385">её переживания и страхи,</p>
+<p begin="23309600000t" end="23332400000t" region="region.after" style="defaultStyle" xml:id="subtitle386">те вещи, которые были для неё дороги.</p>
+<p begin="23348400000t" end="23379200000t" region="region.after" style="defaultStyle" xml:id="subtitle387">Тебе нужно понять её мир<br/>и поверить в него.</p>
+<p begin="23380400000t" end="23411600000t" region="region.after" style="defaultStyle" xml:id="subtitle388">Она не отходила от меня<br/>ни на шаг... удивительно...</p>
+<p begin="23416400000t" end="23446800000t" region="region.after" style="defaultStyle" xml:id="subtitle389">[звучит спокойная музыка]</p>
+<p begin="23531600000t" end="23553600000t" region="region.after" style="defaultStyle" xml:id="subtitle390">[звучит быстрая музыка]</p>
+<p begin="23859200000t" end="23878000000t" region="region.after" style="defaultStyle" xml:id="subtitle391">[звон колокола]</p>
+<p begin="23975600000t" end="23986000000t" region="region.after" style="defaultStyle" xml:id="subtitle392">Скажите,</p>
+<p begin="23993600000t" end="24008800000t" region="region.after" style="defaultStyle" xml:id="subtitle393">на что это похоже?</p>
+<p begin="24033200000t" end="24049600000t" region="region.after" style="defaultStyle" xml:id="subtitle394">Это похоже на состояние сна,</p>
+<p begin="24062000000t" end="24089200000t" region="region.after" style="defaultStyle" xml:id="subtitle395">но чтобы управлять им<br/>и найти причину болезни,</p>
+<p begin="24092800000t" end="24107200000t" region="region.after" style="defaultStyle" xml:id="subtitle396">потребуется очень много энергии.</p>
+<p begin="24117600000t" end="24134000000t" region="region.after" style="defaultStyle" xml:id="subtitle397">Ты уверена, что ты справишься?</p>
+<p begin="24134800000t" end="24151200000t" region="region.after" style="defaultStyle" xml:id="subtitle398">Во мне есть силы, не сомневайтесь.</p>
+<p begin="24163200000t" end="24180400000t" region="region.after" style="defaultStyle" xml:id="subtitle399">[Герман] Твоя сестра очень давно больна.</p>
+<p begin="24188000000t" end="24216800000t" region="region.after" style="defaultStyle" xml:id="subtitle400">А это значит, её мир похож на кошмар.</p>
+<p begin="24221200000t" end="24235600000t" region="region.after" style="defaultStyle" xml:id="subtitle401">[звучит мрачная музыка]</p>
+<p begin="24242400000t" end="24259200000t" region="region.after" style="defaultStyle" xml:id="subtitle402">Чем ближе ко дну океана,</p>
+<p begin="24260800000t" end="24272400000t" region="region.after" style="defaultStyle" xml:id="subtitle403">тем он темнее.</p>
+<p begin="24282400000t" end="24312800000t" region="region.after" style="defaultStyle" xml:id="subtitle404">[Айя] Камланье<br/>это эмоциональное переживание,</p>
+<p begin="24313600000t" end="24336400000t" region="region.after" style="defaultStyle" xml:id="subtitle405">в которое вовлечены и пациент, и шаман.</p>
+<p begin="24339600000t" end="24354400000t" region="region.after" style="defaultStyle" xml:id="subtitle406">Прилагая гигантские усилия,</p>
+<p begin="24355200000t" end="24372800000t" region="region.after" style="defaultStyle" xml:id="subtitle407">шаман помогает пациенту изменить</p>
+<p begin="24373600000t" end="24392400000t" region="region.after" style="defaultStyle" xml:id="subtitle408">его представления о реальности,</p>
+<p begin="24394400000t" end="24417200000t" region="region.after" style="defaultStyle" xml:id="subtitle409">включая представление о том, что он болен.</p>
+<p begin="24430000000t" end="24445600000t" region="region.after" style="defaultStyle" xml:id="subtitle410">Начать нужно с этого.</p>
+<p begin="24503200000t" end="24532000000t" region="region.after" style="defaultStyle" xml:id="subtitle411">Я сделаю всё, чтобы тебе помочь, не бойся.</p>
+<p begin="24534800000t" end="24571200000t" region="region.after" style="defaultStyle" xml:id="subtitle412">[звучит пугающая музыка]</p>
+<p begin="25690800000t" end="25711600000t" region="region.after" style="defaultStyle" xml:id="subtitle413">Тебе будет очень больно, Айя.</p>
+<p begin="25721200000t" end="25749200000t" region="region.after" style="defaultStyle" xml:id="subtitle414">[Герман] Помни,<br/>что бы ты ни увидела, нельзя бежать.</p>
+<p begin="25754400000t" end="25775600000t" region="region.after" style="defaultStyle" xml:id="subtitle415">[Айя] Да. Но вы ведь будете рядом?</p>
+<p begin="25786800000t" end="25804400000t" region="region.after" style="defaultStyle" xml:id="subtitle416">[Герман вздыхает]<br/>я могу только наблюдать.</p>
+<p begin="25845200000t" end="25858800000t" region="region.after" style="defaultStyle" xml:id="subtitle417">[Герман] Закрой глаза!</p>
+<p begin="25868000000t" end="25887200000t" region="region.after" style="defaultStyle" xml:id="subtitle418">[звучит пугающая музыка]</p>
+<p begin="25942400000t" end="25951600000t" region="region.after" style="defaultStyle" xml:id="subtitle419">[громкий стук]</p>
+<p begin="26054400000t" end="26072000000t" region="region.after" style="defaultStyle" xml:id="subtitle420">[скрежет]</p>
+<p begin="26418000000t" end="26435600000t" region="region.after" style="defaultStyle" xml:id="subtitle421">[пронзительный крик]</p>
+<p begin="26746000000t" end="26766800000t" region="region.after" style="defaultStyle" xml:id="subtitle422">[скрежет]</p>
+<p begin="27128800000t" end="27151200000t" region="region.after" style="defaultStyle" xml:id="subtitle423">[Айя] Мирра... Кто тебя привязал?</p>
+<p begin="27157600000t" end="27168800000t" region="region.after" style="defaultStyle" xml:id="subtitle424">Уходи отсюда!</p>
+<p begin="27179600000t" end="27195200000t" region="region.after" style="defaultStyle" xml:id="subtitle425">Она скоро придёт!</p>
+<p begin="27209200000t" end="27222800000t" region="region.after" style="defaultStyle" xml:id="subtitle426">[Айя] Кто придёт?</p>
+<p begin="27230400000t" end="27249200000t" region="region.after" style="defaultStyle" xml:id="subtitle427">Посмотри под простыню!</p>
+<p begin="27264400000t" end="27284000000t" region="region.after" style="defaultStyle" xml:id="subtitle428">Мама ест меня изнутри.</p>
+<p begin="27300800000t" end="27321200000t" region="region.after" style="defaultStyle" xml:id="subtitle429">[мирра тяжело дышит]</p>
+<p begin="27335200000t" end="27358400000t" region="region.after" style="defaultStyle" xml:id="subtitle430">[Айя плачет]<br/>Почему мама делает это с тобой?</p>
+<p begin="27392000000t" end="27419200000t" region="region.after" style="defaultStyle" xml:id="subtitle431">Потому что я виновата в её смерти!</p>
+<p begin="27420400000t" end="27430000000t" region="region.after" style="defaultStyle" xml:id="subtitle432">[звон цепей]</p>
+<p begin="27431600000t" end="27452400000t" region="region.after" style="defaultStyle" xml:id="subtitle433">[Айя] Нет! Её убила не ты!</p>
+<p begin="27458400000t" end="27478800000t" region="region.after" style="defaultStyle" xml:id="subtitle434">Всё, что произошло, было свыше!</p>
+<p begin="27483600000t" end="27508000000t" region="region.after" style="defaultStyle" xml:id="subtitle435">А иначе она должна привязать и меня!</p>
+<p begin="27522000000t" end="27546400000t" region="region.after" style="defaultStyle" xml:id="subtitle436">Я готова разделить с тобой это мучение!</p>
+<p begin="27549200000t" end="27562800000t" region="region.after" style="defaultStyle" xml:id="subtitle437">[удар в стену]</p>
+<p begin="27566400000t" end="27578400000t" region="region.after" style="defaultStyle" xml:id="subtitle438">[звон цепей]</p>
+<p begin="27584000000t" end="27593600000t" region="region.after" style="defaultStyle" xml:id="subtitle439">[стук в дверь] с</p>
+<p begin="27598400000t" end="27609200000t" region="region.after" style="defaultStyle" xml:id="subtitle440">[айя тяжело дышит]</p>
+<p begin="27617200000t" end="27636400000t" region="region.after" style="defaultStyle" xml:id="subtitle441">[Мирра] Ты должна открыть дверь.</p>
+<p begin="27662000000t" end="27704800000t" region="region.after" style="defaultStyle" xml:id="subtitle442">[стук в дверь]</p>
+<p begin="27748400000t" end="27786000000t" region="region.after" style="defaultStyle" xml:id="subtitle443">[звон цепей,тяжелая музыка]</p>
+<p begin="27968800000t" end="27995600000t" region="region.after" style="defaultStyle" xml:id="subtitle444">[стук в дверь]</p>
+<p begin="28082400000t" end="28110800000t" region="region.after" style="defaultStyle" xml:id="subtitle445">[скрежет, писк]</p>
+<p begin="28174400000t" end="28192800000t" region="region.after" style="defaultStyle" xml:id="subtitle446">[играет спокойная музыка]</p>
+<p begin="28342000000t" end="28360800000t" region="region.after" style="defaultStyle" xml:id="subtitle447">[звук шагов айи]</p>
+<p begin="28421200000t" end="28455200000t" region="region.after" style="defaultStyle" xml:id="subtitle448">[звучит жуткая музыка]</p>
+<p begin="29038400000t" end="29050800000t" region="region.after" style="defaultStyle" xml:id="subtitle449">У меня получилось.</p>
+<p begin="29068400000t" end="29090800000t" region="region.after" style="defaultStyle" xml:id="subtitle450">[Айя] Я видела то, что у Мирры внутри.</p>
+<p begin="29110400000t" end="29122800000t" region="region.after" style="defaultStyle" xml:id="subtitle451">Твой амулет...</p>
+<p begin="29133600000t" end="29145600000t" region="region.after" style="defaultStyle" xml:id="subtitle452">Он был там.</p>
+<p begin="29156800000t" end="29174400000t" region="region.after" style="defaultStyle" xml:id="subtitle453">Так мне удалось вернуться оттуда.</p>
+<p begin="29180400000t" end="29196800000t" region="region.after" style="defaultStyle" xml:id="subtitle454">[Герман] Значит, она тоже помогала тебе.</p>
+<p begin="29230000000t" end="29246400000t" region="region.after" style="defaultStyle" xml:id="subtitle455">У неё по-прежнему нет сил.</p>
+<p begin="29259200000t" end="29293200000t" region="region.after" style="defaultStyle" xml:id="subtitle456">Сейчас она просто спит,<br/>ей это крайне необходимо.</p>
+<p begin="29304000000t" end="29323600000t" region="region.after" style="defaultStyle" xml:id="subtitle457">[звучит таинственная музыка]</p>
+<p begin="29373600000t" end="29394800000t" region="region.after" style="defaultStyle" xml:id="subtitle458">[Айя] Этому знаку несколько тысяч лет,</p>
+<p begin="29400000000t" end="29419200000t" region="region.after" style="defaultStyle" xml:id="subtitle459">как рассказывал мне отец Герман.</p>
+<p begin="29423200000t" end="29476400000t" region="region.after" style="defaultStyle" xml:id="subtitle460">С него и началось его учение. Когда-то,<br/>в самом начале пути служения Богу,</p>
+<p begin="29480000000t" end="29510800000t" region="region.after" style="defaultStyle" xml:id="subtitle461">святой отец всего себя отдавал<br/>вере и людям.</p>
+<p begin="29513200000t" end="29534000000t" region="region.after" style="defaultStyle" xml:id="subtitle462">Он был открыт каждому жителю города,</p>
+<p begin="29540800000t" end="29579200000t" region="region.after" style="defaultStyle" xml:id="subtitle463">но ближе других был для него<br/>маленький мальчик.</p>
+<p begin="29582800000t" end="29625600000t" region="region.after" style="defaultStyle" xml:id="subtitle464">Родительское чувство, которое, очевидно,<br/>не суждено было испытать отцу Герману,</p>
+<p begin="29629200000t" end="29649200000t" region="region.after" style="defaultStyle" xml:id="subtitle465">он воплощал при каждой их встрече.</p>
+<p begin="29650000000t" end="29678800000t" region="region.after" style="defaultStyle" xml:id="subtitle466">Мальчика уже с ранних лет<br/>интересовали духовные темы,</p>
+<p begin="29681200000t" end="29698800000t" region="region.after" style="defaultStyle" xml:id="subtitle467">и святой отец был твердо уверен,</p>
+<p begin="29700400000t" end="29714800000t" region="region.after" style="defaultStyle" xml:id="subtitle468">что нашел последователя.</p>
+<p begin="29716800000t" end="29728800000t" region="region.after" style="defaultStyle" xml:id="subtitle469">Однако</p>
+<p begin="29729600000t" end="29754400000t" region="region.after" style="defaultStyle" xml:id="subtitle470">спустя три полнолуния<br/>отцу Герману сообщили</p>
+<p begin="29755200000t" end="29794400000t" region="region.after" style="defaultStyle" xml:id="subtitle471">о тяжелых испытаниях,<br/>выпавших на долю шестилетнего Иова.</p>
+<p begin="29800000000t" end="29819200000t" region="region.after" style="defaultStyle" xml:id="subtitle472">Несколько недель падре не отходил</p>
+<p begin="29820000000t" end="29842000000t" region="region.after" style="defaultStyle" xml:id="subtitle473">от мальчика, отдавая все свои силы</p>
+<p begin="29842800000t" end="29871600000t" region="region.after" style="defaultStyle" xml:id="subtitle474">молитве. Но...</p>
+<p begin="29872400000t" end="29900000000t" region="region.after" style="defaultStyle" xml:id="subtitle475">это не спасло его от смертельной болезни.</p>
+<p begin="29914800000t" end="29930000000t" region="region.after" style="defaultStyle" xml:id="subtitle476">[шум крыльев]</p>
+<p begin="29962000000t" end="29989200000t" region="region.after" style="defaultStyle" xml:id="subtitle477">Впервые он усомнился в своей вере.</p>
+<p begin="29990000000t" end="30006400000t" region="region.after" style="defaultStyle" xml:id="subtitle478">Он спрашивал себя,</p>
+<p begin="30007200000t" end="30044400000t" region="region.after" style="defaultStyle" xml:id="subtitle479">слышат ли его сверху и есть ли тот,<br/>кто должен услышать.</p>
+<p begin="30083200000t" end="30093200000t" region="region.after" style="defaultStyle" xml:id="subtitle480">[гремит гром]</p>
+<p begin="30103200000t" end="30122400000t" region="region.after" style="defaultStyle" xml:id="subtitle481">Почему?</p>
+<p begin="30129200000t" end="30156400000t" region="region.after" style="defaultStyle" xml:id="subtitle482">[звучит жуткая музыка]</p>
+<p begin="30208400000t" end="30249200000t" region="region.after" style="defaultStyle" xml:id="subtitle483">[Айя] Этим же вечером, подходя к своему<br/>дому, отец Герман увидел вдалеке</p>
+<p begin="30250000000t" end="30266000000t" region="region.after" style="defaultStyle" xml:id="subtitle484">неподвижный силуэт.</p>
+<p begin="30269200000t" end="30293600000t" region="region.after" style="defaultStyle" xml:id="subtitle485">Падре сделал несколько шагов<br/>к нему навстречу.</p>
+<p begin="30298800000t" end="30314800000t" region="region.after" style="defaultStyle" xml:id="subtitle486">И, к своему удивлению, обнаружил,</p>
+<p begin="30315600000t" end="30330400000t" region="region.after" style="defaultStyle" xml:id="subtitle487">что перед ним старик,</p>
+<p begin="30331200000t" end="30366800000t" region="region.after" style="defaultStyle" xml:id="subtitle488">которого ещё недавно он исповедовал<br/>и причащал перед смертью.</p>
+<p begin="30374000000t" end="30397200000t" region="region.after" style="defaultStyle" xml:id="subtitle489">Как он победил неизлечимый недуг?</p>
+<p begin="30398000000t" end="30424800000t" region="region.after" style="defaultStyle" xml:id="subtitle490">Почему смерть не забрала больного<br/>в мир мёртвых?</p>
+<p begin="30432800000t" end="30450800000t" region="region.after" style="defaultStyle" xml:id="subtitle491">Старик поведал святому отцу</p>
+<p begin="30452400000t" end="30484400000t" region="region.after" style="defaultStyle" xml:id="subtitle492">о том, что ему помогло.<br/>Спустя несколько недель</p>
+<p begin="30485200000t" end="30520400000t" region="region.after" style="defaultStyle" xml:id="subtitle493">отец Герман отправился на поиски<br/>целительной силы в горы.</p>
+<p begin="30522400000t" end="30566400000t" region="region.after" style="defaultStyle" xml:id="subtitle494">Шаман тех мест призвал его<br/>никогда не терять веры</p>
+<p begin="30580400000t" end="30619200000t" region="region.after" style="defaultStyle" xml:id="subtitle495">и раскрыл секрет древнейшего<br/>искусства... Камланье.</p>
+<p begin="30626000000t" end="30644800000t" region="region.after" style="defaultStyle" xml:id="subtitle496">[звучит спокойная музыка]</p>
+<p begin="30779200000t" end="30788800000t" region="region.after" style="defaultStyle" xml:id="subtitle497">[Айя] Отец Герман,</p>
+<p begin="30793200000t" end="30814800000t" region="region.after" style="defaultStyle" xml:id="subtitle498">сюда идёт тот врач, который разлучил нас!</p>
+<p begin="30815600000t" end="30829600000t" region="region.after" style="defaultStyle" xml:id="subtitle499">Пожалуйста, не открывайте ему дверь!</p>
+<p begin="30842400000t" end="30862400000t" region="region.after" style="defaultStyle" xml:id="subtitle500">Айя, я не смогу обмануть.</p>
+<p begin="30864400000t" end="30882000000t" region="region.after" style="defaultStyle" xml:id="subtitle501">Тогда, пожалуйста, просто не открывайте.</p>
+<p begin="30882800000t" end="30894800000t" region="region.after" style="defaultStyle" xml:id="subtitle502">[стук в дверь]</p>
+<p begin="31082000000t" end="31112800000t" region="region.after" style="defaultStyle" xml:id="subtitle503">Если ты увидишь что-то страшное,<br/>тебе нельзя убегать.</p>
+<p begin="31120000000t" end="31145200000t" region="region.after" style="defaultStyle" xml:id="subtitle504">[Герман] Ты должна подбежать<br/>к нему и прикоснуться.</p>
+<p begin="31218800000t" end="31234800000t" region="region.after" style="defaultStyle" xml:id="subtitle505">[щебетание птиц]</p>
+<p begin="31306800000t" end="31328800000t" region="region.after" style="defaultStyle" xml:id="subtitle506">[лязг, стук]</p>
+<p begin="31588000000t" end="31608800000t" region="region.after" style="defaultStyle" xml:id="subtitle507">[звук шагов айи]</p>
+<p begin="31678400000t" end="31696000000t" region="region.after" style="defaultStyle" xml:id="subtitle508">[скрежет открывающейся двери]</p>
+<p begin="31898800000t" end="31922800000t" region="region.after" style="defaultStyle" xml:id="subtitle509">[скрип половиц]</p>
+<p begin="31984400000t" end="32002400000t" region="region.after" style="defaultStyle" xml:id="subtitle510">[звучит резкая музыка]</p>
+<p begin="32020000000t" end="32036400000t" region="region.after" style="defaultStyle" xml:id="subtitle511">[сердцебиение]</p>
+<p begin="32216800000t" end="32234800000t" region="region.after" style="defaultStyle" xml:id="subtitle512">[рычание]</p>
+<p begin="32278400000t" end="32294800000t" region="region.after" style="defaultStyle" xml:id="subtitle513">[визг]</p>
+<p begin="32414000000t" end="32437200000t" region="region.after" style="defaultStyle" xml:id="subtitle514">[мирра плачет]<br/>ты помнишь нашу мельницу?</p>
+<p begin="32452000000t" end="32494000000t" region="region.after" style="defaultStyle" xml:id="subtitle515">Он часто привозил меня сюда<br/>и заставлял потакать ему.</p>
+<p begin="32505600000t" end="32520800000t" region="region.after" style="defaultStyle" xml:id="subtitle516">Мама не знала,</p>
+<p begin="32521600000t" end="32543200000t" region="region.after" style="defaultStyle" xml:id="subtitle517">что он это делал со мной.</p>
+<p begin="32556800000t" end="32592000000t" region="region.after" style="defaultStyle" xml:id="subtitle518">Неродная кровь во мне развязала ему руки.</p>
+<p begin="32599600000t" end="32622000000t" region="region.after" style="defaultStyle" xml:id="subtitle519">Я даже представить не могла...</p>
+<p begin="32636000000t" end="32674400000t" region="region.after" style="defaultStyle" xml:id="subtitle520">-Мы же любили его, как родного отца.<br/>-Он угрожал,</p>
+<p begin="32681600000t" end="32702400000t" region="region.after" style="defaultStyle" xml:id="subtitle521">что если об этом узнает кто-нибудь,</p>
+<p begin="32708800000t" end="32732000000t" region="region.after" style="defaultStyle" xml:id="subtitle522">он повесит меня на этом крюке.</p>
+<p begin="32755200000t" end="32765600000t" region="region.after" style="defaultStyle" xml:id="subtitle523">[Айя] Мирра...</p>
+<p begin="32768000000t" end="32786400000t" region="region.after" style="defaultStyle" xml:id="subtitle524">Он имел надо мной власть!</p>
+<p begin="32800000000t" end="32812400000t" region="region.after" style="defaultStyle" xml:id="subtitle525">[мирра вздыхает]</p>
+<p begin="32836400000t" end="32851600000t" region="region.after" style="defaultStyle" xml:id="subtitle526">[Мирра] Я покажу.</p>
+<p begin="33076400000t" end="33099200000t" region="region.after" style="defaultStyle" xml:id="subtitle527">[звучит резкая музыка]</p>
+<p begin="33355600000t" end="33383600000t" region="region.after" style="defaultStyle" xml:id="subtitle528">Они жили и живут в нашем городе.</p>
+<p begin="33414000000t" end="33442800000t" region="region.after" style="defaultStyle" xml:id="subtitle529">Но из-за него не могут простить себя.</p>
+<p begin="33472800000t" end="33490000000t" region="region.after" style="defaultStyle" xml:id="subtitle530">[звук шагов]</p>
+<p begin="33579600000t" end="33598000000t" region="region.after" style="defaultStyle" xml:id="subtitle531">[звучит жуткая музыка]</p>
+<p begin="33646000000t" end="33657200000t" region="region.after" style="defaultStyle" xml:id="subtitle532">[звон металла]</p>
+<p begin="33659200000t" end="33677200000t" region="region.after" style="defaultStyle" xml:id="subtitle533">[скрежет]</p>
+<p begin="33703200000t" end="33722000000t" region="region.after" style="defaultStyle" xml:id="subtitle534">Я сама этого хотела!</p>
+<p begin="33724000000t" end="33736800000t" region="region.after" style="defaultStyle" xml:id="subtitle535">Я сама этого хотела.</p>
+<p begin="33753200000t" end="33766800000t" region="region.after" style="defaultStyle" xml:id="subtitle536">Я сама этого хотела.</p>
+<p begin="33779600000t" end="33798800000t" region="region.after" style="defaultStyle" xml:id="subtitle537">-Я сама этого хотела.<br/>-Я сама этого хотела.</p>
+<p begin="33817600000t" end="33830800000t" region="region.after" style="defaultStyle" xml:id="subtitle538">Я сама этого хотела.</p>
+<p begin="33847600000t" end="33864400000t" region="region.after" style="defaultStyle" xml:id="subtitle539">Я не хотела этого!</p>
+<p begin="33865200000t" end="33878400000t" region="region.after" style="defaultStyle" xml:id="subtitle540">Я дразнила его.</p>
+<p begin="33879200000t" end="33897200000t" region="region.after" style="defaultStyle" xml:id="subtitle541">-Я дразнила его.<br/>-Я дразнила его.</p>
+<p begin="33990800000t" end="34008400000t" region="region.after" style="defaultStyle" xml:id="subtitle542">[Айя] Не вини себя!</p>
+<p begin="34014000000t" end="34034000000t" region="region.after" style="defaultStyle" xml:id="subtitle543">Его больше нет с нами!</p>
+<p begin="34053200000t" end="34071600000t" region="region.after" style="defaultStyle" xml:id="subtitle544">Его покарал сам Бог!</p>
+<p begin="34077200000t" end="34091600000t" region="region.after" style="defaultStyle" xml:id="subtitle545">Теперь он с ним.</p>
+<p begin="34278400000t" end="34301200000t" region="region.after" style="defaultStyle" xml:id="subtitle546">[звучит спокойная музыка]</p>
+<p begin="34667600000t" end="34684800000t" region="region.after" style="defaultStyle" xml:id="subtitle547">[айя тяжело дышит] а</p>
+<p begin="34690000000t" end="34704000000t" region="region.after" style="defaultStyle" xml:id="subtitle548">Не спеши, Айя.</p>
+<p begin="34726000000t" end="34735200000t" region="region.after" style="defaultStyle" xml:id="subtitle549">[Айя] Где она?</p>
+<p begin="34736000000t" end="34747600000t" region="region.after" style="defaultStyle" xml:id="subtitle550">[Герман] Я положил её на пол.</p>
+<p begin="34788000000t" end="34802400000t" region="region.after" style="defaultStyle" xml:id="subtitle551">Она стала слабее.</p>
+<p begin="34804000000t" end="34826000000t" region="region.after" style="defaultStyle" xml:id="subtitle552">Вижу, что и тебе<br/>всё тяжелее выходить оттуда.</p>
+<p begin="34835200000t" end="34853200000t" region="region.after" style="defaultStyle" xml:id="subtitle553">[Айя] Да, но силы есть.</p>
+<p begin="34872800000t" end="34889200000t" region="region.after" style="defaultStyle" xml:id="subtitle554">Она не просыпается!</p>
+<p begin="34890800000t" end="34912800000t" region="region.after" style="defaultStyle" xml:id="subtitle555">[Герман] Значит, не нашла самое главное.</p>
+<p begin="34919600000t" end="34941600000t" region="region.after" style="defaultStyle" xml:id="subtitle556">Всё, что ты видела, она переживала<br/>вместе с тобой.</p>
+<p begin="34947200000t" end="34966000000t" region="region.after" style="defaultStyle" xml:id="subtitle557">А ей проходить все это гораздо тяжелее.</p>
+<p begin="34967200000t" end="34985200000t" region="region.after" style="defaultStyle" xml:id="subtitle558">[Айя] Дайте мне войти туда снова.</p>
+<p begin="35007600000t" end="35024800000t" region="region.after" style="defaultStyle" xml:id="subtitle559">Тебе не нужно время на восстановление?</p>
+<p begin="35035600000t" end="35052800000t" region="region.after" style="defaultStyle" xml:id="subtitle560">Нет, я хочу ей помочь!</p>
+<p begin="35066800000t" end="35094400000t" region="region.after" style="defaultStyle" xml:id="subtitle561">[Герман] Возможно, тебе явится<br/>самый глубокий её страх.</p>
+<p begin="35105200000t" end="35114800000t" region="region.after" style="defaultStyle" xml:id="subtitle562">В книгах написано,</p>
+<p begin="35115600000t" end="35154400000t" region="region.after" style="defaultStyle" xml:id="subtitle563">что только убив первопричину, оболочку<br/>страха, ты сможешь остановить болезнь.</p>
+<p begin="35162000000t" end="35198000000t" region="region.after" style="defaultStyle" xml:id="subtitle564">Не сделаешь этого - по всей вероятности,<br/>она умрет.</p>
+<p begin="35204800000t" end="35217200000t" region="region.after" style="defaultStyle" xml:id="subtitle565">[Айя] Я всё поняла.</p>
+<p begin="35230400000t" end="35243200000t" region="region.after" style="defaultStyle" xml:id="subtitle566">[сердцебиение]</p>
+<p begin="35265200000t" end="35277200000t" region="region.after" style="defaultStyle" xml:id="subtitle567">[лязг]</p>
+<p begin="35280800000t" end="35298000000t" region="region.after" style="defaultStyle" xml:id="subtitle568">[айя стонет]</p>
+<p begin="35310400000t" end="35334800000t" region="region.after" style="defaultStyle" xml:id="subtitle569">[звучит мрачная музыка]</p>
+<p begin="35722800000t" end="35748000000t" region="region.after" style="defaultStyle" xml:id="subtitle570">[мирра играет на фортепиано]</p>
+<p begin="35926000000t" end="35944800000t" region="region.after" style="defaultStyle" xml:id="subtitle571">Я так по тебе скучала!</p>
+<p begin="35962400000t" end="35980400000t" region="region.after" style="defaultStyle" xml:id="subtitle572">[звучит тревожная музыка]</p>
+<p begin="36021200000t" end="36045200000t" region="region.after" style="defaultStyle" xml:id="subtitle573">Кроме нас никого нет.</p>
+<p begin="36049600000t" end="36062400000t" region="region.after" style="defaultStyle" xml:id="subtitle574">Мне здесь так хорошо</p>
+<p begin="36064800000t" end="36077600000t" region="region.after" style="defaultStyle" xml:id="subtitle575">и спокойно,</p>
+<p begin="36078400000t" end="36088400000t" region="region.after" style="defaultStyle" xml:id="subtitle576">Айя.</p>
+<p begin="36089200000t" end="36118400000t" region="region.after" style="defaultStyle" xml:id="subtitle577">И с тобой здесь ничего не случится.</p>
+<p begin="36125200000t" end="36142000000t" region="region.after" style="defaultStyle" xml:id="subtitle578">-Со мной?<br/>-Да.</p>
+<p begin="36178000000t" end="36200400000t" region="region.after" style="defaultStyle" xml:id="subtitle579">Скажи, чего ты сейчас боишься?</p>
+<p begin="36281600000t" end="36301200000t" region="region.after" style="defaultStyle" xml:id="subtitle580">Потерять любимую сестру.</p>
+<p begin="36335200000t" end="36348400000t" region="region.after" style="defaultStyle" xml:id="subtitle581">[Айя] Но в книгах сказано,</p>
+<p begin="36354400000t" end="36372400000t" region="region.after" style="defaultStyle" xml:id="subtitle582">что только убив первопричину,</p>
+<p begin="36373200000t" end="36390400000t" region="region.after" style="defaultStyle" xml:id="subtitle583">ты сможешь остановить болезнь.</p>
+<p begin="36408400000t" end="36428400000t" region="region.after" style="defaultStyle" xml:id="subtitle584">Ты боишься моей смерти?</p>
+<p begin="36482400000t" end="36502400000t" region="region.after" style="defaultStyle" xml:id="subtitle585">[Мирра] Останься здесь, Айя!</p>
+<p begin="36555600000t" end="36569600000t" region="region.after" style="defaultStyle" xml:id="subtitle586">[стук в стену]</p>
+<p begin="36679600000t" end="36695200000t" region="region.after" style="defaultStyle" xml:id="subtitle587">[ритмичная музыка в такт дыхания]</p>
+<p begin="36750000000t" end="36762800000t" region="region.after" style="defaultStyle" xml:id="subtitle588">[Айя] Мой нож!</p>
+<p begin="36801200000t" end="36814400000t" region="region.after" style="defaultStyle" xml:id="subtitle589">Его нет.</p>
+<p begin="36816800000t" end="36840000000t" region="region.after" style="defaultStyle" xml:id="subtitle590">Конечно, откуда она<br/>могла знать об этом?</p>
+<p begin="36868400000t" end="36877600000t" region="region.after" style="defaultStyle" xml:id="subtitle591">Мирра...</p>
+<p begin="36891200000t" end="36908000000t" region="region.after" style="defaultStyle" xml:id="subtitle592">скоро всё будет, как раньше.</p>
+<p begin="36950400000t" end="36972800000t" region="region.after" style="defaultStyle" xml:id="subtitle593">[звон разбитого зеркала]</p>
+<p begin="37142800000t" end="37157200000t" region="region.after" style="defaultStyle" xml:id="subtitle594">[Айя] Я спасаю тебя.</p>
+<p begin="37174800000t" end="37188400000t" region="region.after" style="defaultStyle" xml:id="subtitle595">Убиваю твой страх.</p>
+<p begin="37202800000t" end="37222400000t" region="region.after" style="defaultStyle" xml:id="subtitle596">[звучит тяжелая музыка]</p>
+<p begin="37254800000t" end="37268000000t" region="region.after" style="defaultStyle" xml:id="subtitle597">[мирра кричит]</p>
+<p begin="37292000000t" end="37312400000t" region="region.after" style="defaultStyle" xml:id="subtitle598">[айя стонет]</p>
+<p begin="37395600000t" end="37432400000t" region="region.after" style="defaultStyle" xml:id="subtitle599">[писк, скрежет]</p>
+<p begin="37511200000t" end="37534000000t" region="region.after" style="defaultStyle" xml:id="subtitle600">[звучит мелодия музыкальной шкатулки]</p>
+<p begin="37726800000t" end="37748400000t" region="region.after" style="defaultStyle" xml:id="subtitle601">[играет фортепиано]</p>
+<p begin="37872400000t" end="37893600000t" region="region.after" style="defaultStyle" xml:id="subtitle602">[звучит резкая музыка]</p>
+<p begin="38282400000t" end="38294000000t" region="region.after" style="defaultStyle" xml:id="subtitle603">[звон колокола]</p>
+<p begin="38352400000t" end="38380800000t" region="region.after" style="defaultStyle" xml:id="subtitle604">[звучит тревожная музыка]</p>
+<p begin="39289200000t" end="39300400000t" region="region.after" style="defaultStyle" xml:id="subtitle605">Мама.</p>
+<p begin="39308000000t" end="39318000000t" region="region.after" style="defaultStyle" xml:id="subtitle606">Мирра!</p>
+<p begin="39320400000t" end="39337600000t" region="region.after" style="defaultStyle" xml:id="subtitle607">[звон упавшего зеркала]</p>
+<p begin="39342800000t" end="39357600000t" region="region.after" style="defaultStyle" xml:id="subtitle608">[звон колокола]</p>
+<p begin="39508000000t" end="39531600000t" region="region.after" style="defaultStyle" xml:id="subtitle609">[шорох шагов айи, плеск падающих капель]</p>
+<p begin="39669200000t" end="39686000000t" region="region.after" style="defaultStyle" xml:id="subtitle610">[вздыхает]</p>
+<p begin="39770000000t" end="39780400000t" region="region.after" style="defaultStyle" xml:id="subtitle611">[Герман] Айя.</p>
+<p begin="39834400000t" end="39852800000t" region="region.after" style="defaultStyle" xml:id="subtitle612">[звучит жуткая музыка]</p>
+<p begin="39868000000t" end="39902000000t" region="region.after" style="defaultStyle" xml:id="subtitle613">Ты спрашиваешь себя, настоящий ли я</p>
+<p begin="39911600000t" end="39941200000t" region="region.after" style="defaultStyle" xml:id="subtitle614">или всего лишь часть твоего воображения?</p>
+<p begin="39964000000t" end="39980400000t" region="region.after" style="defaultStyle" xml:id="subtitle615">Если я воображаемый,</p>
+<p begin="39981200000t" end="40005600000t" region="region.after" style="defaultStyle" xml:id="subtitle616">то каково мое предназначение здесь?</p>
+<p begin="40020000000t" end="40042800000t" region="region.after" style="defaultStyle" xml:id="subtitle617">Ну а если есть на самом деле,</p>
+<p begin="40052000000t" end="40068000000t" region="region.after" style="defaultStyle" xml:id="subtitle618">то как сюда попал?</p>
+<p begin="40080800000t" end="40090400000t" region="region.after" style="defaultStyle" xml:id="subtitle619">Так?</p>
+<p begin="40099200000t" end="40116800000t" region="region.after" style="defaultStyle" xml:id="subtitle620">Можешь отвечать мне или нет.</p>
+<p begin="40118800000t" end="40139200000t" region="region.after" style="defaultStyle" xml:id="subtitle621">[Герман] Я всё равно знаю,<br/>о чем ты думаешь.</p>
+<p begin="40140000000t" end="40157200000t" region="region.after" style="defaultStyle" xml:id="subtitle622">Где моя сестра?</p>
+<p begin="40181200000t" end="40198400000t" region="region.after" style="defaultStyle" xml:id="subtitle623">Там, где мы её оставили.</p>
+<p begin="40200800000t" end="40214400000t" region="region.after" style="defaultStyle" xml:id="subtitle624">В моём доме.</p>
+<p begin="40226000000t" end="40246400000t" region="region.after" style="defaultStyle" xml:id="subtitle625">[Герман] Тебе не интересно, где мы сейчас?</p>
+<p begin="40273200000t" end="40288000000t" region="region.after" style="defaultStyle" xml:id="subtitle626">[Герман] Самопожертвование.</p>
+<p begin="40288800000t" end="40309200000t" region="region.after" style="defaultStyle" xml:id="subtitle627">Если честно, меня это очень удивило.</p>
+<p begin="40319600000t" end="40341200000t" region="region.after" style="defaultStyle" xml:id="subtitle628">Это очень чистый поступок, Айя!</p>
+<p begin="40347200000t" end="40358400000t" region="region.after" style="defaultStyle" xml:id="subtitle629">И я подумал,</p>
+<p begin="40364800000t" end="40382400000t" region="region.after" style="defaultStyle" xml:id="subtitle630">почему бы, по Божьей воле,</p>
+<p begin="40383200000t" end="40414400000t" region="region.after" style="defaultStyle" xml:id="subtitle631">тебе бы не оказаться в моём мире?</p>
+<p begin="40427600000t" end="40439600000t" region="region.after" style="defaultStyle" xml:id="subtitle632">О, Господи, помоги мне!</p>
+<p begin="40440400000t" end="40458000000t" region="region.after" style="defaultStyle" xml:id="subtitle633">[резкий крик]</p>
+<p begin="40476800000t" end="40496400000t" region="region.after" style="defaultStyle" xml:id="subtitle634">[звучит тяжелая музыка]</p>
+<p begin="40542000000t" end="40557200000t" region="region.after" style="defaultStyle" xml:id="subtitle635">[Герман] Перестань бояться,</p>
+<p begin="40558000000t" end="40586000000t" region="region.after" style="defaultStyle" xml:id="subtitle636">или ты увидишь весь плод своего страха!</p>
+<p begin="40609200000t" end="40619200000t" region="region.after" style="defaultStyle" xml:id="subtitle637">Однажды</p>
+<p begin="40620000000t" end="40636800000t" region="region.after" style="defaultStyle" xml:id="subtitle638">я услышал голос...</p>
+<p begin="40643600000t" end="40663600000t" region="region.after" style="defaultStyle" xml:id="subtitle639">это был голос самого Бога.</p>
+<p begin="40674000000t" end="40719200000t" region="region.after" style="defaultStyle" xml:id="subtitle640">Всё, что произошло со мной, и<br/>то, что случилось с тобой...</p>
+<p begin="40720400000t" end="40738800000t" region="region.after" style="defaultStyle" xml:id="subtitle641">Отец Герман, пожалуйста...</p>
+<p begin="40752800000t" end="40777600000t" region="region.after" style="defaultStyle" xml:id="subtitle642">[звучит резкая музыка]</p>
+<p begin="40917600000t" end="40932000000t" region="region.after" style="defaultStyle" xml:id="subtitle643">[Герман] Пойми!</p>
+<p begin="40933600000t" end="40964399999t" region="region.after" style="defaultStyle" xml:id="subtitle644">Мой дар - это была его воля.</p>
+<p begin="40972799999t" end="40984799999t" region="region.after" style="defaultStyle" xml:id="subtitle645">Истина в том, что</p>
+<p begin="40985600000t" end="41013999999t" region="region.after" style="defaultStyle" xml:id="subtitle646">наш мир он создал в своём подсознании</p>
+<p begin="41017600000t" end="41034399999t" region="region.after" style="defaultStyle" xml:id="subtitle647">и позволил избранным</p>
+<p begin="41035200000t" end="41052400000t" region="region.after" style="defaultStyle" xml:id="subtitle648">творить собственный мир.</p>
+<p begin="41053999999t" end="41073599999t" region="region.after" style="defaultStyle" xml:id="subtitle649">[звучит хоровое пение]</p>
+<p begin="41088000000t" end="41112000000t" region="region.after" style="defaultStyle" xml:id="subtitle650">Я не могу тебя отпустить.</p>
+<p begin="41154799999t" end="41170800000t" region="region.after" style="defaultStyle" xml:id="subtitle651">Знакомься.</p>
+<p begin="41175200000t" end="41202799999t" region="region.after" style="defaultStyle" xml:id="subtitle652">Это Айя.</p>
+<p begin="41303199999t" end="41332799999t" region="region.after" style="defaultStyle" xml:id="subtitle653">Дети мои, вы будете Адамом и Евой,</p>
+<p begin="41339200000t" end="41364799999t" region="region.after" style="defaultStyle" xml:id="subtitle654">первыми в моём новом мире.</p>
+<p begin="41376800000t" end="41396400000t" region="region.after" style="defaultStyle" xml:id="subtitle655">[шум ветра]</p>
+<p begin="41418800000t" end="41442000000t" region="region.after" style="defaultStyle" xml:id="subtitle656">[мирра тяжело дышит]</p>
+<p begin="41736800000t" end="41760000000t" region="region.after" style="defaultStyle" xml:id="subtitle657">[звучит тревожная музыка]</p>
+<p begin="42101200000t" end="42111600000t" region="region.after" style="defaultStyle" xml:id="subtitle658">[Мирра] Айя!</p>
+<p begin="42112400000t" end="42121600000t" region="region.after" style="defaultStyle" xml:id="subtitle659">Айя!</p>
+<p begin="42216800000t" end="42238800000t" region="region.after" style="defaultStyle" xml:id="subtitle660">[звучит резкая музыка]</p>
+<p begin="42648400000t" end="42663200000t" region="region.after" style="defaultStyle" xml:id="subtitle661">[Мирра] Я видела их в подвале,</p>
+<p begin="42667200000t" end="42690000000t" region="region.after" style="defaultStyle" xml:id="subtitle662">они лежали там все без движения.</p>
+<p begin="42773600000t" end="42790000000t" region="region.after" style="defaultStyle" xml:id="subtitle663">[скрип двери] с</p>
+<p begin="42944400000t" end="42970800000t" region="region.after" style="defaultStyle" xml:id="subtitle664">[звучит грустная музыка]</p>
+<p begin="43276400000t" end="43291600000t" region="region.after" style="defaultStyle" xml:id="subtitle665">[звонит колокол]</p>
+<p begin="43371600000t" end="43393600000t" region="region.after" style="defaultStyle" xml:id="subtitle666">[звучит грустная музыка]</p>
+<p begin="43520000000t" end="43536400000t" region="region.after" style="defaultStyle" xml:id="subtitle667">[Мирра] Я всегда буду рядом.</p>
+<p begin="43541600000t" end="43577600000t" region="region.after" style="defaultStyle" xml:id="subtitle668">Я буду ждать, когда ты осознанно<br/>на меня посмотришь.</p>
+<p begin="43585600000t" end="43612400000t" region="region.after" style="defaultStyle" xml:id="subtitle669">Я каждый день прошу этого Бога.</p>
+<p begin="43614800000t" end="43647600000t" region="region.after" style="defaultStyle" xml:id="subtitle670">Айя, пожалуйста, вернись.</p>
+<p begin="43662400000t" end="43694800000t" region="region.after" style="defaultStyle" xml:id="subtitle671">[звучит тревожная музыка]</p>
+</div>
+</body>
+</tt>
