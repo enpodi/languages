@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:backgroundColor="transparent" tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="style.default"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region.after.center"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region.before.center"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="15432082t" end="25442082t" region="region.after.center" style="style.default" xml:id="subtitle0">СКИДКИ</p>
+<p begin="27110416t" end="47964582t" region="region.after.center" style="style.default" xml:id="subtitle1">Мистер Флендер, ваша машина готова.</p>
+<p begin="49632916t" end="59642916t" region="region.after.center" style="style.default" xml:id="subtitle2">Оуэн, как тебе?</p>
+<p begin="96763332t" end="106773332t" region="region.after.center" style="style.default" xml:id="subtitle3">Вот красавица.</p>
+<p begin="111361249t" end="139305832t" region="region.after.center" style="style.default" xml:id="subtitle4">Красавица. Черный цвет - то, что надо.</p>
+<p begin="140974166t" end="150984166t" region="region.after.center" style="style.default" xml:id="subtitle5">Верно.</p>
+<p begin="154737916t" end="170587082t" region="region.after.center" style="style.default" xml:id="subtitle6">Да. Думаю, это она, Бей.</p>
+<p begin="188938750t" end="217300416t" region="region.after.center" style="style.default" xml:id="subtitle7">Не знаю. Как по мне, какая-то пафосная.</p>
+<p begin="218968749t" end="241491249t" region="region.after.center" style="style.default" xml:id="subtitle8">С другой стороны, микроавтобус...</p>
+<p begin="248581666t" end="259842916t" region="region.after.center" style="style.default" xml:id="subtitle9">Более практичный.</p>
+<p begin="405822082t" end="415832082t" region="region.after.center" style="style.default" xml:id="subtitle10">Бейли!</p>
+<p begin="420419999t" end="430429999t" region="region.after.center" style="style.default" xml:id="subtitle11">Бейли!</p>
+<p begin="847096249t" end="857106249t" region="region.after.center" style="style.default" xml:id="subtitle12">ТРЕТИЙ АКТ</p>
+<p begin="873789582t" end="888387499t" region="region.before.center" style="style.default" xml:id="subtitle13">Обычная или с пепперони?</p>
+<p begin="891307082t" end="909241666t" region="region.before.center" style="style.default" xml:id="subtitle14">Обычная. Нет, пепперони.</p>
+<p begin="943025416t" end="964713749t" region="region.before.center" style="style.default" xml:id="subtitle15">Ее не положили в холодильник.<br/>Ненавижу теплую.</p>
+<p begin="966382082t" end="980979999t" region="region.before.center" style="style.default" xml:id="subtitle16">Так брось в морозилку.</p>
+<p begin="992241249t" end="1009758749t" region="region.before.center" style="style.default" xml:id="subtitle17">Пиццу же можно в измельчитель?</p>
+<p begin="1011427082t" end="1023105416t" region="region.before.center" style="style.default" xml:id="subtitle18">Только пришел, Чарли?</p>
+<p begin="1024773749t" end="1039371666t" region="region.after.center" style="style.default" xml:id="subtitle19">Вчера зависали у Дага.</p>
+<p begin="1046879166t" end="1067316249t" region="region.before.center" style="style.default" xml:id="subtitle20">Кто видел порошок? Хочу постирать.</p>
+<p begin="1068984582t" end="1098597500t" region="region.before.center" style="style.default" xml:id="subtitle21">Ты приходишь, только<br/>когда у тебя заканчивается белье.</p>
+<p begin="1100265832t" end="1119868750t" region="region.after.center" style="style.default" xml:id="subtitle22">Ты случайно не ходил за покупками?</p>
+<p begin="1121537082t" end="1137803332t" region="region.after.center" style="style.default" xml:id="subtitle23">Купил подгузники. И салфетки.</p>
+<p begin="1139471666t" end="1149481666t" region="region.after.center" style="style.default" xml:id="subtitle24">Без запаха, да?</p>
+<p begin="1154069582t" end="1164079582t" region="region.after.center" style="style.default" xml:id="subtitle25">Да.</p>
+<p begin="1169084582t" end="1189104582t" region="region.after.center" style="style.default" xml:id="subtitle26">Значит, я сегодня буду няней.</p>
+<p begin="1190772916t" end="1206622082t" region="region.after.center" style="style.default" xml:id="subtitle27">А что за джип на дорожке?</p>
+<p begin="1208290416t" end="1227893332t" region="region.after.center" style="style.default" xml:id="subtitle28">«Я видела Сару Гуд с дьяволом.</p>
+<p begin="1229561666t" end="1251667082t" region="region.after.center" style="style.default" xml:id="subtitle29">«Я видела Гуди Осборна с дьяволом.</p>
+<p begin="1253335416t" end="1272521250t" region="region.after.center" style="style.default" xml:id="subtitle30">«Я видела Бриджит Бишоп с...»</p>
+<p begin="1277109166t" end="1301717082t" region="region.after.center" style="style.default" xml:id="subtitle31">Спектакль. Готовлюсь к прослушиванию.</p>
+<p begin="1306305000t" end="1320902916t" region="region.after.center" style="style.default" xml:id="subtitle32">Пепперони, пожалуйста.</p>
+<p begin="1328827500t" end="1338420416t" region="region.after.center" style="style.default" xml:id="subtitle33">Так что с джипом?</p>
+<p begin="1343425416t" end="1362194166t" region="region.after.center" style="style.default" xml:id="subtitle34">Ты о чем? Это новая машина.</p>
+<p begin="1363445416t" end="1374706666t" region="region.after.center" style="style.default" xml:id="subtitle35">Это я на нее договор об аренде подписал?</p>
+<p begin="1376375000t" end="1393475416t" region="region.after.center" style="style.default" xml:id="subtitle36">Я думал, ты возьмешь микроавтобус.</p>
+<p begin="1395143750t" end="1415163750t" region="region.after.center" style="style.default" xml:id="subtitle37">Микроавтобус годится для езды, но джип...</p>
+<p begin="1416832082t" end="1430178750t" region="region.after.center" style="style.default" xml:id="subtitle38">-Это значит «А вот и Бейли».<br/>-Точно.</p>
+<p begin="1435183750t" end="1462711250t" region="region.after.center" style="style.default" xml:id="subtitle39">Это мой подарок от тебя, на день рождения.</p>
+<p begin="1463962500t" end="1477309166t" region="region.after.center" style="style.default" xml:id="subtitle40">Кстати, о подарке...</p>
+<p begin="1533198332t" end="1551132916t" region="region.after.center" style="style.default" xml:id="subtitle41">«Ковбои» против «Найнеров»?</p>
+<p begin="1556137916t" end="1574906666t" region="region.after.center" style="style.default" xml:id="subtitle42">Пригласи кого-нибудь особенного.</p>
+<p begin="1609941666t" end="1620785832t" region="region.after.center" style="style.default" xml:id="subtitle43">Даже не думайте.</p>
+<p begin="1632881250t" end="1642891250t" region="region.after.center" style="style.default" xml:id="subtitle44">Миссис Келегер!</p>
+<p begin="1655403750t" end="1665413750t" region="region.after.center" style="style.default" xml:id="subtitle45">Миссис Келегер?</p>
+<p begin="1672504166t" end="1687102082t" region="region.after.center" style="style.default" xml:id="subtitle46">Что-то не так, миссис Келегер?</p>
+<p begin="1691689999t" end="1708373332t" region="region.after.center" style="style.default" xml:id="subtitle47">Завтра мне будет 65 лет.</p>
+<p begin="1715046666t" end="1731312916t" region="region.after.center" style="style.default" xml:id="subtitle48">Серьезно? Поздравляю.</p>
+<p begin="1735483749t" end="1750081666t" region="region.after.center" style="style.default" xml:id="subtitle49">До двери 52 ступеньки.</p>
+<p begin="1763845416t" end="1779277499t" region="region.after.center" style="style.default" xml:id="subtitle50">До комнаты два пролета,</p>
+<p begin="1782197082t" end="1799714582t" region="region.after.center" style="style.default" xml:id="subtitle51">а когда я везу вашего брата в парк,</p>
+<p begin="1801382916t" end="1830578749t" region="region.after.center" style="style.default" xml:id="subtitle52">мне приходится толкать коляску<br/>на холм под углом в 45 градусов.</p>
+<p begin="1832247082t" end="1849347499t" region="region.after.center" style="style.default" xml:id="subtitle53">Это Сан-Франциско.</p>
+<p begin="1851015832t" end="1869784582t" region="region.after.center" style="style.default" xml:id="subtitle54">Я ничего не могу сделать с холмами.</p>
+<p begin="1871035832t" end="1891055832t" region="region.after.center" style="style.default" xml:id="subtitle55">Мои колени не выдерживают.</p>
+<p begin="1895643749t" end="1918166249t" region="region.after.center" style="style.default" xml:id="subtitle56">Миссис Келегер, у меня важный проект,</p>
+<p begin="1919834582t" end="1934015416t" region="region.after.center" style="style.default" xml:id="subtitle57">и я ужасно опаздываю.</p>
+<p begin="1941939999t" end="1970301666t" region="region.after.center" style="style.default" xml:id="subtitle58">Пожалуйста, прошу вас,<br/>потерпите до вечера?</p>
+<p begin="1971969999t" end="1991572916t" region="region.after.center" style="style.default" xml:id="subtitle59">И я обещаю, мы все уладим.</p>
+<p begin="2031612916t" end="2041622916t" region="region.after.center" style="style.default" xml:id="subtitle60">Оуэн, что ты...</p>
+<p begin="2060391666t" end="2075823749t" region="region.after.center" style="style.default" xml:id="subtitle61">Я же только все сложил.</p>
+<p begin="2115446666t" end="2141305832t" region="region.after.center" style="style.default" xml:id="subtitle62">Ты чего развалился?<br/>Не присматриваешь за ним?</p>
+<p begin="2142974166t" end="2156320832t" region="region.after.center" style="style.default" xml:id="subtitle63">Чар, я смотрю за ним.</p>
+<p begin="2157989166t" end="2176757916t" region="region.after.center" style="style.default" xml:id="subtitle64">Присмотришь за ним, пока я найду замену?</p>
+<p begin="2182180000t" end="2193024166t" region="region.after.center" style="style.default" xml:id="subtitle65">На сколько? 20 минут?</p>
+<p begin="2194275416t" end="2204285416t" region="region.after.center" style="style.default" xml:id="subtitle66">Нет, на весь день завтра.</p>
+<p begin="2217632082t" end="2231395832t" region="region.after.center" style="style.default" xml:id="subtitle67">Мы что, не найдем замену?</p>
+<p begin="2232647082t" end="2245159582t" region="region.after.center" style="style.default" xml:id="subtitle68">Чувак, новости.</p>
+<p begin="2248079166t" end="2277275000t" region="region.after.center" style="style.default" xml:id="subtitle69">Это же не пиццу заказывать.<br/>Здесь нужно время.</p>
+<p begin="2278943332t" end="2318149166t" region="region.after.center" style="style.default" xml:id="subtitle70">Я пропущу тренировку,<br/>если ты не сможешь остаться после 15:00.</p>
+<p begin="2323571250t" end="2351098750t" region="region.after.center" style="style.default" xml:id="subtitle71">Слушай, понимаешь, завтра я никак не могу.</p>
+<p begin="2352350000t" end="2366947916t" region="region.after.center" style="style.default" xml:id="subtitle72">Мы с Дагом красим дом.</p>
+<p begin="2379043332t" end="2412410000t" region="region.after.center" style="style.default" xml:id="subtitle73">Это первая работа на неделе,<br/>и платят там неплохо.</p>
+<p begin="2418666250t" end="2442022916t" region="region.after.center" style="style.default" xml:id="subtitle74">Молись, чтобы мы нашли няню.</p>
+<p begin="2469550416t" end="2479977500t" region="region.after.center" style="style.default" xml:id="subtitle75">Класс.</p>
+<p begin="2481228750t" end="2498329166t" region="region.after.center" style="style.default" xml:id="subtitle76">...Отключено за неуплату.</p>
+<p begin="2499997500t" end="2514595416t" region="region.after.center" style="style.default" xml:id="subtitle77">Свяжитесь с местным...</p>
+<p begin="2541288750t" end="2558806250t" region="region.after.center" style="style.default" xml:id="subtitle78">Почему ты не оплатил счет?</p>
+<p begin="2564645416t" end="2580494582t" region="region.after.center" style="style.default" xml:id="subtitle79">Почему я не оплатил счет?</p>
+<p begin="2598429166t" end="2615529582t" region="region.after.center" style="style.default" xml:id="subtitle80">Почему я не оплатил счет?</p>
+<p begin="2636383750t" end="2674338332t" region="region.after.center" style="style.default" xml:id="subtitle81">Помните, если покажете,<br/>каким образом вы пришли к выводу,</p>
+<p begin="2683931250t" end="2723971250t" region="region.after.center" style="style.default" xml:id="subtitle82">я поставлю дополнительный балл,<br/>даже если ответ неверен.</p>
+<p begin="3062642916t" end="3082245832t" region="region.after.center" style="style.default" xml:id="subtitle83">Странно. Видишь кого-то каждый день,</p>
+<p begin="3083914166t" end="3108522082t" region="region.after.center" style="style.default" xml:id="subtitle84">сидишь всего через один ряд,</p>
+<p begin="3111858750t" end="3133130000t" region="region.after.center" style="style.default" xml:id="subtitle85">но даже не замечаешь человека.</p>
+<p begin="3151481666t" end="3161491666t" region="region.after.center" style="style.default" xml:id="subtitle86">Я заметил тебя.</p>
+<p begin="3186099582t" end="3206953750t" region="region.after.center" style="style.default" xml:id="subtitle87">-В самом деле?<br/>-Ага. Я...</p>
+<p begin="3218632082t" end="3238652082t" region="region.after.center" style="style.default" xml:id="subtitle88">Списывал у тебя на уроке по гигиене.</p>
+<p begin="3244491250t" end="3253667082t" region="region.after.center" style="style.default" xml:id="subtitle89">Дважды.</p>
+<p begin="3262842916t" end="3272852916t" region="region.after.center" style="style.default" xml:id="subtitle90">Класс.</p>
+<p begin="3301214582t" end="3314561250t" region="region.after.center" style="style.default" xml:id="subtitle91">Нет, спасибо, я бросила.</p>
+<p begin="3327490832t" end="3355018332t" region="region.after.center" style="style.default" xml:id="subtitle92">Все эти исследования о пассивном<br/>курении, это так неправильно.</p>
+<p begin="3356686666t" end="3370867499t" region="region.after.center" style="style.default" xml:id="subtitle93">Не совсем и личный выбор.</p>
+<p begin="3372535832t" end="3396726666t" region="region.after.center" style="style.default" xml:id="subtitle94">-Может, как-нибудь сходим погулять?<br/>-Да.</p>
+<p begin="3410907499t" end="3420917499t" region="region.after.center" style="style.default" xml:id="subtitle95">Когда угодно.</p>
+<p begin="3441771666t" end="3460957499t" region="region.after.center" style="style.default" xml:id="subtitle96">Что, если я скажу, что покажу тебе</p>
+<p begin="3462625832t" end="3482645832t" region="region.after.center" style="style.default" xml:id="subtitle97">мост «Золотые ворота» в три утра?</p>
+<p begin="3505168332t" end="3515178332t" region="region.after.center" style="style.default" xml:id="subtitle98">Я приду.</p>
+<p begin="3526439582t" end="3537700832t" region="region.after.center" style="style.default" xml:id="subtitle99">В самом деле?</p>
+<p begin="3538952082t" end="3551047499t" region="region.after.center" style="style.default" xml:id="subtitle100">А твои предки?</p>
+<p begin="3555218332t" end="3565228332t" region="region.after.center" style="style.default" xml:id="subtitle101">Они не...</p>
+<p begin="3581494582t" end="3591087499t" region="region.after.center" style="style.default" xml:id="subtitle102">Точно, я слышал.</p>
+<p begin="3598594999t" end="3617780832t" region="region.after.center" style="style.default" xml:id="subtitle103">Автокатастрофа. Около полугода назад.</p>
+<p begin="3619449166t" end="3637383749t" region="region.after.center" style="style.default" xml:id="subtitle104">Я не хочу об этом говорить.</p>
+<p begin="3654484166t" end="3669499166t" region="region.after.center" style="style.default" xml:id="subtitle105">Мой отец ушел пару лет назад.</p>
+<p begin="3671167499t" end="3683679999t" region="region.after.center" style="style.default" xml:id="subtitle106">Это не одно и то же.</p>
+<p begin="3722885832t" end="3732895832t" region="region.after.center" style="style.default" xml:id="subtitle107">Пожалуй, нет.</p>
+<p begin="3787950832t" end="3801297499t" region="region.after.center" style="style.default" xml:id="subtitle108">Так когда угодно, да?</p>
+<p begin="3819649166t" end="3844257082t" region="region.after.center" style="style.default" xml:id="subtitle109">Никто будет мне указывать, что делать.</p>
+<p begin="4087833749t" end="4097843749t" region="region.after.center" style="style.default" xml:id="subtitle110">-Привет.<br/>-Привет.</p>
+<p begin="4101597499t" end="4120783332t" region="region.after.center" style="style.default" xml:id="subtitle111">У меня есть кое-что для тебя.</p>
+<p begin="4124119999t" end="4134129999t" region="region.after.center" style="style.default" xml:id="subtitle112">Это?</p>
+<p begin="4136632499t" end="4173335832t" region="region.after.center" style="style.default" xml:id="subtitle113">-Музыкальный конкурс Уильяма Фостера?<br/>-Да. Это анкета.</p>
+<p begin="4182094582t" end="4197526666t" region="region.after.center" style="style.default" xml:id="subtitle114">Тебе стоит попробовать.</p>
+<p begin="4199194999t" end="4235898332t" region="region.after.center" style="style.default" xml:id="subtitle115">Но это уже в январе,<br/>времени осталось совсем немного.</p>
+<p begin="4240486249t" end="4262591666t" region="region.after.center" style="style.default" xml:id="subtitle116">Можно добавить после уроков<br/>еще одну репетицию. Давай?</p>
+<p begin="4264259999t" end="4274269999t" region="region.after.center" style="style.default" xml:id="subtitle117">Еще одну?</p>
+<p begin="4275938332t" end="4296792500t" region="region.after.center" style="style.default" xml:id="subtitle118">Да. Приведем Вивальди в порядок.</p>
+<p begin="4298460832t" end="4317229582t" region="region.after.center" style="style.default" xml:id="subtitle119">Я выиграл приз Мельхиора с Вивальди.</p>
+<p begin="4318897916t" end="4328907916t" region="region.after.center" style="style.default" xml:id="subtitle120">Что скажешь?</p>
+<p begin="4342254582t" end="4366862500t" region="region.after.center" style="style.default" xml:id="subtitle121">В школе ставят «Суровое испытание»...</p>
+<p begin="4370199166t" end="4380209166t" region="region.after.center" style="style.default" xml:id="subtitle122">На Рождество.</p>
+<p begin="4389802082t" end="4401897500t" region="region.after.center" style="style.default" xml:id="subtitle123">Я бы сыграла там.</p>
+<p begin="4403565832t" end="4423168750t" region="region.after.center" style="style.default" xml:id="subtitle124">С каких пор ты хочешь быть актрисой?</p>
+<p begin="4424837082t" end="4446942500t" region="region.after.center" style="style.default" xml:id="subtitle125">Я не хочу. Просто все пробуются,</p>
+<p begin="4452781666t" end="4480726250t" region="region.after.center" style="style.default" xml:id="subtitle126">может, и мне выпадет<br/>какая-то маленькая роль.</p>
+<p begin="4482394582t" end="4508253750t" region="region.after.center" style="style.default" xml:id="subtitle127">Я думала, это будет, ну, типа, весело.</p>
+<p begin="4524102916t" end="4535364166t" region="region.after.center" style="style.default" xml:id="subtitle128">Дело в том, Клод,</p>
+<p begin="4543705832t" end="4572901666t" region="region.after.center" style="style.default" xml:id="subtitle129">что если хорошо поработаешь<br/>над этим, я уверен...</p>
+<p begin="4578323750t" end="4606268332t" region="region.after.center" style="style.default" xml:id="subtitle130">Я просто знаю, что ты сможешь выиграть.</p>
+<p begin="4678423750t" end="4696775416t" region="region.after.center" style="style.default" xml:id="subtitle131">Можно осторожнее на поворотах?</p>
+<p begin="4698443750t" end="4709705000t" region="region.after.center" style="style.default" xml:id="subtitle132">Что тебя гложет?</p>
+<p begin="4720132082t" end="4735564166t" region="region.after.center" style="style.default" xml:id="subtitle133">А ты как будто не знаешь?</p>
+<p begin="4737232500t" end="4757252500t" region="region.after.center" style="style.default" xml:id="subtitle134">Да, он опоздал. В смысле, я знаю.</p>
+<p begin="4758920832t" end="4771433332t" region="region.after.center" style="style.default" xml:id="subtitle135">Это в духе Говарда.</p>
+<p begin="4773101666t" end="4783111666t" region="region.after.center" style="style.default" xml:id="subtitle136">Да? Класс.</p>
+<p begin="4787282500t" end="4816478332t" region="region.after.center" style="style.default" xml:id="subtitle137">Надо было сказать,<br/>прежде чем мы отстегнули 12 штук</p>
+<p begin="4818146666t" end="4831910416t" region="region.after.center" style="style.default" xml:id="subtitle138">и дали ему все уладить.</p>
+<p begin="4833578750t" end="4843588750t" region="region.after.center" style="style.default" xml:id="subtitle139">Подашь брезент?</p>
+<p begin="4854015832t" end="4865277082t" region="region.after.center" style="style.default" xml:id="subtitle140">Банки уже закрыты.</p>
+<p begin="4866945416t" end="4894890000t" region="region.after.center" style="style.default" xml:id="subtitle141">Я хотел все подписать.<br/>Место должно быть нашим сегодня.</p>
+<p begin="4896558332t" end="4910739166t" region="region.after.center" style="style.default" xml:id="subtitle142">Это мир бизнеса, Чарли.</p>
+<p begin="4912407500t" end="4936181250t" region="region.after.center" style="style.default" xml:id="subtitle143">Надо быть гибкими в таких делах, понял?</p>
+<p begin="4937849582t" end="4947859582t" region="region.after.center" style="style.default" xml:id="subtitle144">Подпишем завтра.</p>
+<p begin="4949527916t" end="4967879582t" region="region.after.center" style="style.default" xml:id="subtitle145">Забудь об этом. Он твой друг.</p>
+<p begin="4969547916t" end="4993738750t" region="region.after.center" style="style.default" xml:id="subtitle146">Он обещал быть здесь три часа назад.</p>
+<p begin="4995407082t" end="5025854166t" region="region.after.center" style="style.default" xml:id="subtitle147">-Я думал, ты ему звонил.<br/>-Звонил. Он сказал, что едет.</p>
+<p begin="5029607916t" end="5039617916t" region="region.after.center" style="style.default" xml:id="subtitle148">Это меня раздражает.</p>
+<p begin="5041286250t" end="5061306250t" region="region.after.center" style="style.default" xml:id="subtitle149">-Говард, он такой.<br/>-Может, заткнешься?</p>
+<p begin="5062974582t" end="5083411666t" region="region.after.center" style="style.default" xml:id="subtitle150">Все в порядке? У вас проблемы, Чарли?</p>
+<p begin="5088416666t" end="5122617500t" region="region.after.center" style="style.default" xml:id="subtitle151">Все хорошо, миссис Элисон.<br/>Вернемся завтра утром и закончим.</p>
+<p begin="5124285832t" end="5134295832t" region="region.after.center" style="style.default" xml:id="subtitle152">Хорошо. Пока.</p>
+<p begin="5147642500t" end="5175587082t" region="region.after.center" style="style.default" xml:id="subtitle153">Я хочу все сделать не спеша,<br/>чтобы мы гордились.</p>
+<p begin="5177255416t" end="5201863332t" region="region.after.center" style="style.default" xml:id="subtitle154">А мы теряем время,<br/>пока этого чувака где-то носит.</p>
+<p begin="5203531666t" end="5226054166t" region="region.after.center" style="style.default" xml:id="subtitle155">Ты можешь расслабиться? Он придет.</p>
+<p begin="5261506250t" end="5282777500t" region="region.after.center" style="style.default" xml:id="subtitle156">Ну, там у вас везде трещины.</p>
+<p begin="5291953332t" end="5319063750t" region="region.after.center" style="style.default" xml:id="subtitle157">Хотел их залатать,<br/>но они тонкие, как бумага.</p>
+<p begin="5320732082t" end="5342420416t" region="region.after.center" style="style.default" xml:id="subtitle158">Вообще странно, как еще трубы целые.</p>
+<p begin="5344088750t" end="5369947916t" region="region.after.center" style="style.default" xml:id="subtitle159">Придется, наверное,<br/>заново переложить трубы.</p>
+<p begin="5382043332t" end="5392053332t" region="region.after.center" style="style.default" xml:id="subtitle160">Чего это он?</p>
+<p begin="5395390000t" end="5411239166t" region="region.after.center" style="style.default" xml:id="subtitle161">Немного не в настроении.</p>
+<p begin="5418746666t" end="5438766666t" region="region.after.center" style="style.default" xml:id="subtitle162">Слушайте, а это вообще дорого?</p>
+<p begin="5442520416t" end="5457952500t" region="region.after.center" style="style.default" xml:id="subtitle163">Предварительная оценка?</p>
+<p begin="5463791666t" end="5474218750t" region="region.after.center" style="style.default" xml:id="subtitle164">600 баксов.</p>
+<p begin="5475470000t" end="5490902082t" region="region.after.center" style="style.default" xml:id="subtitle165">Половину дайте в залог.</p>
+<p begin="5492153332t" end="5507585416t" region="region.after.center" style="style.default" xml:id="subtitle166">На покупку материалов.</p>
+<p begin="5512173332t" end="5526771250t" region="region.after.center" style="style.default" xml:id="subtitle167">Чек будет в самый раз.</p>
+<p begin="5598509582t" end="5608519582t" region="region.after.center" style="style.default" xml:id="subtitle168">Постой.</p>
+<p begin="5616861250t" end="5629373750t" region="region.after.center" style="style.default" xml:id="subtitle169">Что с чеком 917?</p>
+<p begin="5653147500t" end="5673167500t" region="region.after.center" style="style.default" xml:id="subtitle170">Плюс у нас баланс - 35 долларов.</p>
+<p begin="5686097082t" end="5696107082t" region="region.after.center" style="style.default" xml:id="subtitle171">Простите...</p>
+<p begin="5706117082t" end="5729473750t" region="region.after.center" style="style.default" xml:id="subtitle172">А можно так, чтобы вы начали сейчас,</p>
+<p begin="5731142082t" end="5758252500t" region="region.after.center" style="style.default" xml:id="subtitle173">а чек мы выпишем вам позже,<br/>например, завтра?</p>
+<p begin="5763674582t" end="5781609166t" region="region.after.center" style="style.default" xml:id="subtitle174">Извини, дружище, так не работаю.</p>
+<p begin="5783277500t" end="5795790000t" region="region.after.center" style="style.default" xml:id="subtitle175">Вот что я скажу.</p>
+<p begin="5799126666t" end="5825402916t" region="region.after.center" style="style.default" xml:id="subtitle176">Позвоните мне,<br/>когда родители вернутся в город?</p>
+<p begin="5827071250t" end="5846257082t" region="region.after.center" style="style.default" xml:id="subtitle177">А сейчас с вас 50, за осмотр.</p>
+<p begin="5872116250t" end="5883794582t" region="region.after.center" style="style.default" xml:id="subtitle178">Наличные - в самый раз.</p>
+<p begin="5933427500t" end="5943437500t" region="region.after.center" style="style.default" xml:id="subtitle179">Я к тому,</p>
+<p begin="5945105832t" end="5968462500t" region="region.after.center" style="style.default" xml:id="subtitle180">что мы никак не сможем<br/>получить 15 000 долларов</p>
+<p begin="5970130832t" end="5995572916t" region="region.after.center" style="style.default" xml:id="subtitle181">за четыре месяца,<br/>если все выписывают чеки.</p>
+<p begin="5997241250t" end="6008085416t" region="region.after.center" style="style.default" xml:id="subtitle182">И нанимают джипы.</p>
+<p begin="6009753750t" end="6024351666t" region="region.after.center" style="style.default" xml:id="subtitle183">Мне нравится этот джип.</p>
+<p begin="6029356666t" end="6054798750t" region="region.after.center" style="style.default" xml:id="subtitle184">Я к тому, что я бы справился с джипом,</p>
+<p begin="6057301250t" end="6098175416t" region="region.after.center" style="style.default" xml:id="subtitle185">с телефонным счетом, раковиной,<br/>со всем. Если бы знал, где остальное.</p>
+<p begin="6099843750t" end="6111939166t" region="region.after.center" style="style.default" xml:id="subtitle186">-Привет.<br/>-Привет.</p>
+<p begin="6113607500t" end="6129039582t" region="region.after.center" style="style.default" xml:id="subtitle187">Это не проблема, Бейли.</p>
+<p begin="6132376250t" end="6143637500t" region="region.after.center" style="style.default" xml:id="subtitle188">-Да.<br/>-Нет.</p>
+<p begin="6145305832t" end="6166160000t" region="region.after.center" style="style.default" xml:id="subtitle189">Проблема в том, что на счету 35 баксов.</p>
+<p begin="6167828332t" end="6203280416t" region="region.after.center" style="style.default" xml:id="subtitle190">А вот и Сэлинджеры, как раз<br/>вовремя. Куда неделя подевалась?</p>
+<p begin="6204948750t" end="6222049166t" region="region.after.center" style="style.default" xml:id="subtitle191">-Джо. Джулия тут?<br/>-Не видел.</p>
+<p begin="6223717500t" end="6249576666t" region="region.after.center" style="style.default" xml:id="subtitle192">Клодия, оставь место для десерта,<br/>сегодня папин фирменный пирог.</p>
+<p begin="6251245000t" end="6271265000t" region="region.after.center" style="style.default" xml:id="subtitle193">-Класс.<br/>-Признай, Бей.</p>
+<p begin="6272933332t" end="6312556250t" region="region.after.center" style="style.default" xml:id="subtitle194">Глупо давать вам всю сумму за 4 месяца.<br/>Вы все сразу потратите.</p>
+<p begin="6314224582t" end="6349676666t" region="region.after.center" style="style.default" xml:id="subtitle195">Неужели, мистер<br/>«Займи двадцатку, пока я без работы»?</p>
+<p begin="6358852500t" end="6370113750t" region="region.after.center" style="style.default" xml:id="subtitle196">Где она?</p>
+<p begin="6371365000t" end="6380540832t" region="region.after.center" style="style.default" xml:id="subtitle197">ЗАБРОНИРОВАНО</p>
+<p begin="6392219166t" end="6422249166t" region="region.after.center" style="style.default" xml:id="subtitle198">Слушай, я завтра пойду в банк<br/>и возьму 2500,</p>
+<p begin="6425585832t" end="6446022916t" region="region.after.center" style="style.default" xml:id="subtitle199">но надо растянуть их до конца месяца.</p>
+<p begin="6447691250t" end="6473967500t" region="region.after.center" style="style.default" xml:id="subtitle200">Так теперь и будем делать, раз в месяц.</p>
+<p begin="6475635832t" end="6494821666t" region="region.after.center" style="style.default" xml:id="subtitle201">Стой. С каких это пор ты решаешь?</p>
+<p begin="6496072916t" end="6509002500t" region="region.after.center" style="style.default" xml:id="subtitle202">Как распорядитель имущества,</p>
+<p begin="6510670832t" end="6529022500t" region="region.after.center" style="style.default" xml:id="subtitle203">мистер Грэхем решил, что я ваш опекун.</p>
+<p begin="6530273750t" end="6542786250t" region="region.after.center" style="style.default" xml:id="subtitle204">Да, на бумаге.</p>
+<p begin="6545705832t" end="6564474582t" region="region.after.center" style="style.default" xml:id="subtitle205">Ты опекун только на бумаге, Чарли.</p>
+<p begin="6566142916t" end="6594921666t" region="region.after.center" style="style.default" xml:id="subtitle206">И только потому,<br/>что кто-то должен им быть.</p>
+<p begin="6603680416t" end="6613690416t" region="region.after.center" style="style.default" xml:id="subtitle207">Дело в том,</p>
+<p begin="6615775832t" end="6641635000t" region="region.after.center" style="style.default" xml:id="subtitle208">что вы потратили все, что у вас было.</p>
+<p begin="6643303332t" end="6666242916t" region="region.after.center" style="style.default" xml:id="subtitle209">Это правда, Бейли. Я тебя не виню.</p>
+<p begin="6667911250t" end="6694187500t" region="region.after.center" style="style.default" xml:id="subtitle210">А что дети знают об управлении финансами?</p>
+<p begin="6700443750t" end="6710453750t" region="region.after.center" style="style.default" xml:id="subtitle211">У нас проблемы?</p>
+<p begin="6721715000t" end="6731307916t" region="region.after.center" style="style.default" xml:id="subtitle212">Бейли?</p>
+<p begin="6742152082t" end="6768011249t" region="region.after.center" style="style.default" xml:id="subtitle213">Мистер Грэхем выписывает чек трижды в год,</p>
+<p begin="6769262499t" end="6804714582t" region="region.after.center" style="style.default" xml:id="subtitle214">поэтому я в праве решать,<br/>как мы будем делить деньги.</p>
+<p begin="6809719582t" end="6829739582t" region="region.after.center" style="style.default" xml:id="subtitle215">Извините. Так обстоят дела.</p>
+<p begin="7044120416t" end="7053713332t" region="region.after.center" style="style.default" xml:id="subtitle216">Где ты была?</p>
+<p begin="7057884166t" end="7080406666t" region="region.after.center" style="style.default" xml:id="subtitle217">На Юнион Сквер. Шопинг. Как тебе?</p>
+<p begin="7090833749t" end="7112104999t" region="region.after.center" style="style.default" xml:id="subtitle218">Надеюсь, ты не платила чеком 917.</p>
+<p begin="7119612499t" end="7148391249t" region="region.after.center" style="style.default" xml:id="subtitle219">Я заплатила своими деньгами,<br/>спасибо большое.</p>
+<p begin="7150059582t" end="7160069582t" region="region.after.center" style="style.default" xml:id="subtitle220">Это на завтра.</p>
+<p begin="7182174999t" end="7193019166t" region="region.after.center" style="style.default" xml:id="subtitle221">У меня свидание.</p>
+<p begin="7213873332t" end="7233893332t" region="region.after.center" style="style.default" xml:id="subtitle222">С тем крутым парнем... Пи. Кеем.</p>
+<p begin="7235144582t" end="7252662082t" region="region.after.center" style="style.default" xml:id="subtitle223">Ты пропустила ужин, вообще-то.</p>
+<p begin="7260169582t" end="7273933332t" region="region.after.center" style="style.default" xml:id="subtitle224">Не страшно, перекушу.</p>
+<p begin="7275601666t" end="7293119166t" region="region.after.center" style="style.default" xml:id="subtitle225">Ты знаешь, о чем я, Джулия.</p>
+<p begin="7295204582t" end="7305631666t" region="region.after.center" style="style.default" xml:id="subtitle226">Ты пропустила ужин.</p>
+<p begin="7306882916t" end="7325234582t" region="region.after.center" style="style.default" xml:id="subtitle227">Ну и что? Это же не конец света.</p>
+<p begin="7336912916t" end="7359435416t" region="region.after.center" style="style.default" xml:id="subtitle228">Ведь мы договорились<br/>делать вместе хотя бы это.</p>
+<p begin="7361103749t" end="7370696666t" region="region.after.center" style="style.default" xml:id="subtitle229">Зачем?</p>
+<p begin="7374867499t" end="7414490416t" region="region.after.center" style="style.default" xml:id="subtitle230">Ходить в папин ресторан дважды в неделю,<br/>где салфетки из ткани, а не из бумаги?</p>
+<p begin="7416158749t" end="7430339582t" region="region.after.center" style="style.default" xml:id="subtitle231">Это значит быть семьей?</p>
+<p begin="7431590832t" end="7472464999t" region="region.after.center" style="style.default" xml:id="subtitle232">Это значит общаться друг с другом,<br/>проверять, еще есть пульс.</p>
+<p begin="7494570416t" end="7512087916t" region="region.after.center" style="style.default" xml:id="subtitle233">Да. Пока стучит. Доволен?</p>
+<p begin="7539615416t" end="7567559999t" region="region.after.center" style="style.default" xml:id="subtitle234">Нет! Нет. Я... Нет, я полностью согласен.</p>
+<p begin="7572564999t" end="7587997082t" region="region.after.center" style="style.default" xml:id="subtitle235">Квалификация необходима.</p>
+<p begin="7593419166t" end="7629288332t" region="region.after.center" style="style.default" xml:id="subtitle236">Но готовность выйти сразу<br/>также является преимуществом.</p>
+<p begin="7644720416t" end="7680172499t" region="region.after.center" style="style.default" xml:id="subtitle237">Извините.<br/>Что вы там говорили об услугах агентства?</p>
+<p begin="7692684999t" end="7713956249t" region="region.after.center" style="style.default" xml:id="subtitle238">Нет. Кажется очень... резонным.</p>
+<p begin="7735227499t" end="7760669582t" region="region.after.center" style="style.default" xml:id="subtitle239">Можно вам перезвонить? Хорошо. Спасибо.</p>
+<p begin="7768594166t" end="7779855416t" region="region.after.center" style="style.default" xml:id="subtitle240">Услуги агентства?</p>
+<p begin="7783192082t" end="7799041249t" region="region.after.center" style="style.default" xml:id="subtitle241">15 процентов от годовой зарплаты.</p>
+<p begin="7824483332t" end="7842000832t" region="region.after.center" style="style.default" xml:id="subtitle242">Но разве у нас есть выбор?</p>
+<p begin="7845337499t" end="7874533332t" region="region.after.center" style="style.default" xml:id="subtitle243">Соцобеспечение говорит,<br/>что Оуэну нужна хорошая няня,</p>
+<p begin="7876201666t" end="7899558332t" region="region.after.center" style="style.default" xml:id="subtitle244">поэтому, сколько бы это ни стоило...</p>
+<p begin="7944603332t" end="7954613332t" region="region.after.center" style="style.default" xml:id="subtitle245">Сколько?</p>
+<p begin="7980055416t" end="7990899582t" region="region.after.center" style="style.default" xml:id="subtitle246">Двести семьдесят пять.</p>
+<p begin="7995487499t" end="8024266249t" region="region.after.center" style="style.default" xml:id="subtitle247">И это все? Посмотрите.<br/>Она стоит гораздо больше.</p>
+<p begin="8028854166t" end="8038447082t" region="region.after.center" style="style.default" xml:id="subtitle248">Не для меня.</p>
+<p begin="8048039999t" end="8069311249t" region="region.after.center" style="style.default" xml:id="subtitle249">Смычок из настоящего перламутра.</p>
+<p begin="8073064999t" end="8083074999t" region="region.after.center" style="style.default" xml:id="subtitle250">Отдаю с футляром.</p>
+<p begin="8098924166t" end="8109351249t" region="region.after.center" style="style.default" xml:id="subtitle251">Шестьсот.</p>
+<p begin="8113939166t" end="8132707916t" region="region.after.center" style="style.default" xml:id="subtitle252">Возьму за 350. Не больше.</p>
+<p begin="8191516666t" end="8201109582t" region="region.after.center" style="style.default" xml:id="subtitle253">Ладно.</p>
+<p begin="8207365832t" end="8217375832t" region="region.after.center" style="style.default" xml:id="subtitle254">Ладно.</p>
+<p begin="8264089166t" end="8273682082t" region="region.after.center" style="style.default" xml:id="subtitle255">Держи.</p>
+<p begin="8325817499t" end="8335827499t" region="region.after.center" style="style.default" xml:id="subtitle256">Вот квитанция.</p>
+<p begin="8486811666t" end="8512253749t" region="region.after.center" style="style.default" xml:id="subtitle257">Вы же не выставите ее на витрину?</p>
+<p begin="8521846666t" end="8542700832t" region="region.after.center" style="style.default" xml:id="subtitle258">Можете поставить ее где-то позади...</p>
+<p begin="8544369166t" end="8561886666t" region="region.after.center" style="style.default" xml:id="subtitle259">Чтобы ее сразу не купили?</p>
+<p begin="8578569999t" end="8599424166t" region="region.after.center" style="style.default" xml:id="subtitle260">-Да.<br/>-Хорошо. Спасибо.</p>
+<p begin="8623197916t" end="8650725416t" region="region.after.center" style="style.default" xml:id="subtitle261">В агентстве<br/>мне рассказали о вашей ситуации.</p>
+<p begin="8656981666t" end="8666991666t" region="region.after.center" style="style.default" xml:id="subtitle262">Я хочу помочь.</p>
+<p begin="8716624582t" end="8742066666t" region="region.after.center" style="style.default" xml:id="subtitle263">Не обращайте внимания. Он не в духе.</p>
+<p begin="8767091666t" end="8783357916t" region="region.after.center" style="style.default" xml:id="subtitle264">А когда вы можете начать?</p>
+<p begin="8791282500t" end="8813387916t" region="region.after.center" style="style.default" xml:id="subtitle265">Сначала у меня есть несколько вопросов.</p>
+<p begin="8831739582t" end="8863437916t" region="region.after.center" style="style.default" xml:id="subtitle266">Думаю, важно,<br/>чтобы моя философия воспитания</p>
+<p begin="8865106250t" end="8884292082t" region="region.after.center" style="style.default" xml:id="subtitle267">совпадала с вашими взглядами.</p>
+<p begin="8905146250t" end="8944352082t" region="region.after.center" style="style.default" xml:id="subtitle268">Я считаю, что ребенку надо<br/>развиваться в собственном темпе,</p>
+<p begin="8948105832t" end="8971462500t" region="region.after.center" style="style.default" xml:id="subtitle269">и надо акцентировать развитие самооценки.</p>
+<p begin="8981472500t" end="9016090416t" region="region.after.center" style="style.default" xml:id="subtitle270">Это замечательно.<br/>Самооценка - это замечательно.</p>
+<p begin="9024432082t" end="9038612916t" region="region.after.center" style="style.default" xml:id="subtitle271">Он ходит на горшок?</p>
+<p begin="9050291250t" end="9081989582t" region="region.after.center" style="style.default" xml:id="subtitle272">Вообще-то, моя сестра Клодия<br/>занимается какашками,</p>
+<p begin="9083657916t" end="9104512082t" region="region.after.center" style="style.default" xml:id="subtitle273">поэтому лучше спросите у нее.</p>
+<p begin="9119944166t" end="9130788332t" region="region.after.center" style="style.default" xml:id="subtitle274">Вы читали Пиаже?</p>
+<p begin="9165406250t" end="9175416250t" region="region.after.center" style="style.default" xml:id="subtitle275">Пиаже...</p>
+<p begin="9195436250t" end="9221712500t" region="region.after.center" style="style.default" xml:id="subtitle276">Напомните, что там в начале.<br/>Может, вспомню.</p>
+<p begin="9223380832t" end="9253410832t" region="region.after.center" style="style.default" xml:id="subtitle277">Боюсь, это не лучшие условия для меня.</p>
+<p begin="9263003750t" end="9280938332t" region="region.after.center" style="style.default" xml:id="subtitle278">Нет, лучшие! Еще как.</p>
+<p begin="9283857916t" end="9295119166t" region="region.after.center" style="style.default" xml:id="subtitle279">Мы отличная семья,</p>
+<p begin="9296370416t" end="9315973332t" region="region.after.center" style="style.default" xml:id="subtitle280">и у вас будут выходные, и отпуск...</p>
+<p begin="9317641666t" end="9333490832t" region="region.after.center" style="style.default" xml:id="subtitle281">Я схожу в библиотеку</p>
+<p begin="9335159166t" end="9352676666t" region="region.after.center" style="style.default" xml:id="subtitle282">и почитаю этого Пиа...</p>
+<p begin="9359350000t" end="9374782082t" region="region.after.center" style="style.default" xml:id="subtitle283">Здесь какой-то запах...</p>
+<p begin="9386460416t" end="9407731666t" region="region.after.center" style="style.default" xml:id="subtitle284">С вашей кухни.</p>
+<p begin="9632122500t" end="9641298332t" region="region.after.center" style="style.default" xml:id="subtitle285">Здесь жарко!</p>
+<p begin="9653393750t" end="9672162500t" region="region.after.center" style="style.default" xml:id="subtitle286">Ага, я тоже люблю эту песню!</p>
+<p begin="9677584582t" end="9691348332t" region="region.after.center" style="style.default" xml:id="subtitle287">Хочешь выпить?</p>
+<p begin="9693016666t" end="9703026666t" region="region.after.center" style="style.default" xml:id="subtitle288">Что?</p>
+<p begin="9704695000t" end="9714705000t" region="region.after.center" style="style.default" xml:id="subtitle289">Извини!</p>
+<p begin="9718458750t" end="9731805416t" region="region.after.center" style="style.default" xml:id="subtitle290">Пива или еще чего-то?</p>
+<p begin="9733473750t" end="9743483750t" region="region.after.center" style="style.default" xml:id="subtitle291">Не важно!</p>
+<p begin="9832322500t" end="9842332500t" region="region.after.center" style="style.default" xml:id="subtitle292">Джулия!</p>
+<p begin="9859850000t" end="9869860000t" region="region.after.center" style="style.default" xml:id="subtitle293">Джулия!</p>
+<p begin="9891548332t" end="9901558332t" region="region.after.center" style="style.default" xml:id="subtitle294">Чарли, привет!</p>
+<p begin="9903643750t" end="9943266666t" region="region.after.center" style="style.default" xml:id="subtitle295">-Что ты здесь делаешь? Ты же должна...<br/>-Свидание! У меня свидание! А ты?</p>
+<p begin="9949522916t" end="9961201250t" region="region.after.center" style="style.default" xml:id="subtitle296">Как ты сюда попала?</p>
+<p begin="9962869582t" end="9982472500t" region="region.after.center" style="style.default" xml:id="subtitle297">Мой парень знает охранника!</p>
+<p begin="9984140832t" end="9994150832t" region="region.after.center" style="style.default" xml:id="subtitle298">Который?</p>
+<p begin="10009165832t" end="10037110416t" region="region.after.center" style="style.default" xml:id="subtitle299">Черные волосы,<br/>рубашка в полоску, у бара!</p>
+<p begin="10041698332t" end="10053793750t" region="region.after.center" style="style.default" xml:id="subtitle300">Он тебя подвез?</p>
+<p begin="10060050000t" end="10085075000t" region="region.after.center" style="style.default" xml:id="subtitle301">Ты что, мой старший брат?<br/>Мы приехали на автобусе!</p>
+<p begin="10086743332t" end="10096753332t" region="region.after.center" style="style.default" xml:id="subtitle302">Привет, Даги!</p>
+<p begin="10099255832t" end="10119692916t" region="region.after.center" style="style.default" xml:id="subtitle303">Привет, Джули. Классная куртка.</p>
+<p begin="10122195416t" end="10163069582t" region="region.after.center" style="style.default" xml:id="subtitle304">-Я думаю, тебе лучше...<br/>-Знаю, но все равно люблю тебя. Увидимся.</p>
+<p begin="10185592082t" end="10203109582t" region="region.after.center" style="style.default" xml:id="subtitle305">Чувак, надо поговорить.</p>
+<p begin="10256913332t" end="10271094166t" region="region.after.center" style="style.default" xml:id="subtitle306">Ты знаешь тех парней?</p>
+<p begin="10275682082t" end="10294450832t" region="region.after.center" style="style.default" xml:id="subtitle307">Может быть. А что? Ревнуешь?</p>
+<p begin="10317390416t" end="10347420416t" region="region.after.center" style="style.default" xml:id="subtitle308">Тот, что в джинсовке -<br/>мой брат, а второй...</p>
+<p begin="10364520832t" end="10389545832t" region="region.after.center" style="style.default" xml:id="subtitle309">Мы, типа, некоторое время гуляли летом.</p>
+<p begin="10390797082t" end="10400807082t" region="region.after.center" style="style.default" xml:id="subtitle310">Да ну.</p>
+<p begin="10415405000t" end="10427500416t" region="region.after.center" style="style.default" xml:id="subtitle311">Это они из-за тебя?</p>
+<p begin="10435007916t" end="10461284166t" region="region.after.center" style="style.default" xml:id="subtitle312">-Я не знаю, что случилось!..<br/>-Сукин сын!</p>
+<p begin="10469625832t" end="10479635832t" region="region.after.center" style="style.default" xml:id="subtitle313">Не знаю.</p>
+<p begin="10491314166t" end="10501324166t" region="region.after.center" style="style.default" xml:id="subtitle314">Он мне просто брат.</p>
+<p begin="10515505000t" end="10534690832t" region="region.after.center" style="style.default" xml:id="subtitle315">Слушай, может, пойдем отсюда?</p>
+<p begin="10585157916t" end="10597253332t" region="region.after.center" style="style.default" xml:id="subtitle316">Это твои родители?</p>
+<p begin="10604343750t" end="10614353750t" region="region.after.center" style="style.default" xml:id="subtitle317">Да.</p>
+<p begin="10623946666t" end="10641464166t" region="region.after.center" style="style.default" xml:id="subtitle318">А она красивая, твоя мама.</p>
+<p begin="10664820832t" end="10680252916t" region="region.after.center" style="style.default" xml:id="subtitle319">Хочешь поцеловать меня?</p>
+<p begin="10713619582t" end="10723629582t" region="region.after.center" style="style.default" xml:id="subtitle320">Конечно.</p>
+<p begin="10729468750t" end="10739478750t" region="region.after.center" style="style.default" xml:id="subtitle321">Конечно, хочу.</p>
+<p begin="10820392916t" end="10845835000t" region="region.after.center" style="style.default" xml:id="subtitle322">Есть какая-то музыка или что-то такое?</p>
+<p begin="10850840000t" end="10873362500t" region="region.after.center" style="style.default" xml:id="subtitle323">Ну, я еще не перевезла магнитофон,</p>
+<p begin="10876699166t" end="10888794582t" region="region.after.center" style="style.default" xml:id="subtitle324">Но здесь есть радио.</p>
+<p begin="10907563332t" end="10922995416t" region="region.after.center" style="style.default" xml:id="subtitle325">Не волнуйся. Не важно.</p>
+<p begin="11123612500t" end="11134873750t" region="region.after.center" style="style.default" xml:id="subtitle326">Что? Что я сделала?</p>
+<p begin="11142798332t" end="11154059582t" region="region.after.center" style="style.default" xml:id="subtitle327">Ничего. Просто...</p>
+<p begin="11156562082t" end="11166572082t" region="region.after.center" style="style.default" xml:id="subtitle328">Что?</p>
+<p begin="11172411250t" end="11188260416t" region="region.after.center" style="style.default" xml:id="subtitle329">Удивила меня, вот и все.</p>
+<p begin="11317139166t" end="11337576250t" region="region.after.center" style="style.default" xml:id="subtitle330">-Джулия!<br/>-Она занята. Не надо мешать.</p>
+<p begin="11339244582t" end="11355927916t" region="region.after.center" style="style.default" xml:id="subtitle331">Джулия, можешь спуститься?</p>
+<p begin="11360515832t" end="11370525832t" region="region.after.center" style="style.default" xml:id="subtitle332">Джулия!</p>
+<p begin="11387626250t" end="11400138750t" region="region.after.center" style="style.default" xml:id="subtitle333">Что ты орешь, черт возьми?</p>
+<p begin="11401390000t" end="11418907500t" region="region.after.center" style="style.default" xml:id="subtitle334">Семейный совет. Сейчас.</p>
+<p begin="11446852082t" end="11456862082t" region="region.after.center" style="style.default" xml:id="subtitle335">Извини за это.</p>
+<p begin="11507746250t" end="11531102916t" region="region.after.center" style="style.default" xml:id="subtitle336">На мосту «Золотые ворота», в три часа?</p>
+<p begin="11539027500t" end="11557796250t" region="region.after.center" style="style.default" xml:id="subtitle337">Не сегодня. Увидимся завтра?</p>
+<p begin="11568223332t" end="11589077500t" region="region.after.center" style="style.default" xml:id="subtitle338">-Конечно.<br/>-Ладно.</p>
+<p begin="11631202916t" end="11653308332t" region="region.after.center" style="style.default" xml:id="subtitle339">Надеюсь, это серьезно.</p>
+<p begin="11657479166t" end="11667489166t" region="region.after.center" style="style.default" xml:id="subtitle340">Мы...</p>
+<p begin="11672077082t" end="11701272916t" region="region.after.center" style="style.default" xml:id="subtitle341">У нас проблема. Нам надо поговорить.</p>
+<p begin="11718373332t" end="11730885832t" region="region.after.center" style="style.default" xml:id="subtitle342">Все будет хорошо.</p>
+<p begin="11732554166t" end="11754659582t" region="region.after.center" style="style.default" xml:id="subtitle343">Чарли. Ты и так испортил мне вечер.</p>
+<p begin="11756327916t" end="11797202082t" region="region.after.center" style="style.default" xml:id="subtitle344">Ты скажешь нам, что происходит,<br/>или так и будем стоять здесь?</p>
+<p begin="11799287500t" end="11814719582t" region="region.after.center" style="style.default" xml:id="subtitle345">Мы с Дагом и его другом</p>
+<p begin="11825980832t" end="11856010832t" region="region.after.center" style="style.default" xml:id="subtitle346">хотели купить магазин,<br/>сделать ремонт и продать.</p>
+<p begin="11857679166t" end="11871442916t" region="region.after.center" style="style.default" xml:id="subtitle347">На все ушел бы месяц,</p>
+<p begin="11873111250t" end="11905643750t" region="region.after.center" style="style.default" xml:id="subtitle348">и мы бы заработали вдвое больше,<br/>без проблем...</p>
+<p begin="11908980416t" end="11922327082t" region="region.after.center" style="style.default" xml:id="subtitle349">Только тот парень...</p>
+<p begin="11932337082t" end="11946517916t" region="region.after.center" style="style.default" xml:id="subtitle350">Взял деньги и слинял.</p>
+<p begin="11984472500t" end="12006160832t" region="region.after.center" style="style.default" xml:id="subtitle351">И сколько денег ты потерял, Чарли?</p>
+<p begin="12074979582t" end="12084989582t" region="region.after.center" style="style.default" xml:id="subtitle352">Двенадцать...</p>
+<p begin="12121275832t" end="12131285832t" region="region.after.center" style="style.default" xml:id="subtitle353">Тысяч.</p>
+<p begin="12155893750t" end="12171742916t" region="region.after.center" style="style.default" xml:id="subtitle354">Твоих собственных денег, да?</p>
+<p begin="12221792916t" end="12250571666t" region="region.after.center" style="style.default" xml:id="subtitle355">И где же твои лекции<br/>об ответственности?</p>
+<p begin="12252240000t" end="12283104166t" region="region.after.center" style="style.default" xml:id="subtitle356">Поэтому тебе нужен был счет?<br/>Чтобы растранжирить его?</p>
+<p begin="12284355416t" end="12313551250t" region="region.after.center" style="style.default" xml:id="subtitle357">Я пытался сделать всем хорошо.<br/>Это был общий вклад!</p>
+<p begin="12315219582t" end="12332737082t" region="region.after.center" style="style.default" xml:id="subtitle358">Оставь, Чарли.</p>
+<p begin="12347335000t" end="12366937916t" region="region.after.center" style="style.default" xml:id="subtitle359">Что мы будем делать еще четыре месяца</p>
+<p begin="12368606250t" end="12381118750t" region="region.after.center" style="style.default" xml:id="subtitle360">до следующего чека?</p>
+<p begin="12418656250t" end="12434088332t" region="region.after.center" style="style.default" xml:id="subtitle361">Сколько у нас осталось?</p>
+<p begin="12438259166t" end="12456193750t" region="region.after.center" style="style.default" xml:id="subtitle362">Ну, вчера мы получили 2500.</p>
+<p begin="12467455000t" end="12477465000t" region="region.after.center" style="style.default" xml:id="subtitle363">Это все.</p>
+<p begin="12481635832t" end="12492062916t" region="region.after.center" style="style.default" xml:id="subtitle364">Это все?</p>
+<p begin="12496650832t" end="12521675832t" region="region.after.center" style="style.default" xml:id="subtitle365">Нам нужно нанять няню,<br/>починить раковину и оплатить телефон.</p>
+<p begin="12523344166t" end="12539193332t" region="region.after.center" style="style.default" xml:id="subtitle366">Плюс ипотека. В эту пятницу.</p>
+<p begin="12540861666t" end="12554208332t" region="region.after.center" style="style.default" xml:id="subtitle367">Мы никак не успеем.</p>
+<p begin="12562132916t" end="12598419166t" region="region.after.center" style="style.default" xml:id="subtitle368">Так. Завтра пойдем к мистеру Грэхему.<br/>Попросим аванс.</p>
+<p begin="12600087500t" end="12620107500t" region="region.after.center" style="style.default" xml:id="subtitle369">-Нет.<br/>-Почему нет? Мы в беде.</p>
+<p begin="12622192916t" end="12645549582t" region="region.after.center" style="style.default" xml:id="subtitle370">Потому что мы должны быть независимыми.</p>
+<p begin="12647217916t" end="12670574582t" region="region.after.center" style="style.default" xml:id="subtitle371">Сделаем вид,<br/>будто сами со всем справляемся,</p>
+<p begin="12672242916t" end="12708112082t" region="region.after.center" style="style.default" xml:id="subtitle372">как нормальная семья,<br/>иначе будет повод разлучить нас.</p>
+<p begin="12722292916t" end="12732302916t" region="region.after.center" style="style.default" xml:id="subtitle373">Молодец, Чарли.</p>
+<p begin="12748569166t" end="12758579166t" region="region.after.center" style="style.default" xml:id="subtitle374">Спасибо.</p>
+<p begin="12765669582t" end="12775262500t" region="region.after.center" style="style.default" xml:id="subtitle375">Большое спасибо.</p>
+<p begin="12863684166t" end="12874945416t" region="region.after.center" style="style.default" xml:id="subtitle376">Значит, похоже...</p>
+<p begin="12892880000t" end="12921658750t" region="region.after.center" style="style.default" xml:id="subtitle377">Нам придется отказаться<br/>от всего, от чего можно.</p>
+<p begin="12944181250t" end="12971291666t" region="region.after.center" style="style.default" xml:id="subtitle378">Пусть все думают,<br/>что ты такой крутой чувак,</p>
+<p begin="12972960000t" end="12996316666t" region="region.after.center" style="style.default" xml:id="subtitle379">который пытается удержать семью...</p>
+<p begin="12999653332t" end="13011748750t" region="region.after.center" style="style.default" xml:id="subtitle380">Ты нам, как отец...</p>
+<p begin="13030100416t" end="13045532500t" region="region.after.center" style="style.default" xml:id="subtitle381">Даже если это не так.</p>
+<p begin="13103924166t" end="13113517082t" region="region.after.center" style="style.default" xml:id="subtitle382">Клодия?</p>
+<p begin="13124778332t" end="13138125000t" region="region.after.center" style="style.default" xml:id="subtitle383">Что произошло, Клод?</p>
+<p begin="13156476666t" end="13166486666t" region="region.after.center" style="style.default" xml:id="subtitle384">Я боюсь.</p>
+<p begin="13180667500t" end="13190260416t" region="region.after.center" style="style.default" xml:id="subtitle385">Не надо.</p>
+<p begin="13198185000t" end="13214451250t" region="region.after.center" style="style.default" xml:id="subtitle386">Мы что-нибудь придумаем.</p>
+<p begin="13236973750t" end="13267837916t" region="region.after.center" style="style.default" xml:id="subtitle387">Такого бы не случилось,<br/>если бы были папа и мама.</p>
+<p begin="13297450832t" end="13307460832t" region="region.after.center" style="style.default" xml:id="subtitle388">Почему их нет?</p>
+<p begin="13353340000t" end="13363350000t" region="region.after.center" style="style.default" xml:id="subtitle389">Иди сюда.</p>
+<p begin="13385455416t" end="13402555832t" region="region.after.center" style="style.default" xml:id="subtitle390">У нас все будет хорошо.</p>
+<p begin="13409229166t" end="13425912500t" region="region.after.center" style="style.default" xml:id="subtitle391">Обещаю, все будет хорошо.</p>
+<p begin="13691594582t" end="13701187499t" region="region.after.center" style="style.default" xml:id="subtitle392">Что?</p>
+<p begin="13702438749t" end="13717453749t" region="region.after.center" style="style.default" xml:id="subtitle393">Еще одно объявление?</p>
+<p begin="13725378332t" end="13752488749t" region="region.after.center" style="style.default" xml:id="subtitle394">Что ты теперь натворил,<br/>проиграл дом в покер?</p>
+<p begin="13759996249t" end="13780016249t" region="region.after.center" style="style.default" xml:id="subtitle395">Слушайте, я знаю, что облажался.</p>
+<p begin="13790860416t" end="13800870416t" region="region.after.center" style="style.default" xml:id="subtitle396">Поэтому...</p>
+<p begin="13810463332t" end="13839659166t" region="region.after.center" style="style.default" xml:id="subtitle397">Я сделаю то,<br/>что давно пора было бы сделать.</p>
+<p begin="13841327499t" end="13863015832t" region="region.after.center" style="style.default" xml:id="subtitle398">Я буду проводить<br/>больше времени с вами,</p>
+<p begin="13864684166t" end="13889292082t" region="region.after.center" style="style.default" xml:id="subtitle399">возьму на себя больше обязанностей...</p>
+<p begin="13909729166t" end="13924327082t" region="region.after.center" style="style.default" xml:id="subtitle400">Буду заботиться о вас.</p>
+<p begin="13971874582t" end="13989809166t" region="region.after.center" style="style.default" xml:id="subtitle401">Хоть кто-то этому радуется.</p>
+<p begin="13999819166t" end="14025261249t" region="region.after.center" style="style.default" xml:id="subtitle402">Джулия, забери свои вещи<br/>из комнаты родителей</p>
+<p begin="14026512499t" end="14047366666t" region="region.after.center" style="style.default" xml:id="subtitle403">и положи мои вещи туда, откуда взяла.</p>
+<p begin="14049034999t" end="14058627916t" region="region.after.center" style="style.default" xml:id="subtitle404">Что?</p>
+<p begin="14059879166t" end="14086989582t" region="region.after.center" style="style.default" xml:id="subtitle405">Если я останусь тут насовсем,<br/>то не буду спать на диване.</p>
+<p begin="14088240832t" end="14098250832t" region="region.after.center" style="style.default" xml:id="subtitle406">С чего это вдруг?</p>
+<p begin="14099919166t" end="14137456666t" region="region.after.center" style="style.default" xml:id="subtitle407">Мне 24 года. Я тут единственный<br/>взрослый. Конец истории.</p>
+<p begin="14147049582t" end="14175411249t" region="region.after.center" style="style.default" xml:id="subtitle408">Или ты заберешь свои вещи,<br/>или я их выброшу.</p>
+<p begin="14218370832t" end="14232968749t" region="region.after.center" style="style.default" xml:id="subtitle409">Мой палец!</p>
+<p begin="14237973749t" end="14247149582t" region="region.after.center" style="style.default" xml:id="subtitle410">Извини.</p>
+<p begin="14248817916t" end="14263415832t" region="region.after.center" style="style.default" xml:id="subtitle411">Нет, Клод, не отпускай!</p>
+<p begin="14265084166t" end="14280933332t" region="region.after.center" style="style.default" xml:id="subtitle412">Не кричи. Я стараюсь.</p>
+<p begin="14282601666t" end="14301370416t" region="region.after.center" style="style.default" xml:id="subtitle413">Я знаю. Просто потяни за веревку.</p>
+<p begin="14303038749t" end="14314299999t" region="region.after.center" style="style.default" xml:id="subtitle414">Я тяну. Тяну!</p>
+<p begin="14322224582t" end="14336822499t" region="region.after.center" style="style.default" xml:id="subtitle415">А я защелкну. Вот так.</p>
+<p begin="14433168749t" end="14445681249t" region="region.after.center" style="style.default" xml:id="subtitle416">Хорошо выглядит, да?</p>
+<p begin="14447766666t" end="14461947499t" region="region.after.center" style="style.default" xml:id="subtitle417">Да, не так уж плохо.</p>
+<p begin="14469037916t" end="14489057916t" region="region.after.center" style="style.default" xml:id="subtitle418">Теперь остался мой спальный мешок,</p>
+<p begin="14490726249t" end="14504907082t" region="region.after.center" style="style.default" xml:id="subtitle419">здесь будет моя спальня,</p>
+<p begin="14506575416t" end="14525344166t" region="region.after.center" style="style.default" xml:id="subtitle420">а там я устрою гостиную.</p>
+<p begin="14531600416t" end="14559127916t" region="region.after.center" style="style.default" xml:id="subtitle421">Может, даже приглашу тебя на ужин.</p>
+<p begin="14576228332t" end="14592077499t" region="region.after.center" style="style.default" xml:id="subtitle422">Идеальный малыш, да-да.</p>
+<p begin="14601253332t" end="14616685416t" region="region.after.center" style="style.default" xml:id="subtitle423">Абсолютно. Очень милый.</p>
+<p begin="14630866249t" end="14640876249t" region="region.after.center" style="style.default" xml:id="subtitle424">Ваш пес болен?</p>
+<p begin="14661313332t" end="14671323332t" region="region.after.center" style="style.default" xml:id="subtitle425">Он ворчун.</p>
+<p begin="14677579582t" end="14698850832t" region="region.after.center" style="style.default" xml:id="subtitle426">Клодия, Чарли, это миссис Пик.</p>
+<p begin="14706358332t" end="14723041666t" region="region.after.center" style="style.default" xml:id="subtitle427">-Здравствуйте.<br/>-Как дела?</p>
+<p begin="14730966249t" end="14752237499t" region="region.after.center" style="style.default" xml:id="subtitle428">Вижу, вы идете в семейный поход?</p>
+<p begin="14765167082t" end="14787689582t" region="region.after.center" style="style.default" xml:id="subtitle429">Нет. У нас проблема с местом,</p>
+<p begin="14794779999t" end="14807709582t" region="region.after.center" style="style.default" xml:id="subtitle430">у нас с сестрой.</p>
+<p begin="14832734582t" end="14848583749t" region="region.after.center" style="style.default" xml:id="subtitle431">Это будет ее комната. Пока.</p>
+<p begin="14850252082t" end="14873608749t" region="region.after.center" style="style.default" xml:id="subtitle432">Мы верим в креативные решения проблем.</p>
+<p begin="14896131249t" end="14906141249t" region="region.after.center" style="style.default" xml:id="subtitle433">Ясно.</p>
+<p begin="14914065832t" end="14947849582t" region="region.after.center" style="style.default" xml:id="subtitle434">Все равно мы нечасто<br/>пользуемся столовой, поэтому...</p>
+<p begin="14949517916t" end="14959527916t" region="region.after.center" style="style.default" xml:id="subtitle435">Знаете что?</p>
+<p begin="14967035416t" end="14997899582t" region="region.after.center" style="style.default" xml:id="subtitle436">Кажется, я забыла<br/>поставить машину на ручной тормоз.</p>
+<p begin="15030849166t" end="15048783749t" region="region.after.center" style="style.default" xml:id="subtitle437">Все хорошо. Я сама справлюсь.</p>
+<p begin="15083818749t" end="15093828749t" region="region.after.center" style="style.default" xml:id="subtitle438">Ладно...</p>
+<p begin="15123024582t" end="15135119999t" region="region.after.center" style="style.default" xml:id="subtitle439">Не вернется, да?</p>
+<p begin="15145547082t" end="15155557082t" region="region.after.center" style="style.default" xml:id="subtitle440">Ни за что.</p>
+<p begin="15214365832t" end="15224375832t" region="region.after.center" style="style.default" xml:id="subtitle441">Привет, Пи. Кей.</p>
+<p begin="15274842916t" end="15284852916t" region="region.after.center" style="style.default" xml:id="subtitle442">Привет.</p>
+<p begin="15295697082t" end="15321139166t" region="region.after.center" style="style.default" xml:id="subtitle443">-Мы уже идем.<br/>-Да? Куда собрались?</p>
+<p begin="15329063749t" end="15338239582t" region="region.after.center" style="style.default" xml:id="subtitle444">В Беркли.</p>
+<p begin="15339907916t" end="15353254582t" region="region.after.center" style="style.default" xml:id="subtitle445">Класс. Можно с вами?</p>
+<p begin="15363264582t" end="15377028332t" region="region.after.center" style="style.default" xml:id="subtitle446">Ну, мы там в палатках будем.</p>
+<p begin="15378696666t" end="15393711666t" region="region.after.center" style="style.default" xml:id="subtitle447">У нас билеты<br/>на шоу пиротехники, так что...</p>
+<p begin="15395379999t" end="15405389999t" region="region.after.center" style="style.default" xml:id="subtitle448">Ясно.</p>
+<p begin="15408726666t" end="15425409999t" region="region.after.center" style="style.default" xml:id="subtitle449">Может, встретимся завтра.</p>
+<p begin="15448349582t" end="15458359582t" region="region.after.center" style="style.default" xml:id="subtitle450">Завтра...</p>
+<p begin="15473791666t" end="15488389582t" region="region.after.center" style="style.default" xml:id="subtitle451">Это такой день после сегодня.</p>
+<p begin="15490057916t" end="15518836666t" region="region.after.center" style="style.default" xml:id="subtitle452">Можем посмотреть кино,<br/>чего-нибудь поесть.</p>
+<p begin="15522590416t" end="15537605416t" region="region.after.center" style="style.default" xml:id="subtitle453">Не могу. Дела.</p>
+<p begin="15563047499t" end="15583067499t" region="region.after.center" style="style.default" xml:id="subtitle454">Ну, так позвони позже, хорошо?</p>
+<p begin="15621022082t" end="15638539582t" region="region.after.center" style="style.default" xml:id="subtitle455">Слушай, чтобы ты понимала,</p>
+<p begin="15652720416t" end="15664815832t" region="region.after.center" style="style.default" xml:id="subtitle456">мы не встречаемся.</p>
+<p begin="15694428749t" end="15704438749t" region="region.after.center" style="style.default" xml:id="subtitle457">Что?</p>
+<p begin="15727795416t" end="15737805416t" region="region.after.center" style="style.default" xml:id="subtitle458">Ну, то есть</p>
+<p begin="15744061666t" end="15768669582t" region="region.after.center" style="style.default" xml:id="subtitle459">вчера было прикольно и все такое, но...</p>
+<p begin="15782850416t" end="15817051249t" region="region.after.center" style="style.default" xml:id="subtitle460">Но я не хочу тусить с тобой все время,</p>
+<p begin="15818719582t" end="15834568749t" region="region.after.center" style="style.default" xml:id="subtitle461">ну, знаешь, типа мы вместе.</p>
+<p begin="15862513332t" end="15874608749t" region="region.after.center" style="style.default" xml:id="subtitle462">Я просто думала...</p>
+<p begin="15889623749t" end="15906307082t" region="region.after.center" style="style.default" xml:id="subtitle463">Слушай, мне надо идти.</p>
+<p begin="15938839582t" end="15948849582t" region="region.after.center" style="style.default" xml:id="subtitle464">Да.</p>
+<p begin="16477294166t" end="16498148332t" region="region.after.center" style="style.default" xml:id="subtitle465">Послушай, хочу, чтобы ты знал,</p>
+<p begin="16510660832t" end="16526092916t" region="region.after.center" style="style.default" xml:id="subtitle466">не пойми меня правильно,</p>
+<p begin="16536937082t" end="16548198332t" region="region.after.center" style="style.default" xml:id="subtitle467">но я схожу с ума.</p>
+<p begin="16564881666t" end="16584067499t" region="region.after.center" style="style.default" xml:id="subtitle468">И если я не найду тебе няню,</p>
+<p begin="16605338749t" end="16625358749t" region="region.after.center" style="style.default" xml:id="subtitle469">придется продать тебя в рабство.</p>
+<p begin="16627027082t" end="16654971666t" region="region.after.center" style="style.default" xml:id="subtitle470">Знаю, ты не так представлял себе<br/>детство,</p>
+<p begin="16671654999t" end="16692926249t" region="region.after.center" style="style.default" xml:id="subtitle471">но - добро пожаловать в клуб.</p>
+<p begin="16785935832t" end="16795945832t" region="region.after.center" style="style.default" xml:id="subtitle472">Спокойной ночи.</p>
+<p begin="16926909999t" end="16949432499t" region="region.after.center" style="style.default" xml:id="subtitle473">Так, мне нужно придумать три сферы,</p>
+<p begin="16958191249t" end="17002402082t" region="region.after.center" style="style.default" xml:id="subtitle474">в которых наша жизнь улучшилась благодаря<br/>постоянному исследованию космоса.</p>
+<p begin="17029095416t" end="17040356666t" region="region.after.center" style="style.default" xml:id="subtitle475">Три.</p>
+<p begin="17084567499t" end="17108758332t" region="region.after.center" style="style.default" xml:id="subtitle476">Как насчет спутников?<br/>Ну, знаешь, типа...</p>
+<p begin="17110009582t" end="17120019582t" region="region.after.center" style="style.default" xml:id="subtitle477">Телеспутники?</p>
+<p begin="17122522082t" end="17132532082t" region="region.after.center" style="style.default" xml:id="subtitle478">Ладно.</p>
+<p begin="17145044582t" end="17159642499t" region="region.after.center" style="style.default" xml:id="subtitle479">Может, поможешь нам, Чарли?</p>
+<p begin="17161310832t" end="17171320832t" region="region.after.center" style="style.default" xml:id="subtitle480">Что?</p>
+<p begin="17195511666t" end="17209275416t" region="region.after.center" style="style.default" xml:id="subtitle481">Не знаю, самолеты стали лучше?</p>
+<p begin="17219285416t" end="17231380832t" region="region.after.center" style="style.default" xml:id="subtitle482">Это всего две сферы.</p>
+<p begin="17280596666t" end="17290189582t" region="region.after.center" style="style.default" xml:id="subtitle483">Сок в пакетах.</p>
+<p begin="17291440832t" end="17303536250t" region="region.after.center" style="style.default" xml:id="subtitle484">-Да!<br/>-Люблю его.</p>
+<p begin="17306455832t" end="17316048750t" region="region.after.center" style="style.default" xml:id="subtitle485">Отличный сок.</p>
+<p begin="17325224582t" end="17334400416t" region="region.after.center" style="style.default" xml:id="subtitle486">Где ты была?</p>
+<p begin="17336068750t" end="17356088750t" region="region.after.center" style="style.default" xml:id="subtitle487">Гуляла. С тем парнем, Пи. Кеем.</p>
+<p begin="17380279582t" end="17405721666t" region="region.after.center" style="style.default" xml:id="subtitle488">Что-то вы быстро. Тебя не было всего час.</p>
+<p begin="17407390000t" end="17419068332t" region="region.after.center" style="style.default" xml:id="subtitle489">Он бросил тебя?</p>
+<p begin="17491223750t" end="17505821666t" region="region.after.center" style="style.default" xml:id="subtitle490">Ну и хорошо.</p>
+<p begin="17508324166t" end="17518334166t" region="region.after.center" style="style.default" xml:id="subtitle491">Точно.</p>
+<p begin="17522922082t" end="17534183332t" region="region.after.center" style="style.default" xml:id="subtitle492">Ты же не удивлена?</p>
+<p begin="17545861666t" end="17563379166t" region="region.after.center" style="style.default" xml:id="subtitle493">-Ну, я просто...<br/>-Забудь.</p>
+<p begin="17566715832t" end="17592575000t" region="region.after.center" style="style.default" xml:id="subtitle494">Все равно ты слишком хороша для него.</p>
+<p begin="17600082500t" end="17634283332t" region="region.after.center" style="style.default" xml:id="subtitle495">А что случилось с правилом<br/>«не гулять в будние дни»?</p>
+<p begin="17646795832t" end="17659308332t" region="region.after.center" style="style.default" xml:id="subtitle496">Иди к черту, Чарли.</p>
+<p begin="17780262500t" end="17795694582t" region="region.after.center" style="style.default" xml:id="subtitle497">Пора спать, Клодия.</p>
+<p begin="17797362916t" end="17819468332t" region="region.after.center" style="style.default" xml:id="subtitle498">Ни за что. Я не ложусь так рано.</p>
+<p begin="17826141666t" end="17836151666t" region="region.after.center" style="style.default" xml:id="subtitle499">Бейли?</p>
+<p begin="17840322500t" end="17850332500t" region="region.after.center" style="style.default" xml:id="subtitle500">Начинаем сегодня.</p>
+<p begin="17852000832t" end="17860759582t" region="region.after.center" style="style.default" xml:id="subtitle501">Забудь.</p>
+<p begin="17862010832t" end="17877025832t" region="region.after.center" style="style.default" xml:id="subtitle502">Не указывай мне, что делать.</p>
+<p begin="17878277082t" end="17900382500t" region="region.after.center" style="style.default" xml:id="subtitle503">Буду. Почитай соглашение об опекунстве.</p>
+<p begin="17902050832t" end="17923322082t" region="region.after.center" style="style.default" xml:id="subtitle504">Может, уже прекратишь, Чарли?</p>
+<p begin="17924990416t" end="17946261666t" region="region.after.center" style="style.default" xml:id="subtitle505">Бумажка не делает из тебя отца.</p>
+<p begin="18016748750t" end="18047612916t" region="region.after.center" style="style.default" xml:id="subtitle506">Знаешь что?<br/>Мне уже надоело это слышать, Бейли.</p>
+<p begin="18055954582t" end="18070969582t" region="region.after.center" style="style.default" xml:id="subtitle507">Не нравится договор? Ладно!</p>
+<p begin="18072637916t" end="18085150416t" region="region.after.center" style="style.default" xml:id="subtitle508">Можно иначе.</p>
+<p begin="18098080000t" end="18118100000t" region="region.after.center" style="style.default" xml:id="subtitle509">Но вы просто не сможете быть вместе.</p>
+<p begin="18119768332t" end="18153135000t" region="region.after.center" style="style.default" xml:id="subtitle510">У вас не будет главного,<br/>и вас разлучат навсегда.</p>
+<p begin="18171069582t" end="18186501666t" region="region.after.center" style="style.default" xml:id="subtitle511">Я отвечаю за эту семью</p>
+<p begin="18188170000t" end="18207772916t" region="region.after.center" style="style.default" xml:id="subtitle512">и буду относиться к этому серьезно.</p>
+<p begin="18209441250t" end="18219034166t" region="region.after.center" style="style.default" xml:id="subtitle513">Отвали, Чарли!</p>
+<p begin="18220702500t" end="18239471250t" region="region.after.center" style="style.default" xml:id="subtitle514">Ты потерял все деньги, не я!</p>
+<p begin="18243642082t" end="18253235000t" region="region.after.center" style="style.default" xml:id="subtitle515">Хочешь помочь?</p>
+<p begin="18254903332t" end="18279928332t" region="region.after.center" style="style.default" xml:id="subtitle516">Нам не нужны твои правила.<br/>Почему ты не работаешь?</p>
+<p begin="18281179582t" end="18293275000t" region="region.after.center" style="style.default" xml:id="subtitle517">-Я работаю!<br/>-Где?</p>
+<p begin="18304119166t" end="18319551250t" region="region.after.center" style="style.default" xml:id="subtitle518">Я скоро буду плотником.</p>
+<p begin="18326641666t" end="18350832500t" region="region.after.center" style="style.default" xml:id="subtitle519">Ты всегда «скоро будешь»<br/>что-то делать, Чарли.</p>
+<p begin="18352500832t" end="18372520832t" region="region.after.center" style="style.default" xml:id="subtitle520">Я видел, что ты отметил в газете.</p>
+<p begin="18374189166t" end="18398797082t" region="region.after.center" style="style.default" xml:id="subtitle521">Прораб на стройке, главный плотник...</p>
+<p begin="18400465416t" end="18413812082t" region="region.after.center" style="style.default" xml:id="subtitle522">Ты не ищешь работу..</p>
+<p begin="18417148750t" end="18444676250t" region="region.after.center" style="style.default" xml:id="subtitle523">Ты ищешь карьеру.<br/>Нам нужны деньги сейчас.</p>
+<p begin="18446344582t" end="18470952500t" region="region.after.center" style="style.default" xml:id="subtitle524">Если хочешь помочь нам, иди работай!</p>
+<p begin="18602333750t" end="18628192916t" region="region.after.center" style="style.default" xml:id="subtitle525">Уже поздно, Клод. Пора ложиться спать.</p>
+<p begin="18840905416t" end="18860091250t" region="region.after.center" style="style.default" xml:id="subtitle526">Можно войти?</p>
+<p begin="18926824582t" end="18936834582t" region="region.after.center" style="style.default" xml:id="subtitle527">Ты как?</p>
+<p begin="18949764166t" end="18967698750t" region="region.after.center" style="style.default" xml:id="subtitle528">Нормально, лучше не бывает.</p>
+<p begin="18979377082t" end="18990221250t" region="region.after.center" style="style.default" xml:id="subtitle529">А ты как думаешь?</p>
+<p begin="19048612916t" end="19063210832t" region="region.after.center" style="style.default" xml:id="subtitle530">Что с тобой происходит?</p>
+<p begin="19064879166t" end="19084899166t" region="region.after.center" style="style.default" xml:id="subtitle531">Это из-за того козла, Пи. Кея?</p>
+<p begin="19099080000t" end="19125773332t" region="region.after.center" style="style.default" xml:id="subtitle532">Думаешь, мне полегчает,<br/>если ты назовешь его козлом?</p>
+<p begin="19131195416t" end="19143290832t" region="region.after.center" style="style.default" xml:id="subtitle533">Нет. Я не хотел...</p>
+<p begin="19166230416t" end="19176240416t" region="region.after.center" style="style.default" xml:id="subtitle534">Извини.</p>
+<p begin="19203767916t" end="19224622082t" region="region.after.center" style="style.default" xml:id="subtitle535">Что ты хочешь услышать от меня?</p>
+<p begin="19230461250t" end="19240471250t" region="region.after.center" style="style.default" xml:id="subtitle536">Не знаю.</p>
+<p begin="19260074166t" end="19270084166t" region="region.after.center" style="style.default" xml:id="subtitle537">Что-нибудь.</p>
+<p begin="19275089166t" end="19311792500t" region="region.after.center" style="style.default" xml:id="subtitle538">Я хочу, чтобы ты сказал что-нибудь,<br/>от чего мне станет легче.</p>
+<p begin="19414812082t" end="19450264166t" region="region.after.center" style="style.default" xml:id="subtitle539">Этот чувак сделал стеллаж для оружия<br/>на уроке труда, Джули.</p>
+<p begin="19451932500t" end="19461942500t" region="region.after.center" style="style.default" xml:id="subtitle540">Он не для тебя.</p>
+<p begin="19488218750t" end="19512409582t" region="region.after.center" style="style.default" xml:id="subtitle541">Это лучшее, на что ты способен?</p>
+<p begin="19536183332t" end="19575389166t" region="region.after.center" style="style.default" xml:id="subtitle542">Он мне очень нравился<br/>и просто отшил меня, Бейли.</p>
+<p begin="19590404166t" end="19622519582t" region="region.after.center" style="style.default" xml:id="subtitle543">А ты не знаешь, что сказать,<br/>потому что не знаешь, каково это.</p>
+<p begin="19624187916t" end="19640037082t" region="region.after.center" style="style.default" xml:id="subtitle544">Не говори, что все будет хорошо.</p>
+<p begin="19641705416t" end="19662559582t" region="region.after.center" style="style.default" xml:id="subtitle545">Потому что ты не знаешь, будет ли.</p>
+<p begin="19692589582t" end="19702599582t" region="region.after.center" style="style.default" xml:id="subtitle546">Боже, никто...</p>
+<p begin="19720534166t" end="19746393332t" region="region.after.center" style="style.default" xml:id="subtitle547">Никто не может сказать, что мне делать.</p>
+<p begin="19795192082t" end="19808538750t" region="region.after.center" style="style.default" xml:id="subtitle548">Пожалуйста, Бейли...</p>
+<p begin="19824387916t" end="19836483332t" region="region.after.center" style="style.default" xml:id="subtitle549">Пожалуйста, уйди...</p>
+<p begin="19851081250t" end="19860674166t" region="region.after.center" style="style.default" xml:id="subtitle550">Хорошо?</p>
+<p begin="19916980416t" end="19931161250t" region="region.after.center" style="style.default" xml:id="subtitle551">Что значит заложила ее?</p>
+<p begin="19932829582t" end="19947427500t" region="region.after.center" style="style.default" xml:id="subtitle552">У меня не было выбора.</p>
+<p begin="19950347082t" end="19976206250t" region="region.after.center" style="style.default" xml:id="subtitle553">Уроки очень дорогие, а у нас ни гроша.</p>
+<p begin="19988301666t" end="20003733750t" region="region.after.center" style="style.default" xml:id="subtitle554">Некому сидеть с Оуэном.</p>
+<p begin="20018331666t" end="20057120416t" region="region.after.center" style="style.default" xml:id="subtitle555">Я должна была выбрать между скрипкой<br/>и няней для братика.</p>
+<p begin="20078808750t" end="20088818750t" region="region.after.center" style="style.default" xml:id="subtitle556">Извини, Росс.</p>
+<p begin="20111758332t" end="20121768332t" region="region.after.center" style="style.default" xml:id="subtitle557">Извини.</p>
+<p begin="20161391250t" end="20182245416t" region="region.after.center" style="style.default" xml:id="subtitle558">Так, вот что мы сделаем.</p>
+<p begin="20183913750t" end="20210607082t" region="region.after.center" style="style.default" xml:id="subtitle559">Я запишу тебя на государственное место.</p>
+<p begin="20215612082t" end="20233963750t" region="region.after.center" style="style.default" xml:id="subtitle560">Бесплатно, пока не разберетесь.</p>
+<p begin="20235632082t" end="20262325416t" region="region.after.center" style="style.default" xml:id="subtitle561">Нет. Ты... Ты не можешь этого сделать.</p>
+<p begin="20266913332t" end="20291521250t" region="region.after.center" style="style.default" xml:id="subtitle562">Могу. Я не хочу, чтобы ты бросала уроки.</p>
+<p begin="20293189582t" end="20306119166t" region="region.after.center" style="style.default" xml:id="subtitle563">Не сейчас. Ведь ты почти...</p>
+<p begin="20307787500t" end="20325305000t" region="region.after.center" style="style.default" xml:id="subtitle564">Умоляю, не заставляй меня.</p>
+<p begin="20376189166t" end="20397043332t" region="region.after.center" style="style.default" xml:id="subtitle565">Я бы никогда так не сделал.</p>
+<p begin="20409138750t" end="20436666250t" region="region.after.center" style="style.default" xml:id="subtitle566">Если не хочешь, то не надо.</p>
+<p begin="20482545416t" end="20497143332t" region="region.after.center" style="style.default" xml:id="subtitle567">Но, Клодия, послушай.</p>
+<p begin="20520917082t" end="20544273750t" region="region.after.center" style="style.default" xml:id="subtitle568">В тебе есть что-то очень особенное.</p>
+<p begin="20548444582t" end="20570967082t" region="region.after.center" style="style.default" xml:id="subtitle569">Оно есть. И у твоей мамы было.</p>
+<p begin="20579725832t" end="20600997082t" region="region.after.center" style="style.default" xml:id="subtitle570">И из-за этого оно еще более особенное.</p>
+<p begin="20620182916t" end="20635615000t" region="region.after.center" style="style.default" xml:id="subtitle571">Но иногда очень трудно.</p>
+<p begin="20655217916t" end="20676072082t" region="region.after.center" style="style.default" xml:id="subtitle572">Я не могу сыграть в представлении.</p>
+<p begin="20684413750t" end="20709438750t" region="region.after.center" style="style.default" xml:id="subtitle573">Я не могу ничего, что делают другие дети.</p>
+<p begin="20727790416t" end="20737800416t" region="region.after.center" style="style.default" xml:id="subtitle574">Знаешь что?</p>
+<p begin="20751564166t" end="20777006250t" region="region.after.center" style="style.default" xml:id="subtitle575">Чем думать о том, что ты теряешь,</p>
+<p begin="20784930832t" end="20819965832t" region="region.after.center" style="style.default" xml:id="subtitle576">подумай о том, что у тебя есть нечто,<br/>чего нет у других.</p>
+<p begin="20832895416t" end="20848327500t" region="region.after.center" style="style.default" xml:id="subtitle577">Когда ты берешь в руки скрипку,</p>
+<p begin="20856669166t" end="20887950416t" region="region.after.center" style="style.default" xml:id="subtitle578">ты можешь делать что-то прекрасное,<br/>когда захочешь.</p>
+<p begin="20914226666t" end="20935497916t" region="region.after.center" style="style.default" xml:id="subtitle579">Ты понимаешь, как тебе посчастливилось?</p>
+<p begin="20953015416t" end="20963025416t" region="region.after.center" style="style.default" xml:id="subtitle580">Не очень.</p>
+<p begin="20992638332t" end="21008487500t" region="region.after.center" style="style.default" xml:id="subtitle581">Поверь мне. Больше всех.</p>
+<p begin="21080642916t" end="21098577500t" region="region.after.center" style="style.default" xml:id="subtitle582">Это резиденция Сэлинджеров?</p>
+<p begin="21103582500t" end="21139451666t" region="region.after.center" style="style.default" xml:id="subtitle583">Я пришла на собеседование<br/>по поводу вакансии няни.</p>
+<p begin="21146125000t" end="21156135000t" region="region.after.center" style="style.default" xml:id="subtitle584">Кирстен Беннет.</p>
+<p begin="21170315832t" end="21180325832t" region="region.after.center" style="style.default" xml:id="subtitle585">Я Бейли.</p>
+<p begin="21189918750t" end="21199928750t" region="region.after.center" style="style.default" xml:id="subtitle586">Это Оуэн.</p>
+<p begin="21216612082t" end="21226622082t" region="region.after.center" style="style.default" xml:id="subtitle587">Зайдете?</p>
+<p begin="21241637082t" end="21251647082t" region="region.after.center" style="style.default" xml:id="subtitle588">Очаровательный.</p>
+<p begin="21312958332t" end="21345907916t" region="region.after.center" style="style.default" xml:id="subtitle589">Может, вы хотите что-то спросить у меня?</p>
+<p begin="21366345000t" end="21387616250t" region="region.after.center" style="style.default" xml:id="subtitle590">Вы легко нас нашли?</p>
+<p begin="22047442082t" end="22057035000t" region="region.after.center" style="style.default" xml:id="subtitle591">Браво!</p>
+<p begin="22071215832t" end="22082060000t" region="region.after.center" style="style.default" xml:id="subtitle592">Чудесно!</p>
+<p begin="22086230832t" end="22096240832t" region="region.after.center" style="style.default" xml:id="subtitle593">Браво!</p>
+<p begin="22195089582t" end="22205099582t" region="region.after.center" style="style.default" xml:id="subtitle594">Кто это?</p>
+<p begin="22217195000t" end="22227205000t" region="region.after.center" style="style.default" xml:id="subtitle595">Это Кирстен.</p>
+<p begin="22239300416t" end="22249310416t" region="region.after.center" style="style.default" xml:id="subtitle596">Какая Кирстен?</p>
+<p begin="22256817916t" end="22276837916t" region="region.after.center" style="style.default" xml:id="subtitle597">Какая у нее квалификация?</p>
+<p begin="22278506250t" end="22288516250t" region="region.after.center" style="style.default" xml:id="subtitle598">Она няня.</p>
+<p begin="22292687082t" end="22302697082t" region="region.after.center" style="style.default" xml:id="subtitle599">Уголовное прошлое есть?</p>
+<p begin="22304365416t" end="22319797500t" region="region.after.center" style="style.default" xml:id="subtitle600">Нет... Не думаю.</p>
+<p begin="22331892916t" end="22344405416t" region="region.after.center" style="style.default" xml:id="subtitle601">Бейли, что с тобой?</p>
+<p begin="22357752082t" end="22383611250t" region="region.after.center" style="style.default" xml:id="subtitle602">Как ты можешь поручить Оуэна<br/>чужому человеку?</p>
+<p begin="22385279582t" end="22408636250t" region="region.after.center" style="style.default" xml:id="subtitle603">-Я знаю, ты в отчаянии, но...<br/>-Ау!</p>
+<p begin="22422817082t" end="22433661250t" region="region.after.center" style="style.default" xml:id="subtitle604">Ты, наверное, Клодия.</p>
+<p begin="22458686250t" end="22468279166t" region="region.after.center" style="style.default" xml:id="subtitle605">Что?</p>
+<p begin="22469947500t" end="22504565416t" region="region.after.center" style="style.default" xml:id="subtitle606">Слушай, Оуэн просто чудо,<br/>и джип замечательный.</p>
+<p begin="22508736250t" end="22526670832t" region="region.after.center" style="style.default" xml:id="subtitle607">Мне точно можно ездить на нем на занятия?</p>
+<p begin="22528339166t" end="22547107916t" region="region.after.center" style="style.default" xml:id="subtitle608">Он твой. Как договаривались.</p>
+<p begin="22565042500t" end="22589650416t" region="region.after.center" style="style.default" xml:id="subtitle609">Так, кое-кому надо поменять подгузник.</p>
+<p begin="22639700416t" end="22649710416t" region="region.after.center" style="style.default" xml:id="subtitle610">Вспомнил.</p>
+<p begin="22654715416t" end="22677237916t" region="region.after.center" style="style.default" xml:id="subtitle611">Она учится в магистратуре<br/>по детской психологии.</p>
+<p begin="22678906250t" end="22723534166t" region="region.after.center" style="style.default" xml:id="subtitle612">Два года работы в начальной школе<br/>и рекомендации от трех семей.</p>
+<p begin="22725202500t" end="22735212500t" region="region.after.center" style="style.default" xml:id="subtitle613">Ты дал ей джип?</p>
+<p begin="22738966250t" end="22756900832t" region="region.after.center" style="style.default" xml:id="subtitle614">И всего 75 долларов в неделю.</p>
+<p begin="22758986250t" end="22788182082t" region="region.after.center" style="style.default" xml:id="subtitle615">Двух зайцев убил.<br/>К тому же, у меня есть привилегии.</p>
+<p begin="22789850416t" end="22799860416t" region="region.after.center" style="style.default" xml:id="subtitle616">Умно, да?</p>
+<p begin="22814458332t" end="22825302500t" region="region.after.center" style="style.default" xml:id="subtitle617">Большая какашка.</p>
+<p begin="22826553750t" end="22851995832t" region="region.after.center" style="style.default" xml:id="subtitle618">Держите подальше от Бейли.<br/>Он не любит...</p>
+<p begin="22853664166t" end="22864925416t" region="region.after.center" style="style.default" xml:id="subtitle619">Позвольте, я помогу.</p>
+<p begin="22866593750t" end="22884111250t" region="region.after.center" style="style.default" xml:id="subtitle620">-Ты не против?<br/>-Конечно нет.</p>
+<p begin="22907050832t" end="22917060832t" region="region.after.center" style="style.default" xml:id="subtitle621">Я...</p>
+<p begin="22926236666t" end="22947507916t" region="region.after.center" style="style.default" xml:id="subtitle622">Хочу попросить вас об услуге, Джо.</p>
+<p begin="22977120832t" end="22993804166t" region="region.after.center" style="style.default" xml:id="subtitle623">О какой сумме мы говорим?</p>
+<p begin="23014241250t" end="23024251250t" region="region.after.center" style="style.default" xml:id="subtitle624">Несколько штук.</p>
+<p begin="23044688332t" end="23071381666t" region="region.after.center" style="style.default" xml:id="subtitle625">Вообще, три будет как нельзя кстати.</p>
+<p begin="23084728332t" end="23113924166t" region="region.after.center" style="style.default" xml:id="subtitle626">Я бы не просил, но нам сейчас очень нужно.</p>
+<p begin="23115592500t" end="23133110000t" region="region.after.center" style="style.default" xml:id="subtitle627">И я верну все, Джо, клянусь.</p>
+<p begin="23134778332t" end="23152295832t" region="region.after.center" style="style.default" xml:id="subtitle628">Я жду приглашения на работу.</p>
+<p begin="23153964166t" end="23169813332t" region="region.after.center" style="style.default" xml:id="subtitle629">И как только получу место...</p>
+<p begin="23192335832t" end="23206516666t" region="region.after.center" style="style.default" xml:id="subtitle630">Или я могу отработать.</p>
+<p begin="23216943750t" end="23234461250t" region="region.after.center" style="style.default" xml:id="subtitle631">Вы хотели отремонтировать бар,</p>
+<p begin="23235712500t" end="23253647082t" region="region.after.center" style="style.default" xml:id="subtitle632">я могу сделать это для вас.</p>
+<p begin="23268245000t" end="23297023750t" region="region.after.center" style="style.default" xml:id="subtitle633">Вообще-то,<br/>он мне нравится таким, как есть.</p>
+<p begin="23303280000t" end="23316626666t" region="region.after.center" style="style.default" xml:id="subtitle634">Он своеобразный.</p>
+<p begin="23347073750t" end="23357083750t" region="region.after.center" style="style.default" xml:id="subtitle635">Три штуки?</p>
+<p begin="23398375000t" end="23408385000t" region="region.after.center" style="style.default" xml:id="subtitle636">Хорошо, не вопрос.</p>
+<p begin="23412972916t" end="23422982916t" region="region.after.center" style="style.default" xml:id="subtitle637">Правда?</p>
+<p begin="23435912500t" end="23453012916t" region="region.after.center" style="style.default" xml:id="subtitle638">Боже, спасибо, дружище. Отлично</p>
+<p begin="23454264166t" end="23466359582t" region="region.after.center" style="style.default" xml:id="subtitle639">Я не забуду этого.</p>
+<p begin="23470113332t" end="23507233750t" region="region.after.center" style="style.default" xml:id="subtitle640">Я буду просто высчитывать часть<br/>из твоей недельной платы.</p>
+<p begin="23508902082t" end="23526836666t" region="region.after.center" style="style.default" xml:id="subtitle641">Когда она у меня будет, да?</p>
+<p begin="23531841666t" end="23541851666t" region="region.after.center" style="style.default" xml:id="subtitle642">Уже есть.</p>
+<p begin="23543937082t" end="23570630416t" region="region.after.center" style="style.default" xml:id="subtitle643">Быстро, как готовят<br/>сингапурский слинг?</p>
+<p begin="23591901666t" end="23611087500t" region="region.after.center" style="style.default" xml:id="subtitle644">Хотите, чтобы я был барменом?</p>
+<p begin="23614424166t" end="23662388750t" region="region.after.center" style="style.default" xml:id="subtitle645">Да ну, Джо. Я же сказал, что придумаю,<br/>как отдать деньги, так и будет.</p>
+<p begin="23676569582t" end="23686579582t" region="region.after.center" style="style.default" xml:id="subtitle646">Что?</p>
+<p begin="23696172500t" end="23710770416t" region="region.after.center" style="style.default" xml:id="subtitle647">Будто какое-то дежавю.</p>
+<p begin="23715358332t" end="23731624582t" region="region.after.center" style="style.default" xml:id="subtitle648">Когда хозяином здесь был твой отец,</p>
+<p begin="23733292916t" end="23764574166t" region="region.after.center" style="style.default" xml:id="subtitle649">ты стоял на этом же месте<br/>и говорил то же самое.</p>
+<p begin="23773750000t" end="23794604166t" region="region.after.center" style="style.default" xml:id="subtitle650">Вы меня тоже кидалом называете?</p>
+<p begin="23811287500t" end="23844237082t" region="region.after.center" style="style.default" xml:id="subtitle651">Он так меня называл<br/>при каждой нашей ссоре.</p>
+<p begin="23845905416t" end="23855915416t" region="region.after.center" style="style.default" xml:id="subtitle652">Послушай, Чарли,</p>
+<p begin="23865508332t" end="23882608750t" region="region.after.center" style="style.default" xml:id="subtitle653">если нужны деньги, они твои.</p>
+<p begin="23883860000t" end="23899292082t" region="region.after.center" style="style.default" xml:id="subtitle654">Но их надо заработать.</p>
+<p begin="23905548332t" end="23946005416t" region="region.after.center" style="style.default" xml:id="subtitle655">Я готов дать тебе работу, а не подачку.</p>
+<p begin="23998557916t" end="24018160832t" region="region.after.center" style="style.default" xml:id="subtitle656">Апельсиновый сок, стопка джина,</p>
+<p begin="24019829166t" end="24053612916t" region="region.after.center" style="style.default" xml:id="subtitle657">немножко сахара и лимона<br/>и сверху вишневый бренди.</p>
+<p begin="24291767500t" end="24315958332t" region="region.after.center" style="style.default" xml:id="subtitle658">В прошлом году я запал на Джину Лу.</p>
+<p begin="24335144166t" end="24358500832t" region="region.after.center" style="style.default" xml:id="subtitle659">Не особенно говорил об этом, но...</p>
+<p begin="24369762082t" end="24388947916t" region="region.after.center" style="style.default" xml:id="subtitle660">Я был просто без ума от нее.</p>
+<p begin="24401460416t" end="24422731666t" region="region.after.center" style="style.default" xml:id="subtitle661">Я все приглашал ее куда-то,</p>
+<p begin="24426068332t" end="24459435000t" region="region.after.center" style="style.default" xml:id="subtitle662">пока, в конечном итоге,<br/>она не сказала мне отстать.</p>
+<p begin="24461937500t" end="24500726250t" region="region.after.center" style="style.default" xml:id="subtitle663">Она не хотела обидеть меня,<br/>но все равно...</p>
+<p begin="24506148332t" end="24524082916t" region="region.after.center" style="style.default" xml:id="subtitle664">Мне было очень плохо.</p>
+<p begin="24544937082t" end="24555364166t" region="region.after.center" style="style.default" xml:id="subtitle665">И что ты сделал?</p>
+<p begin="24581640416t" end="24604997082t" region="region.after.center" style="style.default" xml:id="subtitle666">Кажется, пошел к папе.</p>
+<p begin="24617926666t" end="24634610000t" region="region.after.center" style="style.default" xml:id="subtitle667">Да. Так и было.</p>
+<p begin="24653378750t" end="24665474166t" region="region.after.center" style="style.default" xml:id="subtitle668">И он сказал мне...</p>
+<p begin="24686328332t" end="24696338332t" region="region.after.center" style="style.default" xml:id="subtitle669">Что?</p>
+<p begin="24737629582t" end="24747639582t" region="region.after.center" style="style.default" xml:id="subtitle670">Не помню.</p>
+<p begin="24764322916t" end="24791433332t" region="region.after.center" style="style.default" xml:id="subtitle671">Это было что-то...<br/>Это было что-то классное.</p>
+<p begin="24793101666t" end="24815207082t" region="region.after.center" style="style.default" xml:id="subtitle672">Что-то, от чего перестало болеть.</p>
+<p begin="24843985832t" end="24856498332t" region="region.after.center" style="style.default" xml:id="subtitle673">Но я забыл. Прости.</p>
+<p begin="24866508332t" end="24876518332t" region="region.after.center" style="style.default" xml:id="subtitle674">Да. Ну...</p>
+<p begin="24884442916t" end="24894452916t" region="region.after.center" style="style.default" xml:id="subtitle675">Я пытаюсь.</p>
+<p begin="24908216666t" end="24934910000t" region="region.after.center" style="style.default" xml:id="subtitle676">У меня тоже нет никого,<br/>кто мог бы мне подсказать.</p>
+<p begin="24942834582t" end="24963688750t" region="region.after.center" style="style.default" xml:id="subtitle677">Я просто иду наощупь, как и ты.</p>
+<p begin="25022497500t" end="25044602916t" region="region.after.center" style="style.default" xml:id="subtitle678">Ты иногда думаешь о них, Бейли?</p>
+<p begin="25077552500t" end="25089647916t" region="region.after.center" style="style.default" xml:id="subtitle679">Да. Конечно думаю.</p>
+<p begin="25125100000t" end="25147205416t" region="region.after.center" style="style.default" xml:id="subtitle680">Так почему мы не говорим о них?</p>
+<p begin="25154295832t" end="25180155000t" region="region.after.center" style="style.default" xml:id="subtitle681">То есть почему мы не говорим об этом?</p>
+<p begin="25187245416t" end="25197255416t" region="region.after.center" style="style.default" xml:id="subtitle682">Не знаю.</p>
+<p begin="25217692500t" end="25231039166t" region="region.after.center" style="style.default" xml:id="subtitle683">Может, мы думаем, что должны</p>
+<p begin="25242300416t" end="25275667082t" region="region.after.center" style="style.default" xml:id="subtitle684">корчить из себя храбрых -<br/>ради Клод и Оуэна. Может, это тупо.</p>
+<p begin="25276918332t" end="25314455832t" region="region.after.center" style="style.default" xml:id="subtitle685">Может, нам следует говорить о них.<br/>Может, полегчает.</p>
+<p begin="25329887916t" end="25360752082t" region="region.after.center" style="style.default" xml:id="subtitle686">Иногда я думаю, уйдет ли это чувство.</p>
+<p begin="25381606250t" end="25391616250t" region="region.after.center" style="style.default" xml:id="subtitle687">Я не знаю.</p>
+<p begin="25408716666t" end="25423314582t" region="region.after.center" style="style.default" xml:id="subtitle688">Надеюсь, но не знаю.</p>
+<p begin="25476701250t" end="25501309166t" region="region.after.center" style="style.default" xml:id="subtitle689">Джулия, я не знаю многого.</p>
+<p begin="25520912082t" end="25534258750t" region="region.after.center" style="style.default" xml:id="subtitle690">И все, что я могу...</p>
+<p begin="25551359166t" end="25578886666t" region="region.after.center" style="style.default" xml:id="subtitle691">Это хвататься за то, в чем я уверен,</p>
+<p begin="25582223332t" end="25595570000t" region="region.after.center" style="style.default" xml:id="subtitle692">например, за нас, за семью.</p>
+<p begin="25597238332t" end="25617258332t" region="region.after.center" style="style.default" xml:id="subtitle693">Мы должны быть вместе<br/>как можно дольше.</p>
+<p begin="25618926666t" end="25641449166t" region="region.after.center" style="style.default" xml:id="subtitle694">Это же, вроде, правильно, да?</p>
+<p begin="25653544582t" end="25675232916t" region="region.after.center" style="style.default" xml:id="subtitle695">То же самое с этими ужинами. Просто...</p>
+<p begin="25689830832t" end="25708599582t" region="region.after.center" style="style.default" xml:id="subtitle696">Я знаю, что так должно быть.</p>
+<p begin="25717358332t" end="25727368332t" region="region.after.center" style="style.default" xml:id="subtitle697">Почему?</p>
+<p begin="25739880832t" end="25754061666t" region="region.after.center" style="style.default" xml:id="subtitle698">Потому что это важно.</p>
+<p begin="25766157082t" end="25788679582t" region="region.after.center" style="style.default" xml:id="subtitle699">Важно для меня. Важно для других.</p>
+<p begin="25824548750t" end="25857915416t" region="region.after.center" style="style.default" xml:id="subtitle700">И знаю, что наверняка это было бы<br/>важно для мамы с папой.</p>
+<p begin="26032673332t" end="26071045000t" region="region.after.center" style="style.default" xml:id="subtitle701">Боже, гляньте на него.<br/>Он все больше похож на папу.</p>
+<p begin="26072713332t" end="26090647916t" region="region.after.center" style="style.default" xml:id="subtitle702">Такой милый. Дай я его людям покажу.</p>
+<p begin="26092316250t" end="26112753332t" region="region.after.center" style="style.default" xml:id="subtitle703">Только потом верни, Джанет.<br/>Мы привязались уже.</p>
+<p begin="26114421666t" end="26124431666t" region="region.after.center" style="style.default" xml:id="subtitle704">Привет всем.</p>
+<p begin="26135692916t" end="26156964166t" region="region.after.center" style="style.default" xml:id="subtitle705">Привет, Чарли. Что это за...</p>
+<p begin="26158632500t" end="26176984166t" region="region.after.center" style="style.default" xml:id="subtitle706">Планируешь заказать омара?</p>
+<p begin="26178652500t" end="26202009166t" region="region.after.center" style="style.default" xml:id="subtitle707">Там нужна салфетка,<br/>Клодия, а не передник.</p>
+<p begin="26203677500t" end="26232873332t" region="region.after.center" style="style.default" xml:id="subtitle708">Нет, я работаю здесь.<br/>Джо дал мне работу на баре.</p>
+<p begin="26237461250t" end="26252059166t" region="region.after.center" style="style.default" xml:id="subtitle709">-Серьезно?<br/>-Серьезно.</p>
+<p begin="26257481250t" end="26273330416t" region="region.after.center" style="style.default" xml:id="subtitle710">Эй, Чарли Уже сачкуешь?</p>
+<p begin="26277918332t" end="26287094166t" region="region.after.center" style="style.default" xml:id="subtitle711">Подустал, Джо.</p>
+<p begin="26288762500t" end="26302109166t" region="region.after.center" style="style.default" xml:id="subtitle712">Проводи своих лучших клиентов<br/>на их место.</p>
+<p begin="26303777500t" end="26319626666t" region="region.after.center" style="style.default" xml:id="subtitle713">Сэлинджеры, их пятеро.</p>
+<p begin="26321295000t" end="26332139166t" region="region.after.center" style="style.default" xml:id="subtitle714">Джулия прогуливает?</p>
+<p begin="26333807500t" end="26350907916t" region="region.after.center" style="style.default" xml:id="subtitle715">Ей нелегко. Пусть отдохнет.</p>
+<p begin="26352159166t" end="26365505832t" region="region.after.center" style="style.default" xml:id="subtitle716">Она должна быть здесь.</p>
+<p begin="26367174166t" end="26393033332t" region="region.after.center" style="style.default" xml:id="subtitle717">Если вам когда-нибудь<br/>понадобится нянька...</p>
+<p begin="26397621250t" end="26413470416t" region="region.after.center" style="style.default" xml:id="subtitle718">Что вам принести выпить?</p>
+<p begin="26415972916t" end="26425982916t" region="region.after.center" style="style.default" xml:id="subtitle719">Как всегда.</p>
+<p begin="26446002916t" end="26462686250t" region="region.after.center" style="style.default" xml:id="subtitle720">А кто же будет строить дома, Чарли?</p>
+<p begin="26482289166t" end="26510233750t" region="region.after.center" style="style.default" xml:id="subtitle721">Теперь у меня есть 550 в неделю и чаевые.</p>
+<p begin="26512319166t" end="26527751250t" region="region.after.center" style="style.default" xml:id="subtitle722">25 за выгул собак.</p>
+<p begin="26529419582t" end="26550273750t" region="region.after.center" style="style.default" xml:id="subtitle723">В обувном магазине обещали 50.</p>
+<p begin="26555278750t" end="26572796250t" region="region.after.center" style="style.default" xml:id="subtitle724">Джо одолжил мне несколько штук.</p>
+<p begin="26574464582t" end="26597821250t" region="region.after.center" style="style.default" xml:id="subtitle725">Я отправил сегодня плату за ипотеку.</p>
+<p begin="26603660416t" end="26624514582t" region="region.after.center" style="style.default" xml:id="subtitle726">Как вам это? У нас, кажется, все выйдет.</p>
+<p begin="26633690416t" end="26646202916t" region="region.after.center" style="style.default" xml:id="subtitle727">Так, кто что заказал?</p>
+<p begin="26665388750t" end="26675398750t" region="region.after.center" style="style.default" xml:id="subtitle728">Подвинься, Чар.</p>
+<p begin="26693750416t" end="26705845832t" region="region.after.center" style="style.default" xml:id="subtitle729">Рад, что ты пришла.</p>
+<p begin="26706680000t" end="26732122082t" region="region.after.center" style="style.default" xml:id="subtitle730">Жаль, Кирстен не пришла, да, Бей?</p>
+<p begin="26732956250t" end="26745885832t" region="region.after.center" style="style.default" xml:id="subtitle731">Кирстен? Какая Кирстен?</p>
+<p begin="26747554166t" end="26765905832t" region="region.after.center" style="style.default" xml:id="subtitle732">-Наша новая няня.<br/>-Действительно?</p>
+<p begin="26767574166t" end="26782172082t" region="region.after.center" style="style.default" xml:id="subtitle733">-А где хлеб?<br/>-У него.</p>
+<p begin="26785508750t" end="26808031250t" region="region.after.center" style="style.default" xml:id="subtitle734">-Вы нашли кого-то?<br/>-Да. У нас новая няня.</p>
+<p begin="26809699582t" end="26824714582t" region="region.after.center" style="style.default" xml:id="subtitle735">Хочу хлеба. Вечно не даешь.</p>
+<p begin="26826382916t" end="26837227082t" region="region.after.center" style="style.default" xml:id="subtitle736">Хорошо. Он твой.</p>
+<p begin="26845568750t" end="26863086250t" region="region.after.center" style="style.default" xml:id="subtitle737">Гадость. Ты его уже кусал.</p>
+<p begin="26873096250t" end="26884774582t" region="region.after.center" style="style.default" xml:id="subtitle738">Какая она, эта Кирстен?</p>
+<p begin="26886442916t" end="26905211666t" region="region.after.center" style="style.default" xml:id="subtitle739">Она... большой профессионал.</p>
+<p begin="26908548332t" end="26920226666t" region="region.after.center" style="style.default" xml:id="subtitle740">Квалифицированная.</p>
+<p begin="26921894999t" end="26936492916t" region="region.after.center" style="style.default" xml:id="subtitle741">И еще та красотка, да?</p>
+<p begin="27293099166t" end="27303109166t" region="region.after.center" style="style.default" xml:id="subtitle742">Перевод субтитров:<br/>Борис Превир</p>
+</div>
+</body>
+</tt>
